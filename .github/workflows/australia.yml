@@ -1,0 +1,37 @@
+name: Fetch and Update Australia News
+
+on:
+  schedule:
+    # 6:00 AM EST = 11:00 UTC | 6:00 PM EST = 23:00 UTC
+    - cron: '0 11,23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper Script
+        run: python australia.py
+
+      - name: Commit and Push Updated News JSON
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "automotive: update australia_news.json"
+          file_pattern: "docs/australia_news.json"
+          branch: main
