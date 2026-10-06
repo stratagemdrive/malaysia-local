@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Sport : Teamwork Key To Harimau Malaya's Commendable Outing - Cheng Hoe",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615965",
+      "published_date": "2026-10-06T02:40:25.628110+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Gol Tierney julang Harimau Malaya raih tempat ketiga Piala Asean",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/05/gol-tierney-julang-harimau-malaya-raih-tempat-ketiga-piala-asean",
@@ -25,6 +32,34 @@
   "Military": [],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Business : Bahrain GP Boosts Q4 Services, Financial Impact Key To Assessing Permanent F1 Return -- Economists",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615945",
+      "published_date": "2026-10-06T02:40:25.630200+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Guardsquare Opens First APAC Office In Singapore",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615967",
+      "published_date": "2026-10-06T02:40:25.626482+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa opens higher on positive Wall Street momentum",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/bursa-opens-higher-on-positive-wall-street-momentum",
+      "published_date": "2026-10-06T01:45:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens slightly higher despite rising US rate expectations",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/ringgit-opens-slightly-higher-despite-rising-us-rate-expectations",
+      "published_date": "2026-10-06T00:42:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Economy Ministry Receives 9,955 New, Extension Project Proposals Amounting To RM944 Bln For 2027",
       "source": "BERNAMA",
@@ -62,6 +97,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Myanmar Nationals Undergo Rigorous Screening Before Repatriation - KDN",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615942",
+      "published_date": "2026-10-06T02:40:25.630560+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Haze: 21 Areas Record Unhealthy Air, Batu Pahat With Highest API",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615947",
+      "published_date": "2026-10-06T02:40:25.629857+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Five Technology Drivers Identified As Critical To Malaysia's Sovereignty - MOSTI",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615950",
+      "published_date": "2026-10-06T02:40:25.629504+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Features : School Assignment Sparks Young Wayang Kulit Prodigy's Passion",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2615962",
+      "published_date": "2026-10-06T02:40:25.628220+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : KPKT Media Excellence Awards 2026: Bernama Wins Six Awards",
       "source": "BERNAMA",
