@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "World : Chile Honours Two Malaysians For Contributions To Bilateral Ties",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616857",
+      "published_date": "2026-10-07T17:39:59.048203+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : Motac Launches ASEAN Artpreneur Retreat 2026, Empowers Creative Talent",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2616366",
@@ -53,6 +60,13 @@
   "Military": [],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Business : Government To Continue Legal Action, International Cooperation For Maximum 1MDB Asset Recovery",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616872",
+      "published_date": "2026-10-07T17:39:59.046312+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Negeri Sembilan Has Approved Investments Of RM41.5 Bln Until June 2026",
       "source": "BERNAMA",
@@ -140,6 +154,83 @@
   ],
   "Local Events": [
     {
+      "title": "Sport : Arctic Open: Zii Jia Moves Into Second Round",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616855",
+      "published_date": "2026-10-07T17:39:59.048695+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : FINAS To Study Residual Payment, Revenue-sharing Mechanism For Actors",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616856",
+      "published_date": "2026-10-07T17:39:59.048254+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : APHM Calls For Budget 2027 To Focus On Stronger Culture Of Health",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616858",
+      "published_date": "2026-10-07T17:39:59.047682+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027 Should Focus On Prevention, Healthier Choices - APHM",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616861",
+      "published_date": "2026-10-07T17:39:59.047157+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Pan Borneo Highway: KKR To Address Audit Findings, Improve Project Delivery - Nanta",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2616874",
+      "published_date": "2026-10-07T17:39:59.043713+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak state assembly could be dissolved in November, says minister",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/sarawak-state-assembly-could-be-dissolved-in-november-says-minister",
+      "published_date": "2026-10-07T16:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tidak tepat’, menteri sanggah unjuran LCS 1 oleh ketua audit negara",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/tidak-tepat-menteri-sanggah-unjuran-lcs-1-oleh-ketua-audit-negara",
+      "published_date": "2026-10-07T15:39:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Not true, minister says on A-G’s 2035 projection for LCS 1",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/not-true-minister-says-on-a-g-s-2035-projection-for-lcs-1",
+      "published_date": "2026-10-07T14:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greenpeace mahu tindakan terhadap firma Malaysia berkait jerebu",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/greenpeace-mahu-tindakan-terhadap-firma-malaysia-berkait-jerebu",
+      "published_date": "2026-10-07T14:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greenpeace seeks action against Malaysian firms over haze",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/greenpeace-seeks-action-against-malaysian-firms-over-haze",
+      "published_date": "2026-10-07T14:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minimum wage hike will also raise operating costs, property prices, says group",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/minimum-wage-hike-will-also-raise-operating-costs-property-prices-says-group",
+      "published_date": "2026-10-07T12:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : Government Funding Drives Local Creative Industry Growth - FINAS",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2616362",
@@ -200,83 +291,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/06/40-77-juta-kenderaan-berdaftar-di-malaysia-65-3-masih-aktif",
       "published_date": "2026-10-06T15:35:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "40.77mil registered vehicles in Malaysia, 65.3% active",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/06/40-77mil-registered-vehicles-in-malaysia-65-3-active",
-      "published_date": "2026-10-06T15:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dive group wants budget allocations for safety council, more licensed guides",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/06/dive-group-wants-budget-allocations-for-safety-council-more-licensed-guides",
-      "published_date": "2026-10-06T14:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5.0-magnitude quake strikes Sandakan’s waters",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/06/5-0-magnitude-quake-strikes-sandakan-s-waters",
-      "published_date": "2026-10-06T14:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GP Bahrain di litar Sepang angkat imej Malaysia, kata PM",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/06/gp-bahrain-di-litar-sepang-angkat-imej-malaysia-kata-pm",
-      "published_date": "2026-10-06T14:09:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysian among 13 nabbed over 521kg of meth seized in Laos",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/06/malaysian-among-13-nabbed-over-521kg-of-meth-seized-in-laos",
-      "published_date": "2026-10-06T12:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rampasan 521kg dadah di Laos, satu rakyat Malaysia antara 13 ditahan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/06/rampasan-521kg-dadah-di-laos-satu-rakyat-malaysia-antara-13-ditahan",
-      "published_date": "2026-10-06T12:15:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Myanmar Nationals Undergo Rigorous Screening Before Repatriation - KDN",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615942",
-      "published_date": "2026-10-06T02:40:25.630560+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Haze: 21 Areas Record Unhealthy Air, Batu Pahat With Highest API",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615947",
-      "published_date": "2026-10-06T02:40:25.629857+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Five Technology Drivers Identified As Critical To Malaysia's Sovereignty - MOSTI",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615950",
-      "published_date": "2026-10-06T02:40:25.629504+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Features : School Assignment Sparks Young Wayang Kulit Prodigy's Passion",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615962",
-      "published_date": "2026-10-06T02:40:25.628220+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : KPKT Media Excellence Awards 2026: Bernama Wins Six Awards",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615883",
-      "published_date": "2026-10-05T16:55:33.167065+00:00",
       "category": "Local Events"
     }
   ]
