@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ringgit eases vs US dollar, ends higher against Asean currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/08/ringgit-eases-versus-us-dollar-ends-higher-against-asean-currencies",
+      "published_date": "2026-10-08T10:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "When Harimau Malaya doesn’t feel like ours",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/08/when-harimau-malaya-doesn-t-feel-like-ours",
@@ -64,9 +71,31 @@
       "category": "Diplomacy"
     }
   ],
-  "Military": [],
+  "Military": [
+    {
+      "title": "National Service to begin in Sarawak in July 2028",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/national-service-to-begin-in-sarawak-in-july-2028",
+      "published_date": "2026-10-08T15:07:00+00:00",
+      "category": "Military"
+    }
+  ],
   "Energy": [],
   "Economy": [
+    {
+      "title": "General : 66th MTHQA: Nur Syakura Captivates Audience With Melodious Recitation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617371",
+      "published_date": "2026-10-08T17:42:10.474091+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Agri-commodity Disaster Fund Among Main Initiatives In Budget 2027 -- KPK",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617375",
+      "published_date": "2026-10-08T17:42:10.473664+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Orange Economy Has Potential To Drive Growth Of Creative Economy Sector - Fahmi",
       "source": "BERNAMA",
@@ -192,16 +221,79 @@
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/05/rayer-tuntut-siasatan-di-sebalik-pengendali-e-jamin-dapat-vista",
       "published_date": "2026-10-05T11:03:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Jelutong MP calls for probe into those behind e-Jamin operator Dapat Vista",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/05/jelutong-mp-calls-for-probe-into-those-behind-e-jamin-operator-dapat-vista",
-      "published_date": "2026-10-05T10:52:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : ATTR-CM Symptoms Often Mistaken For Ageing, Delaying Diagnosis For Years - Clinician",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617377",
+      "published_date": "2026-10-08T17:42:10.473281+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: KKDW Hopes Rural Development To Be Strengthened Holistically - Rubiah",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617380",
+      "published_date": "2026-10-08T17:42:10.472749+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Haze: Schools In Four States, KL, Putrajaya And Rompin Closed Tomorrow - Fadhlina",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617381",
+      "published_date": "2026-10-08T17:42:10.472363+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Borrowers Facing Difficulties To Settle PTPTN Loan Can Negotiate For Loan Restructuring - MoHE",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617386",
+      "published_date": "2026-10-08T17:42:10.471797+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Parliament: 13 of 17 Tabung Haji RCI Recommendations Implemented",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617388",
+      "published_date": "2026-10-08T17:42:10.469944+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerebu: Semua sekolah di 4 negeri, KL dan Putrajaya tutup",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/jerebu-semua-sekolah-di-4-negeri-kl-dan-putrajaya-tutup",
+      "published_date": "2026-10-08T14:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haze shuts schools in Selangor, Melaka, KL, Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/selangor-melaka-schools-to-close-tomorrow-over-worsening-haze",
+      "published_date": "2026-10-08T14:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sepang software fix to remain in place for Singapore GP if wet",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/sports/2026/10/08/sepang-software-fix-to-remain-in-place-for-singapore-if-wet",
+      "published_date": "2026-10-08T13:28:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kualiti udara: JAS lapor hasil pemantauan stesen, platform lain guna sumber, kaedah berbeza",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/kualiti-udara-jas-lapor-hasil-pemantauan-stesen-platform-lain-guna-sumber-berbeza",
+      "published_date": "2026-10-08T10:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "126 objections to Sarawak’s proposed electoral boundary changes",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/126-objections-to-sarawak-s-proposed-electoral-boundary-changes",
+      "published_date": "2026-10-08T10:46:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Medical Officers, AUKU Replacement Bill Among Dewan Rakyat Focus Today",
       "source": "BERNAMA",
@@ -270,76 +362,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/dun-sarawak-mungkin-bubar-november-kata-karim",
       "published_date": "2026-10-07T23:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Arctic Open: Zii Jia Moves Into Second Round",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616855",
-      "published_date": "2026-10-07T17:39:59.048695+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : FINAS To Study Residual Payment, Revenue-sharing Mechanism For Actors",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616856",
-      "published_date": "2026-10-07T17:39:59.048254+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : APHM Calls For Budget 2027 To Focus On Stronger Culture Of Health",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616858",
-      "published_date": "2026-10-07T17:39:59.047682+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027 Should Focus On Prevention, Healthier Choices - APHM",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616861",
-      "published_date": "2026-10-07T17:39:59.047157+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Pan Borneo Highway: KKR To Address Audit Findings, Improve Project Delivery - Nanta",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616874",
-      "published_date": "2026-10-07T17:39:59.043713+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak state assembly could be dissolved in November, says minister",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/sarawak-state-assembly-could-be-dissolved-in-november-says-minister",
-      "published_date": "2026-10-07T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tidak tepat’, menteri sanggah unjuran LCS 1 oleh ketua audit negara",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/tidak-tepat-menteri-sanggah-unjuran-lcs-1-oleh-ketua-audit-negara",
-      "published_date": "2026-10-07T15:39:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not true, minister says on A-G’s 2035 projection for LCS 1",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/not-true-minister-says-on-a-g-s-2035-projection-for-lcs-1",
-      "published_date": "2026-10-07T14:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greenpeace mahu tindakan terhadap firma Malaysia berkait jerebu",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/greenpeace-mahu-tindakan-terhadap-firma-malaysia-berkait-jerebu",
-      "published_date": "2026-10-07T14:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greenpeace seeks action against Malaysian firms over haze",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/greenpeace-seeks-action-against-malaysian-firms-over-haze",
-      "published_date": "2026-10-07T14:05:00+00:00",
       "category": "Local Events"
     }
   ]
