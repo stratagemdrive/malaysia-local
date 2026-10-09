@@ -94,8 +94,37 @@
       "category": "Military"
     }
   ],
-  "Energy": [],
+  "Energy": [
+    {
+      "title": "General : Budget 2027: PETRA Allocated RM5.33 Bln To Strengthen Water And Energy Infrastructure",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618016",
+      "published_date": "2026-10-09T17:17:25.916377+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Petronas boosts payments to Malaysia as oil prices surge",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/10/petronas-boosts-payments-to-malaysia-as-oil-prices-surge",
+      "published_date": "2026-10-09T16:10:12+00:00",
+      "category": "Energy"
+    }
+  ],
   "Economy": [
+    {
+      "title": "Business : TERAJU Hails Budget 2027 Measures To Drive Bumiputera Firms’ Growth",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618011",
+      "published_date": "2026-10-09T17:17:25.916952+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "General : Budget 2027: Strategic Investments, High-impact Projects To Strengthen State Development",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618047",
+      "published_date": "2026-10-09T17:17:25.912360+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bursa opens higher ahead of Budget 2027 announcement",
       "source": "Free Malaysia Today",
@@ -221,23 +250,79 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/ringgit-opens-slightly-higher-despite-rising-us-rate-expectations",
       "published_date": "2026-10-06T00:42:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Economy Ministry Receives 9,955 New, Extension Project Proposals Amounting To RM944 Bln For 2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615884",
-      "published_date": "2026-10-05T16:55:33.166789+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : RM2.55 Mln Paid From KWDA, KWPPL Without Valid Authority - Auditor-general's Report",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615888",
-      "published_date": "2026-10-05T16:55:33.165936+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Budget 2027: Cash Aid, Targeted Subsidies Crucial To Ease Living Costs - FOMCA",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618012",
+      "published_date": "2026-10-09T17:17:25.916593+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027 Bolsters Islamic Development, Religious Education, Personnel Welfare – JAKIM",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618022",
+      "published_date": "2026-10-09T17:17:25.915916+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: KPKT Receives RM6.355 Bln, Prioritises Housing And Public Facilities",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618023",
+      "published_date": "2026-10-09T17:17:25.915410+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MERCY Malaysia Expands Haze Emergency Response Nationwide",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618026",
+      "published_date": "2026-10-09T17:17:25.915055+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: JPJ Welcomes Amendment To Make Drunk, Drug-impaired Drivers Pay Compensation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618042",
+      "published_date": "2026-10-09T17:17:25.914652+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Implementation Of RM2,500 Starting Pay Should Not Affect Allowances, Employment Terms - ABIM",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618044",
+      "published_date": "2026-10-09T17:17:25.913765+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mercy Malaysia prepares haze emergency kits for distribution",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/mercy-malaysia-prepares-haze-emergency-kit-for-distribution",
+      "published_date": "2026-10-09T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak budget to be tabled at final state assembly meeting",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/sarawak-budget-to-be-tabled-at-final-state-assembly-meeting",
+      "published_date": "2026-10-09T15:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pharmacists need permanent posts too, says group",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/pharmacists-need-permanent-posts-too-says-group",
+      "published_date": "2026-10-09T14:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Contract doctors see ‘glimmer of hope’ in govt offer",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/contract-doctors-group-hails-permanent-posts-offer",
+      "published_date": "2026-10-09T13:53:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Features : PERKESO Expands Protection With LINDUNG 24 JAM",
       "source": "BERNAMA",
@@ -306,76 +391,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2617380",
       "published_date": "2026-10-08T17:42:10.472749+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Haze: Schools In Four States, KL, Putrajaya And Rompin Closed Tomorrow - Fadhlina",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617381",
-      "published_date": "2026-10-08T17:42:10.472363+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Borrowers Facing Difficulties To Settle PTPTN Loan Can Negotiate For Loan Restructuring - MoHE",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617386",
-      "published_date": "2026-10-08T17:42:10.471797+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Parliament: 13 of 17 Tabung Haji RCI Recommendations Implemented",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617388",
-      "published_date": "2026-10-08T17:42:10.469944+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jerebu: Semua sekolah di 4 negeri, KL dan Putrajaya tutup",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/jerebu-semua-sekolah-di-4-negeri-kl-dan-putrajaya-tutup",
-      "published_date": "2026-10-08T14:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haze shuts schools in Selangor, Melaka, KL, Putrajaya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/selangor-melaka-schools-to-close-tomorrow-over-worsening-haze",
-      "published_date": "2026-10-08T14:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sepang software fix to remain in place for Singapore GP if wet",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/sports/2026/10/08/sepang-software-fix-to-remain-in-place-for-singapore-if-wet",
-      "published_date": "2026-10-08T13:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kualiti udara: JAS lapor hasil pemantauan stesen, platform lain guna sumber, kaedah berbeza",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/kualiti-udara-jas-lapor-hasil-pemantauan-stesen-platform-lain-guna-sumber-berbeza",
-      "published_date": "2026-10-08T10:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "126 objections to Sarawak’s proposed electoral boundary changes",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/126-objections-to-sarawak-s-proposed-electoral-boundary-changes",
-      "published_date": "2026-10-08T10:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Medical Officers, AUKU Replacement Bill Among Dewan Rakyat Focus Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616876",
-      "published_date": "2026-10-08T02:28:19.306605+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : KPWKM Stresses Four Approaches To Address Domestic Violence - Lim Hui Ying",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616878",
-      "published_date": "2026-10-08T02:28:19.306290+00:00",
       "category": "Local Events"
     }
   ]
