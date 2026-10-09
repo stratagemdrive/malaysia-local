@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "World : Egypt President To Begin Two-Day State Visit To Malaysia",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617405",
+      "published_date": "2026-10-09T02:44:57.087106+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World : South Korea-Malaysia Trade Set To Exceed US$40 Bln In 2026",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617421",
+      "published_date": "2026-10-09T02:44:57.086379+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ringgit eases vs US dollar, ends higher against Asean currencies",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/08/ringgit-eases-versus-us-dollar-ends-higher-against-asean-currencies",
@@ -82,6 +96,20 @@
   ],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Bursa opens higher ahead of Budget 2027 announcement",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/bursa-opens-higher-ahead-of-budget-2027-announcement",
+      "published_date": "2026-10-09T01:41:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens marginally higher as Budget 2027 fiscal outlook in focus",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/ringgit-opens-marginally-higher-as-budget-2027-fiscal-outlook-in-focus",
+      "published_date": "2026-10-09T00:49:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : 66th MTHQA: Nur Syakura Captivates Audience With Melodious Recitation",
       "source": "BERNAMA",
@@ -207,23 +235,65 @@
       "url": "http://www.bernama.com/en/news.php?id=2615888",
       "published_date": "2026-10-05T16:55:33.165936+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Zetrix AI Submits Proposed Solution To Resolve RM314 Mln Outstanding Remittances",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615890",
-      "published_date": "2026-10-05T16:55:33.164421+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rayer tuntut siasatan di sebalik pengendali e-Jamin Dapat Vista",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/05/rayer-tuntut-siasatan-di-sebalik-pengendali-e-jamin-dapat-vista",
-      "published_date": "2026-10-05T11:03:14+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Features : PERKESO Expands Protection With LINDUNG 24 JAM",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617410",
+      "published_date": "2026-10-09T02:44:57.086813+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027 Aims To Ensure Progress Benefits All Malaysians - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617418",
+      "published_date": "2026-10-09T02:44:57.086475+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Unhealthy API In 37 Areas As At 9.30 Am",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2617430",
+      "published_date": "2026-10-09T02:44:57.084743+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Safeguarding Malaysia’s digital future through technology sovereignty",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/09/safeguarding-malaysia-s-digital-future-through-technology-sovereignty",
+      "published_date": "2026-10-09T01:42:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ganabatirau saman Firdaus Wong berkait hantaran ‘setia’",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/09/ganabatirau-saman-firdaus-wong-berkait-hantaran-setia",
+      "published_date": "2026-10-09T01:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ganabatirau sues Firdaus Wong over ‘loyalty’ posts",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/ganabatirau-sues-firdaus-wong-over-loyalty-posts",
+      "published_date": "2026-10-09T00:43:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian-born Cardiff college founder accused of £5mil embezzlement",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/malaysian-born-cardiff-college-founder-accused-of-5mil-embezzlement",
+      "published_date": "2026-10-08T23:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "He was entrusted with US$10mil in war-torn Bosnia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/09/he-was-entrusted-with-us-10mil-in-war-torn-bosnia",
+      "published_date": "2026-10-08T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : ATTR-CM Symptoms Often Mistaken For Ageing, Delaying Diagnosis For Years - Clinician",
       "source": "BERNAMA",
@@ -306,62 +376,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2616878",
       "published_date": "2026-10-08T02:28:19.306290+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Myanmar President Given Official Welcome At Perdana Putra",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616912",
-      "published_date": "2026-10-08T02:28:19.305128+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Features : Perak's Ageing Population Raises Concern Over 'Lone Deaths'",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616915",
-      "published_date": "2026-10-08T02:28:19.303352+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Primed for the chop: 9 films that didn’t make the cut in Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/08/primed-for-the-chop-9-films-that-didnt-make-the-cut-in-malaysia",
-      "published_date": "2026-10-08T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kepincangan pelan sang ‘Raja Formula’ Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/08/kepincangan-pelan-sang-raja-formula-malaysia",
-      "published_date": "2026-10-08T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What will it take to build a healthier Malaysia?",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/08/what-will-it-take-to-build-a-healthier-malaysia",
-      "published_date": "2026-10-08T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The flawed blueprints by Malaysia’s ‘King of Formulas’",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/08/the-flawed-blueprints-by-malaysia-s-king-of-formulas",
-      "published_date": "2026-10-08T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nanta vows improved delivery after audit findings on Sabah Pan Borneo Highway",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/nanta-vows-improved-delivery-after-audit-findings-on-sabah-pan-borneo-highway",
-      "published_date": "2026-10-07T23:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DUN Sarawak mungkin bubar November, kata Karim",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/08/dun-sarawak-mungkin-bubar-november-kata-karim",
-      "published_date": "2026-10-07T23:23:00+00:00",
       "category": "Local Events"
     }
   ]
