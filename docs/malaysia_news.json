@@ -106,23 +106,23 @@
       "title": "Petronas boosts payments to Malaysia as oil prices surge",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/10/petronas-boosts-payments-to-malaysia-as-oil-prices-surge",
-      "published_date": "2026-10-09T16:10:12+00:00",
+      "published_date": "2026-10-09T16:10:00+00:00",
       "category": "Energy"
     }
   ],
   "Economy": [
     {
+      "title": "General : Budget 2027: Strategic Investments, High-impact Projects To Strengthen State Development",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618047",
+      "published_date": "2026-10-10T02:02:56.434815+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Business : TERAJU Hails Budget 2027 Measures To Drive Bumiputera Firms’ Growth",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618011",
       "published_date": "2026-10-09T17:17:25.916952+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Budget 2027: Strategic Investments, High-impact Projects To Strengthen State Development",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618047",
-      "published_date": "2026-10-09T17:17:25.912360+00:00",
       "category": "Economy"
     },
     {
@@ -254,45 +254,73 @@
   ],
   "Local Events": [
     {
-      "title": "General : Budget 2027: Cash Aid, Targeted Subsidies Crucial To Ease Living Costs - FOMCA",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618012",
-      "published_date": "2026-10-09T17:17:25.916593+00:00",
-      "category": "Local Events"
-    },
-    {
       "title": "General : Budget 2027 Bolsters Islamic Development, Religious Education, Personnel Welfare – JAKIM",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618022",
-      "published_date": "2026-10-09T17:17:25.915916+00:00",
+      "published_date": "2026-10-10T02:02:56.437145+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : Budget 2027: KPKT Receives RM6.355 Bln, Prioritises Housing And Public Facilities",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618023",
-      "published_date": "2026-10-09T17:17:25.915410+00:00",
+      "published_date": "2026-10-10T02:02:56.436580+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : MERCY Malaysia Expands Haze Emergency Response Nationwide",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618026",
-      "published_date": "2026-10-09T17:17:25.915055+00:00",
+      "published_date": "2026-10-10T02:02:56.436180+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : Budget 2027: JPJ Welcomes Amendment To Make Drunk, Drug-impaired Drivers Pay Compensation",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618042",
-      "published_date": "2026-10-09T17:17:25.914652+00:00",
+      "published_date": "2026-10-10T02:02:56.435758+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : Implementation Of RM2,500 Starting Pay Should Not Affect Allowances, Employment Terms - ABIM",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618044",
-      "published_date": "2026-10-09T17:17:25.913765+00:00",
+      "published_date": "2026-10-10T02:02:56.435201+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Chief Judge Heads Sarawak Governor’s Birthday Honours List",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618050",
+      "published_date": "2026-10-10T02:02:56.434338+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Five Long Lellang Crash Victims Receive Sarawak Honours Posthumously",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618052",
+      "published_date": "2026-10-10T02:02:56.431780+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Borneo’s forests may still be hiding bugs unknown to science",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/borneos-forests-may-still-be-hiding-bugs-unknown-to-science",
+      "published_date": "2026-10-10T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hari Profesional Malaysia: Mendengar sahaja tak cukup",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/10/hari-profesional-malaysia-mendengar-sahaja-tak-cukup",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: Cash Aid, Targeted Subsidies Crucial To Ease Living Costs - FOMCA",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618012",
+      "published_date": "2026-10-09T17:17:25.916593+00:00",
       "category": "Local Events"
     },
     {
@@ -363,34 +391,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/ganabatirau-sues-firdaus-wong-over-loyalty-posts",
       "published_date": "2026-10-09T00:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysian-born Cardiff college founder accused of £5mil embezzlement",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/malaysian-born-cardiff-college-founder-accused-of-5mil-embezzlement",
-      "published_date": "2026-10-08T23:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He was entrusted with US$10mil in war-torn Bosnia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/09/he-was-entrusted-with-us-10mil-in-war-torn-bosnia",
-      "published_date": "2026-10-08T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : ATTR-CM Symptoms Often Mistaken For Ageing, Delaying Diagnosis For Years - Clinician",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617377",
-      "published_date": "2026-10-08T17:42:10.473281+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: KKDW Hopes Rural Development To Be Strengthened Holistically - Rubiah",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617380",
-      "published_date": "2026-10-08T17:42:10.472749+00:00",
       "category": "Local Events"
     }
   ]
