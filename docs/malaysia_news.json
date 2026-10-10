@@ -96,6 +96,13 @@
   ],
   "Energy": [
     {
+      "title": "Thai, Japanese investors keen on Sarawak petrochemical production",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/thai-japanese-investors-keen-on-sarawak-petrochemical-production",
+      "published_date": "2026-10-10T12:07:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "General : Budget 2027: PETRA Allocated RM5.33 Bln To Strengthen Water And Energy Infrastructure",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618016",
@@ -111,6 +118,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : Tax Relief Can Stimulate Domestic Spending – Economists",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618418",
+      "published_date": "2026-10-10T16:05:57.737740+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Budget 2027: Strategic Investments, High-impact Projects To Strengthen State Development",
       "source": "BERNAMA",
@@ -243,16 +257,51 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/bursa-opens-higher-on-positive-wall-street-momentum",
       "published_date": "2026-10-06T01:45:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens slightly higher despite rising US rate expectations",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/ringgit-opens-slightly-higher-despite-rising-us-rate-expectations",
-      "published_date": "2026-10-06T00:42:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sport : BAM Eyes RM30 Mln Matching Grant To Develop Back-Up Players",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618408",
+      "published_date": "2026-10-10T16:05:57.739471+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : UMK Bachok Mosque Holds First Friday Prayers After Nine Years",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618413",
+      "published_date": "2026-10-10T16:05:57.738997+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Malaysian Film Viewership Doubled To 14.83 Mln In 2025 - Teo",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618416",
+      "published_date": "2026-10-10T16:05:57.738528+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World : Haze: Malaysia, Indonesia Discuss Joint Solutions",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618417",
+      "published_date": "2026-10-10T16:05:57.738101+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : FFM35 At Istana Budaya Introduces New Judging Format",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618429",
+      "published_date": "2026-10-10T16:05:57.734974+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chef Wan reveals Kuching pioneer Ong is his great-grandfather",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/chef-wan-reveals-kuching-pioneer-ong-is-his-great-grandfather",
+      "published_date": "2026-10-10T12:48:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Budget 2027 Bolsters Islamic Development, Religious Education, Personnel Welfare – JAKIM",
       "source": "BERNAMA",
@@ -349,48 +398,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/contract-doctors-group-hails-permanent-posts-offer",
       "published_date": "2026-10-09T13:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Features : PERKESO Expands Protection With LINDUNG 24 JAM",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617410",
-      "published_date": "2026-10-09T02:44:57.086813+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027 Aims To Ensure Progress Benefits All Malaysians - Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617418",
-      "published_date": "2026-10-09T02:44:57.086475+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Unhealthy API In 37 Areas As At 9.30 Am",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617430",
-      "published_date": "2026-10-09T02:44:57.084743+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safeguarding Malaysia’s digital future through technology sovereignty",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/09/safeguarding-malaysia-s-digital-future-through-technology-sovereignty",
-      "published_date": "2026-10-09T01:42:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ganabatirau saman Firdaus Wong berkait hantaran ‘setia’",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/09/ganabatirau-saman-firdaus-wong-berkait-hantaran-setia",
-      "published_date": "2026-10-09T01:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ganabatirau sues Firdaus Wong over ‘loyalty’ posts",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/ganabatirau-sues-firdaus-wong-over-loyalty-posts",
-      "published_date": "2026-10-09T00:43:33+00:00",
       "category": "Local Events"
     }
   ]
