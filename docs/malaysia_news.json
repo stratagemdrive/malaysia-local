@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "General : Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618751",
+      "published_date": "2026-10-11T16:31:52.820051+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "World : Egypt President To Begin Two-Day State Visit To Malaysia",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2617405",
@@ -268,6 +275,90 @@
   ],
   "Local Events": [
     {
+      "title": "World : Deadly Riyadh Airport Attack Draws Global Condemnation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618728",
+      "published_date": "2026-10-11T16:31:52.820940+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : New Pair Aaron-Roy King Clinch Arctic Open Title",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618729",
+      "published_date": "2026-10-11T16:31:52.820617+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Youths Must Take The Lead Now, Not Just The Future - PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618744",
+      "published_date": "2026-10-11T16:31:52.820196+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618756",
+      "published_date": "2026-10-11T16:31:52.819560+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : PM Anwar Lauds U-17 Women's Football Squad's Fighting Spirit In Asian Cup Qualifiers",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618758",
+      "published_date": "2026-10-11T16:31:52.817684+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terbuka Artik 2026: Aaron-Roy King raih gelaran pertama",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/11/terbuka-artik-2026-aaron-roy-king-raih-gelaran-pertama",
+      "published_date": "2026-10-11T14:35:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia still mum on Malaysia’s offer of firefighters, says Zahid",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/indonesia-still-mum-on-malaysia-s-offer-of-firefighters-says-zahid",
+      "published_date": "2026-10-11T13:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "200,000 expected at Sepang for MotoGP sensation Hakim’s home debut",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/200-000-expected-at-sepang-for-motogp-sensation-hakim-s-home-debut",
+      "published_date": "2026-10-11T12:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefly batal penerbangan Subang-Seletar akibat jerebu",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/11/firefly-batal-penerbangan-subang-seletar-akibat-jerebu",
+      "published_date": "2026-10-11T09:25:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekolah di Johor, 4 PPD Selangor ditutup esok akibat jerebu",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/11/sekolah-di-johor-4-ppd-selangor-ditutup-esok-akibat-jerebu",
+      "published_date": "2026-10-11T08:50:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefly cancels Subang-Seletar flights over haze concerns",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/firefly-cancels-subang-seletar-flights-over-haze-concerns",
+      "published_date": "2026-10-11T08:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schools to reopen tomorrow, except for Johor, and some in KL and Selangor",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/schools-to-reopen-in-4-states-putrajaya-and-parts-of-kl",
+      "published_date": "2026-10-11T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : FFM35 At Istana Budaya Introduces New Judging Format",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618429",
@@ -321,90 +412,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618416",
       "published_date": "2026-10-10T16:05:57.738528+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World : Haze: Malaysia, Indonesia Discuss Joint Solutions",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618417",
-      "published_date": "2026-10-10T16:05:57.738101+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MCMC probes ‘Lim Sian See’ over post on budget speech",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/mcma-probes-lim-sian-see-over-post-on-budget-speech",
-      "published_date": "2026-10-10T16:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zii Jia goes down fighting to Antonsen at Arctic Open semis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/zii-jia-goes-down-fighting-to-antonsen-at-arctic-open-semis",
-      "published_date": "2026-10-10T15:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chef Wan reveals Kuching pioneer Ong is his great-grandfather",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/chef-wan-reveals-kuching-pioneer-ong-is-his-great-grandfather",
-      "published_date": "2026-10-10T12:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027 Bolsters Islamic Development, Religious Education, Personnel Welfare – JAKIM",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618022",
-      "published_date": "2026-10-10T02:02:56.437145+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: KPKT Receives RM6.355 Bln, Prioritises Housing And Public Facilities",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618023",
-      "published_date": "2026-10-10T02:02:56.436580+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MERCY Malaysia Expands Haze Emergency Response Nationwide",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618026",
-      "published_date": "2026-10-10T02:02:56.436180+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: JPJ Welcomes Amendment To Make Drunk, Drug-impaired Drivers Pay Compensation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618042",
-      "published_date": "2026-10-10T02:02:56.435758+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Implementation Of RM2,500 Starting Pay Should Not Affect Allowances, Employment Terms - ABIM",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618044",
-      "published_date": "2026-10-10T02:02:56.435201+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Chief Judge Heads Sarawak Governor’s Birthday Honours List",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618050",
-      "published_date": "2026-10-10T02:02:56.434338+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Five Long Lellang Crash Victims Receive Sarawak Honours Posthumously",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618052",
-      "published_date": "2026-10-10T02:02:56.431780+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Borneo’s forests may still be hiding bugs unknown to science",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/borneos-forests-may-still-be-hiding-bugs-unknown-to-science",
-      "published_date": "2026-10-10T00:00:00+00:00",
       "category": "Local Events"
     }
   ]
