@@ -87,6 +87,13 @@
   ],
   "Military": [
     {
+      "title": "General : Operational Readiness Key To Effective Defence, Security Spending - Expert",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618459",
+      "published_date": "2026-10-11T01:32:26.768561+00:00",
+      "category": "Military"
+    },
+    {
       "title": "National Service to begin in Sarawak in July 2028",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/national-service-to-begin-in-sarawak-in-july-2028",
@@ -118,6 +125,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Banning ‘Primetime’ sabotages Malaysia’s creative economy",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/11/banning-primetime-sabotages-malaysia-s-creative-economy",
+      "published_date": "2026-10-11T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pet owners could soon get a little help during tax season",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/11/pet-owners-could-soon-get-a-little-help-during-tax-season",
+      "published_date": "2026-10-10T23:45:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Tax Relief Can Stimulate Domestic Spending – Economists",
       "source": "BERNAMA",
@@ -243,23 +264,44 @@
       "url": "http://www.bernama.com/en/news.php?id=2615945",
       "published_date": "2026-10-06T02:40:25.630200+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Guardsquare Opens First APAC Office In Singapore",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615967",
-      "published_date": "2026-10-06T02:40:25.626482+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa opens higher on positive Wall Street momentum",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/06/bursa-opens-higher-on-positive-wall-street-momentum",
-      "published_date": "2026-10-06T01:45:38+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : FFM35 At Istana Budaya Introduces New Judging Format",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618429",
+      "published_date": "2026-10-11T01:32:26.771902+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : World Junior Team Championships: M'sia Put Up Brave Fight, Settle For Silver Behind China",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618431",
+      "published_date": "2026-10-11T01:32:26.771310+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : FRIM, IIUM Braille Book Opens Doors For Visually Impaired To Explore Endangered Forest Trees",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618457",
+      "published_date": "2026-10-11T01:32:26.769273+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Bahrain GP success, Sepang has more vroom to grow",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/11/after-bahrain-gp-success-sepang-has-more-vroom-to-grow",
+      "published_date": "2026-10-11T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young, determined and making Malaysia proud",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/11/young-determined-and-making-malaysia-proud",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sport : BAM Eyes RM30 Mln Matching Grant To Develop Back-Up Players",
       "source": "BERNAMA",
@@ -289,10 +331,17 @@
       "category": "Local Events"
     },
     {
-      "title": "General : FFM35 At Istana Budaya Introduces New Judging Format",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618429",
-      "published_date": "2026-10-10T16:05:57.734974+00:00",
+      "title": "MCMC probes ‘Lim Sian See’ over post on budget speech",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/11/mcma-probes-lim-sian-see-over-post-on-budget-speech",
+      "published_date": "2026-10-10T16:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zii Jia goes down fighting to Antonsen at Arctic Open semis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/zii-jia-goes-down-fighting-to-antonsen-at-arctic-open-semis",
+      "published_date": "2026-10-10T15:38:00+00:00",
       "category": "Local Events"
     },
     {
@@ -356,48 +405,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/10/borneos-forests-may-still-be-hiding-bugs-unknown-to-science",
       "published_date": "2026-10-10T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hari Profesional Malaysia: Mendengar sahaja tak cukup",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/10/hari-profesional-malaysia-mendengar-sahaja-tak-cukup",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: Cash Aid, Targeted Subsidies Crucial To Ease Living Costs - FOMCA",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618012",
-      "published_date": "2026-10-09T17:17:25.916593+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mercy Malaysia prepares haze emergency kits for distribution",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/mercy-malaysia-prepares-haze-emergency-kit-for-distribution",
-      "published_date": "2026-10-09T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak budget to be tabled at final state assembly meeting",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/sarawak-budget-to-be-tabled-at-final-state-assembly-meeting",
-      "published_date": "2026-10-09T15:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pharmacists need permanent posts too, says group",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/pharmacists-need-permanent-posts-too-says-group",
-      "published_date": "2026-10-09T14:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Contract doctors see ‘glimmer of hope’ in govt offer",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/09/contract-doctors-group-hails-permanent-posts-offer",
-      "published_date": "2026-10-09T13:53:00+00:00",
       "category": "Local Events"
     }
   ]
