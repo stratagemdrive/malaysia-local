@@ -4,7 +4,7 @@
       "title": "General : Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618751",
-      "published_date": "2026-10-11T16:31:52.820051+00:00",
+      "published_date": "2026-10-12T02:02:06.512250+00:00",
       "category": "Diplomacy"
     },
     {
@@ -94,6 +94,13 @@
   ],
   "Military": [
     {
+      "title": "General : Agong Grants Audience To MAF Assistant Chief Of Staff For Personnel Services",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618779",
+      "published_date": "2026-10-12T02:02:06.509234+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : Operational Readiness Key To Effective Defence, Security Spending - Expert",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618459",
@@ -132,6 +139,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Ringgit opens higher vs US dollar on fiscal discipline pledge",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/ringgit-opens-higher-vs-us-dollar-on-fiscal-discipline-pledge",
+      "published_date": "2026-10-12T00:31:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Banning ‘Primetime’ sabotages Malaysia’s creative economy",
       "source": "Free Malaysia Today",
@@ -264,16 +278,51 @@
       "url": "http://www.bernama.com/en/news.php?id=2616354",
       "published_date": "2026-10-06T17:02:08.709356+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Bahrain GP Boosts Q4 Services, Financial Impact Key To Assessing Permanent F1 Return -- Economists",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615945",
-      "published_date": "2026-10-06T02:40:25.630200+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sport : Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618756",
+      "published_date": "2026-10-12T02:02:06.511901+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : PM Anwar Lauds U-17 Women's Football Squad's Fighting Spirit In Asian Cup Qualifiers",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618758",
+      "published_date": "2026-10-12T02:02:06.511557+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : FA Cup: DPMM, Selangor Book Tickets To FA Cup Semifinals",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618760",
+      "published_date": "2026-10-12T02:02:06.511264+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Healthcare Access Gap, Budget 2027 Debate Among Dewan Rakyat Focus Today",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618765",
+      "published_date": "2026-10-12T02:02:06.510862+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Nearly RM69 Bln Education Allocation To Bridge Infrastructure Gap, Boost Welfare",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2618774",
+      "published_date": "2026-10-12T02:02:06.509852+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Built in Malaysia, used by the world: our hidden crypto giants",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/12/built-in-malaysia-used-by-the-world-our-hidden-crypto-giants",
+      "published_date": "2026-10-12T00:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "World : Deadly Riyadh Airport Attack Draws Global Condemnation",
       "source": "BERNAMA",
@@ -293,20 +342,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618744",
       "published_date": "2026-10-11T16:31:52.820196+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618756",
-      "published_date": "2026-10-11T16:31:52.819560+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : PM Anwar Lauds U-17 Women's Football Squad's Fighting Spirit In Asian Cup Qualifiers",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618758",
-      "published_date": "2026-10-11T16:31:52.817684+00:00",
       "category": "Local Events"
     },
     {
@@ -384,34 +419,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/11/after-bahrain-gp-success-sepang-has-more-vroom-to-grow",
       "published_date": "2026-10-11T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young, determined and making Malaysia proud",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/11/young-determined-and-making-malaysia-proud",
-      "published_date": "2026-10-10T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : BAM Eyes RM30 Mln Matching Grant To Develop Back-Up Players",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618408",
-      "published_date": "2026-10-10T16:05:57.739471+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : UMK Bachok Mosque Holds First Friday Prayers After Nine Years",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618413",
-      "published_date": "2026-10-10T16:05:57.738997+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Malaysian Film Viewership Doubled To 14.83 Mln In 2025 - Teo",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618416",
-      "published_date": "2026-10-10T16:05:57.738528+00:00",
       "category": "Local Events"
     }
   ]
