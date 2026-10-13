@@ -126,6 +126,13 @@
   ],
   "Economy": [
     {
+      "title": "Malaysia targets 250,000 international students by 2030",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/malaysia-targets-250-000-international-students-by-2030",
+      "published_date": "2026-10-13T13:44:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Business : Global Economy To Decelerate To 3.1 Pct In 2026 Before Recovering To 3.4 Pct In 2027 - IMF",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2619385",
@@ -257,16 +264,37 @@
       "url": "http://www.bernama.com/en/news.php?id=2617375",
       "published_date": "2026-10-08T17:42:10.473664+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "General : Orange Economy Has Potential To Drive Growth Of Creative Economy Sector - Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616880",
-      "published_date": "2026-10-08T02:28:19.306018+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Pemegang UEC tak disyarat kuasai BM belajar percuma di Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pemegang-uec-tak-disyarat-kuasai-bm-belajar-percuma-di-sarawak",
+      "published_date": "2026-10-13T15:57:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boycott firms linked to transboundary haze, says Syed Saddiq",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/boycott-firms-linked-to-transboundary-haze-says-syed-saddiq",
+      "published_date": "2026-10-13T10:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wujud SOP mohon warganegara anak dewasa, KDN diberitahu",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/wujud-sop-mohon-warganegara-anak-dewasa-kdn-diberitahu",
+      "published_date": "2026-10-13T10:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabah dapat RM18.7 bilion, tapi berapa peruntukan baharu sebenar, soal Ahli Parlimen",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/sabah-dapat-rm18-7-bilion-tapi-berapa-peruntukan-baharu-sebenar-soal-ahli-parlimen",
+      "published_date": "2026-10-13T10:44:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Prasarana Ramps Up Efforts To Improve LRT Reliability",
       "source": "BERNAMA",
@@ -377,34 +405,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2619320",
       "published_date": "2026-10-12T20:06:12.976435+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia will not declare forest fires a national disaster for now",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/12/indonesia-will-not-declare-forest-fires-a-national-disaster-for-now",
-      "published_date": "2026-10-12T14:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak kerjasama rapat dengan kerajaan pusat tetap rangka kerja SEZ",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/12/sarawak-kerjasama-rapat-dengan-kerajaan-pusat-tetap-rangka-kerja-sez",
-      "published_date": "2026-10-12T12:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unhealthy air quality continues in Johor, Negeri Sembilan, Melaka",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/12/unhealthy-air-quality-continues-in-johor-negeri-sembilan-melaka",
-      "published_date": "2026-10-12T12:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabah imbangi pembangunan ekonomi, perlindungan alam sekitar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/12/sabah-imbangi-pembangunan-ekonomi-perlindungan-alam-sekitar",
-      "published_date": "2026-10-12T11:47:00+00:00",
       "category": "Local Events"
     }
   ]
