@@ -62,16 +62,16 @@
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/perolehan-ubat-bersama-boleh-kurangkan-kos-asean-kukuhkan-bekalan-kata-pakar",
       "published_date": "2026-10-07T00:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Sport : Teamwork Key To Harimau Malaya's Commendable Outing - Cheng Hoe",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2615965",
-      "published_date": "2026-10-06T02:40:25.628110+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "General : LTAT, Group Companies Contribute RM420,000 To Tabung Pahlawan Campaign",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619360",
+      "published_date": "2026-10-13T03:20:33.549898+00:00",
+      "category": "Military"
+    },
     {
       "title": "General : Agong Grants Audience To MAF Assistant Chief Of Staff For Personnel Services",
       "source": "BERNAMA",
@@ -96,6 +96,13 @@
   ],
   "Energy": [
     {
+      "title": "Bursa opens lower as geopolitical risks, oil prices weigh on sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/bursa-opens-lower-as-geopolitical-risks-oil-prices-weigh-on-sentiment",
+      "published_date": "2026-10-13T01:40:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Thai, Japanese investors keen on Sarawak petrochemical production",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/thai-japanese-investors-keen-on-sarawak-petrochemical-production",
@@ -118,6 +125,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Global Economy To Decelerate To 3.1 Pct In 2026 Before Recovering To 3.4 Pct In 2027 - IMF",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619385",
+      "published_date": "2026-10-13T03:20:33.547691+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Budget 2027 optimism lifts ringgit despite external headwinds",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/budget-2027-optimism-lifts-ringgit-despite-external-headwinds",
+      "published_date": "2026-10-13T00:55:48+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Eight Of Malaysia’s Nine Anti-dumping Measures Cover Iron, Steel Products - MITI",
       "source": "BERNAMA",
@@ -243,23 +264,86 @@
       "url": "http://www.bernama.com/en/news.php?id=2616880",
       "published_date": "2026-10-08T02:28:19.306018+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Infusing Phenomenal Success Of Formula One Into Budget 2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616887",
-      "published_date": "2026-10-08T02:28:19.305629+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bersama’s budget proposal is a breath of fresh air",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/08/bersama-s-budget-proposal-is-a-breath-of-fresh-air",
-      "published_date": "2026-10-08T02:04:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Prasarana Ramps Up Efforts To Improve LRT Reliability",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619371",
+      "published_date": "2026-10-13T03:20:33.549402+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MAFE To Engage State Governments On Entertainment Duty Exemptions",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619382",
+      "published_date": "2026-10-13T03:20:33.548588+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Noraizat Dealt Double Blow As ACL Injury Rules Him Out Six To Seven Months",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619383",
+      "published_date": "2026-10-13T03:20:33.548066+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Haze: 20 Areas Record Unhealthy Air Quality, Eight In Johor",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619393",
+      "published_date": "2026-10-13T03:20:33.547215+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: RM935 Mln Allocation To Further Drive Tourism Growth",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619401",
+      "published_date": "2026-10-13T03:20:33.544985+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "19 kawasan catat IPU tak sihat, Sabah dan Sarawak kembali terjejas",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/19-kawasan-catat-ipu-tak-sihat-sabah-dan-sarawak-kembali-terjejas",
+      "published_date": "2026-10-13T00:43:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unhealthy air quality in 19 areas including Sabah, Sarawak again",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/unhealthy-air-quality-in-19-areas-including-sabah-sarawak-again",
+      "published_date": "2026-10-13T00:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 factors Putrajaya must consider for new JB transit line",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/three-factors-putrajaya-must-consider-for-new-jb-transit-line",
+      "published_date": "2026-10-12T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakar gesa Putrajaya teliti 3 aspek pelaksanaan e-ART di JB",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pakar-gesa-putrajaya-teliti-3-aspek-pelaksanaan-e-art-di-jb",
+      "published_date": "2026-10-12T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 rakyat Malaysia ditahan di Jepun seludup 5kg kokain dalam kasut",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/5-rakyat-malaysia-ditahan-di-jepun-seludup-5kg-kokain-dalam-kasut",
+      "published_date": "2026-10-12T23:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who put Karim forward for Malaysia Athletics’ Asian Games card?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/13/who-put-karim-forward-for-malaysia-athletics-asian-games-card",
+      "published_date": "2026-10-12T23:15:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : 50,000 Hawkers, Small Traders Expected For HPPK 2026",
       "source": "BERNAMA",
@@ -321,83 +405,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/12/sabah-imbangi-pembangunan-ekonomi-perlindungan-alam-sekitar",
       "published_date": "2026-10-12T11:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaji mula RM2,500 cenderung kekang majikan ambil graduan, kata kumpulan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/12/gaji-mula-rm2-500-cenderung-kekang-majikan-ambil-graduan-kata-kumpulan",
-      "published_date": "2026-10-12T10:06:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Malaysia U-17 Women's Asian Cup Qualifying Hopes Dashed After Losing 4-0 To India",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618756",
-      "published_date": "2026-10-12T02:02:06.511901+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : PM Anwar Lauds U-17 Women's Football Squad's Fighting Spirit In Asian Cup Qualifiers",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618758",
-      "published_date": "2026-10-12T02:02:06.511557+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : FA Cup: DPMM, Selangor Book Tickets To FA Cup Semifinals",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618760",
-      "published_date": "2026-10-12T02:02:06.511264+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Healthcare Access Gap, Budget 2027 Debate Among Dewan Rakyat Focus Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618765",
-      "published_date": "2026-10-12T02:02:06.510862+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Nearly RM69 Bln Education Allocation To Bridge Infrastructure Gap, Boost Welfare",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618774",
-      "published_date": "2026-10-12T02:02:06.509852+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Built in Malaysia, used by the world: our hidden crypto giants",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/12/built-in-malaysia-used-by-the-world-our-hidden-crypto-giants",
-      "published_date": "2026-10-12T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World : Deadly Riyadh Airport Attack Draws Global Condemnation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618728",
-      "published_date": "2026-10-11T16:31:52.820940+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : New Pair Aaron-Roy King Clinch Arctic Open Title",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618729",
-      "published_date": "2026-10-11T16:31:52.820617+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Youths Must Take The Lead Now, Not Just The Future - PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618744",
-      "published_date": "2026-10-11T16:31:52.820196+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terbuka Artik 2026: Aaron-Roy King raih gelaran pertama",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/11/terbuka-artik-2026-aaron-roy-king-raih-gelaran-pertama",
-      "published_date": "2026-10-11T14:35:16+00:00",
       "category": "Local Events"
     }
   ]
