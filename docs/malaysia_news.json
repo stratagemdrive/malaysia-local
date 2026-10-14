@@ -48,20 +48,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2616366",
       "published_date": "2026-10-07T02:03:14.557600+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pool purchasing to cut Asean’s medicine costs, strengthen supply, says expert",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/07/pool-purchasing-to-cut-asean-s-medicine-costs-strengthen-supply-says-expert",
-      "published_date": "2026-10-07T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Perolehan ubat bersama boleh kurangkan kos Asean, kukuhkan bekalan, kata pakar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/07/perolehan-ubat-bersama-boleh-kurangkan-kos-asean-kukuhkan-bekalan-kata-pakar",
-      "published_date": "2026-10-07T00:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -125,6 +111,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Technology, Business Scaling Support Productivity, Wage Growth -- Akmal Nasrullah",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619932",
+      "published_date": "2026-10-14T01:34:43.145634+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Budget 2027: Six States Allocated RM21.26 Bln In Development Expenditure – Akmal Nasrullah",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619937",
+      "published_date": "2026-10-14T01:34:43.145012+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens marginally higher on weaker US dollar index",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/ringgit-opens-marginally-higher-on-weaker-us-dollar-index",
+      "published_date": "2026-10-14T00:36:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Malaysia targets 250,000 international students by 2030",
       "source": "Free Malaysia Today",
@@ -243,30 +250,58 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/bursa-opens-higher-ahead-of-budget-2027-announcement",
       "published_date": "2026-10-09T01:41:12+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens marginally higher as Budget 2027 fiscal outlook in focus",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/ringgit-opens-marginally-higher-as-budget-2027-fiscal-outlook-in-focus",
-      "published_date": "2026-10-09T00:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : 66th MTHQA: Nur Syakura Captivates Audience With Melodious Recitation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617371",
-      "published_date": "2026-10-08T17:42:10.474091+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Agri-commodity Disaster Fund Among Main Initiatives In Budget 2027 -- KPK",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617375",
-      "published_date": "2026-10-08T17:42:10.473664+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : 'Sumud Protocol' To Strengthen Palestinian Liberation Movement - MAPIM",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619935",
+      "published_date": "2026-10-14T01:34:43.145321+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Alibaba Licences, Gaza And Troubled Housing Project Among Parliament's Focus",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2619958",
+      "published_date": "2026-10-14T01:34:43.143660+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "M’sian couple in Adelaide find F&B success with MalayaLane",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/14/msian-couple-in-adelaide-find-fb-success-with-malayalane",
+      "published_date": "2026-10-14T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MDDB’s 400 dogs face an uncertain future as funds dry up",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/14/mddbs-400-dogs-face-an-uncertain-future-as-funds-dry-up",
+      "published_date": "2026-10-14T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sepang gridlock reflects Malaysia’s wider transport problem",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/14/sepang-gridlock-reflects-malaysia-s-wider-transport-problem",
+      "published_date": "2026-10-13T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reunited Aaron-Wooi Yik clear 1st round at Denmark Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/reunited-aaron-wooi-yik-clear-1st-round-at-denmark-open",
+      "published_date": "2026-10-13T23:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karim’s daughter submitted Asian Games accreditation application",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/karim-s-daughter-submitted-asian-games-accreditation-application",
+      "published_date": "2026-10-13T23:15:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pemegang UEC tak disyarat kuasai BM belajar percuma di Sarawak",
       "source": "Free Malaysia Today",
@@ -356,55 +391,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pakar-gesa-putrajaya-teliti-3-aspek-pelaksanaan-e-art-di-jb",
       "published_date": "2026-10-12T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 rakyat Malaysia ditahan di Jepun seludup 5kg kokain dalam kasut",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/5-rakyat-malaysia-ditahan-di-jepun-seludup-5kg-kokain-dalam-kasut",
-      "published_date": "2026-10-12T23:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who put Karim forward for Malaysia Athletics’ Asian Games card?",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/13/who-put-karim-forward-for-malaysia-athletics-asian-games-card",
-      "published_date": "2026-10-12T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 50,000 Hawkers, Small Traders Expected For HPPK 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619298",
-      "published_date": "2026-10-12T20:06:12.979906+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Dominos’s Malaysia Brings Steak Cravings To Pizza With New Cheese And Steak Range",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619300",
-      "published_date": "2026-10-12T20:06:12.979317+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MPFN Mandates Assessment of Sinkhole-prone Areas Prior To Development Approval - KPKT",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619303",
-      "published_date": "2026-10-12T20:06:12.978824+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Fuel Subsidy, Education And Public Welfare Among Issues Raised On First Day Of Supply Bill 2027 Debate",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619311",
-      "published_date": "2026-10-12T20:06:12.977820+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Man Feared Drowned In Sg Chuah, SAR Operation To Resume Tomorrow",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619320",
-      "published_date": "2026-10-12T20:06:12.976435+00:00",
       "category": "Local Events"
     }
   ]
