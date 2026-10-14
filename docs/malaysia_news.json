@@ -41,13 +41,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2616857",
       "published_date": "2026-10-07T17:39:59.048203+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : Motac Launches ASEAN Artpreneur Retreat 2026, Empowers Creative Talent",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616366",
-      "published_date": "2026-10-07T02:03:14.557600+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -111,6 +104,41 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Businesses Must Account For Nature, Long-term Impact -  WEF's Hoffmann",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620492",
+      "published_date": "2026-10-14T15:41:37.390530+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : DCTF Approved 27 Data Centre Projects, With Estimated Investment Of RM225.97 Bln",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620497",
+      "published_date": "2026-10-14T15:41:37.390080+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Malaysia lacks clear plan to capture AI economy, says Shahril",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/malaysia-lacks-clear-plan-to-capture-ai-economy-says-shahril",
+      "published_date": "2026-10-14T12:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit closes higher on improved risk appetite",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/ringgit-closes-higher-on-improved-risk-appetite",
+      "published_date": "2026-10-14T11:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa extends winning streak to 4 days as bargain hunting continues",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/bursa-extends-winning-streak-to-4-days-as-bargain-hunting-continues",
+      "published_date": "2026-10-14T09:52:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Technology, Business Scaling Support Productivity, Wage Growth -- Akmal Nasrullah",
       "source": "BERNAMA",
@@ -215,44 +243,93 @@
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/11/banning-primetime-sabotages-malaysia-s-creative-economy",
       "published_date": "2026-10-11T00:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Pet owners could soon get a little help during tax season",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/11/pet-owners-could-soon-get-a-little-help-during-tax-season",
-      "published_date": "2026-10-10T23:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Tax Relief Can Stimulate Domestic Spending – Economists",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618418",
-      "published_date": "2026-10-10T16:05:57.737740+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Budget 2027: Strategic Investments, High-impact Projects To Strengthen State Development",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618047",
-      "published_date": "2026-10-10T02:02:56.434815+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : TERAJU Hails Budget 2027 Measures To Drive Bumiputera Firms’ Growth",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618011",
-      "published_date": "2026-10-09T17:17:25.916952+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa opens higher ahead of Budget 2027 announcement",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/09/bursa-opens-higher-ahead-of-budget-2027-announcement",
-      "published_date": "2026-10-09T01:41:12+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Muslims Urged To Perform Solat Hajat In Federal Territories Amid Haze",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620488",
+      "published_date": "2026-10-14T15:41:37.391098+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : SSJF Cup 3.0 A Platform To Unearth Young Silat Talents",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620498",
+      "published_date": "2026-10-14T15:41:37.389491+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 1,601 Nominations For 2026 Seri Angkasa Award",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620499",
+      "published_date": "2026-10-14T15:41:37.389093+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Melaka Polls: PH Candidate List Discussions More Than 95 Per Cent Complete - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620506",
+      "published_date": "2026-10-14T15:41:37.388508+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : RON97, Unsubsidised RON95 Down 5 Sen, Diesel Down 10 Sen From Oct 15",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620510",
+      "published_date": "2026-10-14T15:41:37.385470+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerebu: KJ tuntut kerajaan tegas dengan Indonesia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/jerebu-kj-tuntut-kerajaan-tegas-dengan-indonesia",
+      "published_date": "2026-10-14T13:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KJ wants govt to take firmer stance with Indonesia over haze",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/kj-wants-govt-to-take-firmer-stance-with-indonesia-over-haze",
+      "published_date": "2026-10-14T13:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia tiada rancangan jelas manfaat ekonomi AI, kata Shahril",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/malaysia-tiada-rancangan-jelas-manfaat-ekonomi-ai-kata-shahril",
+      "published_date": "2026-10-14T13:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tuanku Muhriz officially proclaims Azrin Khairi as 17th undang Luak Jelebu",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/tuanku-muhriz-officially-proclaims-azrin-khairi-as-17th-undang-luak-jelebu",
+      "published_date": "2026-10-14T10:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ekonomi Sabah berkembang 5.1%, KDNK cecah RM88.8 billion",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/ekonomi-sabah-berkembang-5-1-kdnk-cecah-rm88-8-billion",
+      "published_date": "2026-10-14T10:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penduduk gesa batal projek 17,000 rumah di Bukit Jalil",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/penduduk-gesa-batal-projek-17-000-rumah-di-bukit-jalil",
+      "published_date": "2026-10-14T10:12:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents want ‘mega’ govt housing project in Bukit Jalil scrapped",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/residents-want-mega-govt-housing-project-in-bukit-jalil-scrapped",
+      "published_date": "2026-10-14T09:41:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : 'Sumud Protocol' To Strengthen Palestinian Liberation Movement - MAPIM",
       "source": "BERNAMA",
@@ -307,90 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pemegang-uec-tak-disyarat-kuasai-bm-belajar-percuma-di-sarawak",
       "published_date": "2026-10-13T15:57:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boycott firms linked to transboundary haze, says Syed Saddiq",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/boycott-firms-linked-to-transboundary-haze-says-syed-saddiq",
-      "published_date": "2026-10-13T10:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wujud SOP mohon warganegara anak dewasa, KDN diberitahu",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/wujud-sop-mohon-warganegara-anak-dewasa-kdn-diberitahu",
-      "published_date": "2026-10-13T10:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabah dapat RM18.7 bilion, tapi berapa peruntukan baharu sebenar, soal Ahli Parlimen",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/sabah-dapat-rm18-7-bilion-tapi-berapa-peruntukan-baharu-sebenar-soal-ahli-parlimen",
-      "published_date": "2026-10-13T10:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Prasarana Ramps Up Efforts To Improve LRT Reliability",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619371",
-      "published_date": "2026-10-13T03:20:33.549402+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MAFE To Engage State Governments On Entertainment Duty Exemptions",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619382",
-      "published_date": "2026-10-13T03:20:33.548588+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Noraizat Dealt Double Blow As ACL Injury Rules Him Out Six To Seven Months",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619383",
-      "published_date": "2026-10-13T03:20:33.548066+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Haze: 20 Areas Record Unhealthy Air Quality, Eight In Johor",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619393",
-      "published_date": "2026-10-13T03:20:33.547215+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: RM935 Mln Allocation To Further Drive Tourism Growth",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619401",
-      "published_date": "2026-10-13T03:20:33.544985+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "19 kawasan catat IPU tak sihat, Sabah dan Sarawak kembali terjejas",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/19-kawasan-catat-ipu-tak-sihat-sabah-dan-sarawak-kembali-terjejas",
-      "published_date": "2026-10-13T00:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unhealthy air quality in 19 areas including Sabah, Sarawak again",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/unhealthy-air-quality-in-19-areas-including-sabah-sarawak-again",
-      "published_date": "2026-10-13T00:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 factors Putrajaya must consider for new JB transit line",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/three-factors-putrajaya-must-consider-for-new-jb-transit-line",
-      "published_date": "2026-10-12T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakar gesa Putrajaya teliti 3 aspek pelaksanaan e-ART di JB",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pakar-gesa-putrajaya-teliti-3-aspek-pelaksanaan-e-art-di-jb",
-      "published_date": "2026-10-12T23:30:00+00:00",
       "category": "Local Events"
     }
   ]
