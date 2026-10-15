@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Business : Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621020",
+      "published_date": "2026-10-15T15:29:20.423212+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MHTC, Maybank kerjasama perluas akses perkhidmatan kesihatan Malaysia serata Asean",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/mhtc-maybank-kerjasama-perluas-akses-perkhidmatan-kesihatan-malaysia-serata-asean",
+      "published_date": "2026-10-15T13:52:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MHTC, Maybank partner to expand access to Malaysian healthcare across Asean",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/mhtc-maybank-partner-to-expand-access-to-malaysian-healthcare-across-asean",
+      "published_date": "2026-10-15T12:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "World : Close India Partnership 'Essential' For ASEAN, Says MiDAS Chief",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2620520",
@@ -26,20 +47,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2617421",
       "published_date": "2026-10-09T02:44:57.086379+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ringgit eases vs US dollar, ends higher against Asean currencies",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/08/ringgit-eases-versus-us-dollar-ends-higher-against-asean-currencies",
-      "published_date": "2026-10-08T10:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "When Harimau Malaya doesn’t feel like ours",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/08/when-harimau-malaya-doesn-t-feel-like-ours",
-      "published_date": "2026-10-08T01:30:00+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -70,13 +77,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618459",
       "published_date": "2026-10-11T01:32:26.768561+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "National Service to begin in Sarawak in July 2028",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/08/national-service-to-begin-in-sarawak-in-july-2028",
-      "published_date": "2026-10-08T15:07:00+00:00",
       "category": "Military"
     }
   ],
@@ -118,6 +118,41 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Malaysia Should Broaden Tax Base, Improve Subsidy Targeting To Withstand Future Shocks – IMF",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621022",
+      "published_date": "2026-10-15T15:29:20.422865+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : 13,743 Tonnes Of Battery Waste Generated Nationwide From 2021 To 2025",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621033",
+      "published_date": "2026-10-15T15:29:20.421389+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : 19 Projects Worth RM279.1 Mln Approved In Segamat -- MITI",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621043",
+      "published_date": "2026-10-15T15:29:20.417003+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF forecasts 5.2% GDP growth for Malaysia in 2026",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/imf-forecasts-5-2-gdp-growth-for-malaysia-in-2026",
+      "published_date": "2026-10-15T13:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit rises against US dollar ahead of Q3 GDP estimates",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/15/ringgit-rises-against-us-dollar-ahead-of-q3-gdp-estimates",
+      "published_date": "2026-10-15T10:37:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Chinese investors eye major aluminium investment in Sarawak, says Zahid",
       "source": "Free Malaysia Today",
@@ -222,44 +257,58 @@
       "url": "http://www.bernama.com/en/news.php?id=2619318",
       "published_date": "2026-10-12T20:06:12.977024+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "General : MOH Will Recommend Absorbing Dental  and Pharmacy Officers - Dzulkefly",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619323",
-      "published_date": "2026-10-12T20:06:12.973840+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sabah must balance economic growth with environmental protection, says Hajiji",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/12/sabah-must-balance-economic-growth-with-environmental-protection-says-hajiji",
-      "published_date": "2026-10-12T12:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit up vs US dollar, other major currencies on positive Budget 2027 sentiment",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/ringgit-up-against-us-dollar-other-major-currencies-on-positive-budget-2027-sentiment",
-      "published_date": "2026-10-12T10:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa climbs further as Budget 2027 boosts banking stocks",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/bursa-climbs-further-as-budget-2027-boosts-banking-stocks",
-      "published_date": "2026-10-12T10:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher vs US dollar on fiscal discipline pledge",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/ringgit-opens-higher-vs-us-dollar-on-fiscal-discipline-pledge",
-      "published_date": "2026-10-12T00:31:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : GTP 2026 Seeks To Turn Planetary Crisis Into Opportunity For Positive Change",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621029",
+      "published_date": "2026-10-15T15:29:20.422426+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : GTP 2026 Declaration Outlines Action Points On Planetary Health, Sustainability",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621030",
+      "published_date": "2026-10-15T15:29:20.421881+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Budi Belia Programme Will Serve As Catalyst To Shape Future Generation Of Quality And Responsible Leaders - Taufiq",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621038",
+      "published_date": "2026-10-15T15:29:20.420823+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : KBS To Ensure Sports Development Allocations Distributed Fairly, Equitably - Mohammed Taufiq",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621039",
+      "published_date": "2026-10-15T15:29:20.420337+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Fahmi Reminds Media Practitioners To Uphold Fair Reporting, Right Of Reply",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621040",
+      "published_date": "2026-10-15T15:29:20.419641+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak gets RM545mil for Jendela 2 rollout",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/sarawak-gets-rm545mil-for-jendela-2-rollout",
+      "published_date": "2026-10-15T10:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We’ve done our best on the haze, says Anwar",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/we-ve-done-our-best-on-the-haze-says-anwar",
+      "published_date": "2026-10-15T10:02:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : RON97, Unsubsidised RON95 Down 5 Sen, Diesel Down 10 Sen From Oct 15",
       "source": "BERNAMA",
@@ -349,55 +398,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/jerebu-kj-tuntut-kerajaan-tegas-dengan-indonesia",
       "published_date": "2026-10-14T13:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KJ wants govt to take firmer stance with Indonesia over haze",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/kj-wants-govt-to-take-firmer-stance-with-indonesia-over-haze",
-      "published_date": "2026-10-14T13:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia tiada rancangan jelas manfaat ekonomi AI, kata Shahril",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/malaysia-tiada-rancangan-jelas-manfaat-ekonomi-ai-kata-shahril",
-      "published_date": "2026-10-14T13:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tuanku Muhriz officially proclaims Azrin Khairi as 17th undang Luak Jelebu",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/tuanku-muhriz-officially-proclaims-azrin-khairi-as-17th-undang-luak-jelebu",
-      "published_date": "2026-10-14T10:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ekonomi Sabah berkembang 5.1%, KDNK cecah RM88.8 billion",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/ekonomi-sabah-berkembang-5-1-kdnk-cecah-rm88-8-billion",
-      "published_date": "2026-10-14T10:17:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penduduk gesa batal projek 17,000 rumah di Bukit Jalil",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/14/penduduk-gesa-batal-projek-17-000-rumah-di-bukit-jalil",
-      "published_date": "2026-10-14T10:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents want ‘mega’ govt housing project in Bukit Jalil scrapped",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/residents-want-mega-govt-housing-project-in-bukit-jalil-scrapped",
-      "published_date": "2026-10-14T09:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 'Sumud Protocol' To Strengthen Palestinian Liberation Movement - MAPIM",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619935",
-      "published_date": "2026-10-14T01:34:43.145321+00:00",
       "category": "Local Events"
     }
   ]
