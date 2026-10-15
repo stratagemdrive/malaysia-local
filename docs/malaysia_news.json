@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "World : Close India Partnership 'Essential' For ASEAN, Says MiDAS Chief",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620520",
+      "published_date": "2026-10-15T01:12:12.855698+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618751",
@@ -34,16 +41,16 @@
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/08/when-harimau-malaya-doesn-t-feel-like-ours",
       "published_date": "2026-10-08T01:30:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "World : Chile Honours Two Malaysians For Contributions To Bilateral Ties",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2616857",
-      "published_date": "2026-10-07T17:39:59.048203+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "General : MINDEF Opens Second-career Pathways For MAF Veterans",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620519",
+      "published_date": "2026-10-15T01:12:12.855785+00:00",
+      "category": "Military"
+    },
     {
       "title": "General : LTAT, Group Companies Contribute RM420,000 To Tabung Pahlawan Campaign",
       "source": "BERNAMA",
@@ -75,6 +82,13 @@
   ],
   "Energy": [
     {
+      "title": "General : Electricity Tariffs, Data Centres And Haze Impact Among Key Issues In Dewan Rakyat Today",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620546",
+      "published_date": "2026-10-15T01:12:12.854018+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Bursa opens lower as geopolitical risks, oil prices weigh on sentiment",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/bursa-opens-lower-as-geopolitical-risks-oil-prices-weigh-on-sentiment",
@@ -104,6 +118,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Chinese investors eye major aluminium investment in Sarawak, says Zahid",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/chinese-investors-eye-major-aluminium-investment-in-sarawak-says-zahid",
+      "published_date": "2026-10-14T16:10:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Businesses Must Account For Nature, Long-term Impact -  WEF's Hoffmann",
       "source": "BERNAMA",
@@ -236,16 +257,58 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/12/ringgit-opens-higher-vs-us-dollar-on-fiscal-discipline-pledge",
       "published_date": "2026-10-12T00:31:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Banning ‘Primetime’ sabotages Malaysia’s creative economy",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/11/banning-primetime-sabotages-malaysia-s-creative-economy",
-      "published_date": "2026-10-11T00:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : RON97, Unsubsidised RON95 Down 5 Sen, Diesel Down 10 Sen From Oct 15",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620510",
+      "published_date": "2026-10-15T01:12:12.857408+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Sovereign AI Cloud Crucial To Protecting Country's Digital Sovereignty - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2620518",
+      "published_date": "2026-10-15T01:12:12.855938+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAS accelerating Putrajaya ambitions with Umno alliance, says analyst",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/pas-accelerating-putrajaya-ambitions-with-umno-alliance-says-analyst",
+      "published_date": "2026-10-14T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerjasama Umno percepat cita-cita PAS ke Putrajaya, kata penganalisis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/kerjasama-umno-percepat-cita-cita-pas-ke-putrajaya-kata-penganalisis",
+      "published_date": "2026-10-14T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sze Fei-Izzuddin face compatriots Wei Jie-Ee Yi in Denmark Open 2nd round",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/sze-fei-izzuddin-face-compatriots-wei-jie-ee-yi-in-denmark-open-2nd-round",
+      "published_date": "2026-10-14T23:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pelabur China minat bawa pelaburan aluminium skala besar ke Sarawak, kata Zahid",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/pelabur-china-minat-bawa-pelaburan-aluminium-skala-besar-ke-sarawak-kata-zahid",
+      "published_date": "2026-10-14T22:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerajaan belum sedia wujud perundangan khusus salur peruntukan saksama",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/kerajaan-belum-sedia-wujud-perundangan-khusus-salur-peruntukan-saksama",
+      "published_date": "2026-10-14T16:06:29+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Muslims Urged To Perform Solat Hajat In Federal Territories Amid Haze",
       "source": "BERNAMA",
@@ -275,10 +338,10 @@
       "category": "Local Events"
     },
     {
-      "title": "General : RON97, Unsubsidised RON95 Down 5 Sen, Diesel Down 10 Sen From Oct 15",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620510",
-      "published_date": "2026-10-14T15:41:37.385470+00:00",
+      "title": "Govt still non-committal on law for equal constituency allocations",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/govt-still-non-committal-on-law-for-equal-constituency-allocations",
+      "published_date": "2026-10-14T15:32:00+00:00",
       "category": "Local Events"
     },
     {
@@ -335,55 +398,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2619935",
       "published_date": "2026-10-14T01:34:43.145321+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Alibaba Licences, Gaza And Troubled Housing Project Among Parliament's Focus",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619958",
-      "published_date": "2026-10-14T01:34:43.143660+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "M’sian couple in Adelaide find F&B success with MalayaLane",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/14/msian-couple-in-adelaide-find-fb-success-with-malayalane",
-      "published_date": "2026-10-14T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MDDB’s 400 dogs face an uncertain future as funds dry up",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/14/mddbs-400-dogs-face-an-uncertain-future-as-funds-dry-up",
-      "published_date": "2026-10-14T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sepang gridlock reflects Malaysia’s wider transport problem",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/14/sepang-gridlock-reflects-malaysia-s-wider-transport-problem",
-      "published_date": "2026-10-13T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reunited Aaron-Wooi Yik clear 1st round at Denmark Open",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/reunited-aaron-wooi-yik-clear-1st-round-at-denmark-open",
-      "published_date": "2026-10-13T23:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karim’s daughter submitted Asian Games accreditation application",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/karim-s-daughter-submitted-asian-games-accreditation-application",
-      "published_date": "2026-10-13T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pemegang UEC tak disyarat kuasai BM belajar percuma di Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/13/pemegang-uec-tak-disyarat-kuasai-bm-belajar-percuma-di-sarawak",
-      "published_date": "2026-10-13T15:57:26+00:00",
       "category": "Local Events"
     }
   ]
