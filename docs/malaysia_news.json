@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "World : ASEAN Expects More Countries To Accede To TAC At November Summit -- Sec-Gen",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621482",
+      "published_date": "2026-10-16T15:10:58.762241+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Business : Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621020",
@@ -33,20 +40,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2618751",
       "published_date": "2026-10-12T02:02:06.512250+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World : Egypt President To Begin Two-Day State Visit To Malaysia",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617405",
-      "published_date": "2026-10-09T02:44:57.087106+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World : South Korea-Malaysia Trade Set To Exceed US$40 Bln In 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2617421",
-      "published_date": "2026-10-09T02:44:57.086379+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -118,6 +111,41 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : Budget 2027: Record RM57 Bln Allocation To Boost MSME Resilience - Steven Sim",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621509",
+      "published_date": "2026-10-16T15:10:58.759766+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NUBE kalah rayuan perintah henti keluar kenyataan, berpiket",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/nube-kalah-rayuan-perintah-henti-keluar-kenyataan-berpiket",
+      "published_date": "2026-10-16T11:58:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NUBE loses appeal against cease and desist order in bank dispute",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/nube-loses-appeal-against-cease-and-desist-order-in-bank-dispute",
+      "published_date": "2026-10-16T11:14:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit strengthens on robust Q3 GDP estimate",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/ringgit-strengthens-on-robust-q3-gdp-estimate",
+      "published_date": "2026-10-16T10:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa eases as buying interest moves away from heavyweights",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/bursa-eases-as-buying-interest-moves-away-from-heavyweights",
+      "published_date": "2026-10-16T09:42:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : 19 Projects Worth RM279.1 Mln Approved In Segamat -- MITI",
       "source": "BERNAMA",
@@ -222,44 +250,79 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/ringgit-opens-marginally-higher-on-weaker-us-dollar-index",
       "published_date": "2026-10-14T00:36:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Malaysia targets 250,000 international students by 2030",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/13/malaysia-targets-250-000-international-students-by-2030",
-      "published_date": "2026-10-13T13:44:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Global Economy To Decelerate To 3.1 Pct In 2026 Before Recovering To 3.4 Pct In 2027 - IMF",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619385",
-      "published_date": "2026-10-13T03:20:33.547691+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Budget 2027 optimism lifts ringgit despite external headwinds",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/budget-2027-optimism-lifts-ringgit-despite-external-headwinds",
-      "published_date": "2026-10-13T00:55:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Eight Of Malaysia’s Nine Anti-dumping Measures Cover Iron, Steel Products - MITI",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619309",
-      "published_date": "2026-10-12T20:06:12.978383+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Govt Yet To Designate Sabah Site For Low-altitude Economy Living Lab - MITI",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619317",
-      "published_date": "2026-10-12T20:06:12.977490+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : 16 Sabah Co-operatives Receive RM1.19 Mln Aid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621484",
+      "published_date": "2026-10-16T15:10:58.761710+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World : Asian Cup Remains On Track But Golf And Cycling Events Affected After Riyadh Attack",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621501",
+      "published_date": "2026-10-16T15:10:58.761175+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Anwar Wishes Malaysian Athletes Success At Aichi-Nagoya Asian Para Games",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621502",
+      "published_date": "2026-10-16T15:10:58.760795+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Queen Attends Royal Operetta: Raja Dan Rakyat Berpisah Tiada",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621504",
+      "published_date": "2026-10-16T15:10:58.760323+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Queen Expresses Concern Over Haze Impact On Children’s Health, Education",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621510",
+      "published_date": "2026-10-16T15:10:58.759346+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Denmark Open 2026: Aaron-Wooi Yik Lead Three Malaysian Pairs Into Semi-finals",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621511",
+      "published_date": "2026-10-16T15:10:58.756771+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pearly-Thinaah survive scare before entering semis at Denmark Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/16/pearly-thinaah-survive-scare-before-entering-semis-at-denmark-open",
+      "published_date": "2026-10-16T12:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unicef calls for stronger measures to protect children from haze",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/unicef-calls-for-stronger-measures-to-protect-children-from-haze",
+      "published_date": "2026-10-16T11:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 cip hasil inovasi tempatan cerminan kemajuan Malaysia, kata Akmal",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/enam-cip-hasil-inovasi-tempatan-cerminan-kemajuan-malaysia-kata-akmal",
+      "published_date": "2026-10-16T10:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tuition teacher nabbed for alleged sexual assault remanded for 6 days",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/tuition-teacher-nabbed-for-alleged-sexual-assault-remanded-for-6-days",
+      "published_date": "2026-10-16T09:47:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sport : Budi Belia Programme Will Serve As Catalyst To Shape Future Generation Of Quality And Responsible Leaders - Taufiq",
       "source": "BERNAMA",
@@ -328,76 +391,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/we-ve-done-our-best-on-the-haze-says-anwar",
       "published_date": "2026-10-15T10:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : RON97, Unsubsidised RON95 Down 5 Sen, Diesel Down 10 Sen From Oct 15",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620510",
-      "published_date": "2026-10-15T01:12:12.857408+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sovereign AI Cloud Crucial To Protecting Country's Digital Sovereignty - Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620518",
-      "published_date": "2026-10-15T01:12:12.855938+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAS accelerating Putrajaya ambitions with Umno alliance, says analyst",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/pas-accelerating-putrajaya-ambitions-with-umno-alliance-says-analyst",
-      "published_date": "2026-10-14T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerjasama Umno percepat cita-cita PAS ke Putrajaya, kata penganalisis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/kerjasama-umno-percepat-cita-cita-pas-ke-putrajaya-kata-penganalisis",
-      "published_date": "2026-10-14T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sze Fei-Izzuddin face compatriots Wei Jie-Ee Yi in Denmark Open 2nd round",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/sze-fei-izzuddin-face-compatriots-wei-jie-ee-yi-in-denmark-open-2nd-round",
-      "published_date": "2026-10-14T23:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pelabur China minat bawa pelaburan aluminium skala besar ke Sarawak, kata Zahid",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/pelabur-china-minat-bawa-pelaburan-aluminium-skala-besar-ke-sarawak-kata-zahid",
-      "published_date": "2026-10-14T22:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerajaan belum sedia wujud perundangan khusus salur peruntukan saksama",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/kerajaan-belum-sedia-wujud-perundangan-khusus-salur-peruntukan-saksama",
-      "published_date": "2026-10-14T16:06:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Muslims Urged To Perform Solat Hajat In Federal Territories Amid Haze",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620488",
-      "published_date": "2026-10-14T15:41:37.391098+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : SSJF Cup 3.0 A Platform To Unearth Young Silat Talents",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620498",
-      "published_date": "2026-10-14T15:41:37.389491+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 1,601 Nominations For 2026 Seri Angkasa Award",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620499",
-      "published_date": "2026-10-14T15:41:37.389093+00:00",
       "category": "Local Events"
     }
   ]
