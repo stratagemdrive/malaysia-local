@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "General : iFUTURE 2026: UM Denies Taking Disciplinary Action Against Student",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621860",
+      "published_date": "2026-10-17T14:02:59.526634+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "World : ASEAN Expects More Countries To Accede To TAC At November Summit -- Sec-Gen",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621482",
@@ -94,16 +101,30 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/bursa-opens-lower-as-geopolitical-risks-oil-prices-weigh-on-sentiment",
       "published_date": "2026-10-13T01:40:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Thai, Japanese investors keen on Sarawak petrochemical production",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/thai-japanese-investors-keen-on-sarawak-petrochemical-production",
-      "published_date": "2026-10-10T12:07:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "General : Increase In Cocoa Exports Indicates Positive Industry Growth",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621838",
+      "published_date": "2026-10-17T14:02:59.530273+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "General : Malaysia Champions Sustainable Tourism And Community Prosperity At GTEF 2026",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621856",
+      "published_date": "2026-10-17T14:02:59.526949+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What Malaysian students can learn from Rajinikanth",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/17/what-malaysian-students-can-learn-from-rajinikanth",
+      "published_date": "2026-10-17T09:41:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Budget 2027: Record RM57 Bln Allocation To Boost MSME Resilience - Steven Sim",
       "source": "BERNAMA",
@@ -222,30 +243,79 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/bursa-extends-winning-streak-to-4-days-as-bargain-hunting-continues",
       "published_date": "2026-10-14T09:52:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Technology, Business Scaling Support Productivity, Wage Growth -- Akmal Nasrullah",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619932",
-      "published_date": "2026-10-14T01:34:43.145634+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Budget 2027: Six States Allocated RM21.26 Bln In Development Expenditure – Akmal Nasrullah",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619937",
-      "published_date": "2026-10-14T01:34:43.145012+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens marginally higher on weaker US dollar index",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/ringgit-opens-marginally-higher-on-weaker-us-dollar-index",
-      "published_date": "2026-10-14T00:36:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : ABIM Urges Ministry To Publicise Assessments Of Illegal Racing Crackdowns",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621842",
+      "published_date": "2026-10-17T14:02:59.529759+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Denmark Open: Pearly-Thinaah End 18-Year Wait To Reach Final",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621848",
+      "published_date": "2026-10-17T14:02:59.528661+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Backbencher’ ambil peranan semak dan imbang jika tiada pembangkang, kata Abdul Karim",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/17/backbencher-ambil-peranan-semak-dan-imbang-jika-tiada-pembangkang-kata-abdul-karim",
+      "published_date": "2026-10-17T12:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No opposition, no problem: backbenchers will keep check, says Karim",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/no-opposition-no-problem-backbenchers-will-keep-check-says-karim",
+      "published_date": "2026-10-17T12:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KL immigration dept to probe alleged irregularities in special pass issuance",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/kl-immigration-dept-to-probe-alleged-irregularities-in-special-pass-issuance",
+      "published_date": "2026-10-17T10:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haze triggers highest-level alert in parts of Southeast Asia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/17/haze-triggers-highest-level-alert-in-parts-of-southeast-asia",
+      "published_date": "2026-10-17T10:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hanya 30 minit untuk tulis surat ekstradisi Sirul, kata bekas peguam negara",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/17/hanya-30-minit-untuk-tulis-surat-ekstradisi-sirul-kata-bekas-peguam-negara",
+      "published_date": "2026-10-17T10:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PRN Sarawak mungkin Disember ini, kata Abdul Karim",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/17/prn-sarawak-mungkin-disember-ini-kata-abdul-karim",
+      "published_date": "2026-10-17T10:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak polls likely in December, says PBB’s Karim",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/sarawak-polls-likely-in-december-says-pbb-s-abdul-karim",
+      "published_date": "2026-10-17T09:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Just take 30 mins to settle Sirul’s extradition, says ex-AG",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/just-30mins-to-settle-sirul-s-extradition-says-ex-ag",
+      "published_date": "2026-10-17T09:03:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : JPN Urges Public To Stop Spreading Misleading Narratives About 2023 Video",
       "source": "BERNAMA",
@@ -314,76 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/16/pearly-thinaah-survive-scare-before-entering-semis-at-denmark-open",
       "published_date": "2026-10-16T12:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unicef calls for stronger measures to protect children from haze",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/unicef-calls-for-stronger-measures-to-protect-children-from-haze",
-      "published_date": "2026-10-16T11:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 cip hasil inovasi tempatan cerminan kemajuan Malaysia, kata Akmal",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/enam-cip-hasil-inovasi-tempatan-cerminan-kemajuan-malaysia-kata-akmal",
-      "published_date": "2026-10-16T10:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tuition teacher nabbed for alleged sexual assault remanded for 6 days",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/tuition-teacher-nabbed-for-alleged-sexual-assault-remanded-for-6-days",
-      "published_date": "2026-10-16T09:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Budi Belia Programme Will Serve As Catalyst To Shape Future Generation Of Quality And Responsible Leaders - Taufiq",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621038",
-      "published_date": "2026-10-16T00:59:19.212772+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : KBS To Ensure Sports Development Allocations Distributed Fairly, Equitably - Mohammed Taufiq",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621039",
-      "published_date": "2026-10-16T00:59:19.212339+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Fahmi Reminds Media Practitioners To Uphold Fair Reporting, Right Of Reply",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621040",
-      "published_date": "2026-10-16T00:59:19.211902+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Pearly-Thinaah Advance To Denmark Open Quarter-finals",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621054",
-      "published_date": "2026-10-16T00:59:19.210635+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : NREs Studies Blacklist Mechanism For Repeat E-waste Offenders",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621079",
-      "published_date": "2026-10-16T00:59:19.207540+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guru tuisyen ditahan amang seksual, seks luar tabii 5 pelajar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/guru-tuisyen-ditahan-amang-seksual-seks-luar-tabii-5-pelajar",
-      "published_date": "2026-10-15T23:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : GTP 2026 Seeks To Turn Planetary Crisis Into Opportunity For Positive Change",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621029",
-      "published_date": "2026-10-15T15:29:20.422426+00:00",
       "category": "Local Events"
     }
   ]
