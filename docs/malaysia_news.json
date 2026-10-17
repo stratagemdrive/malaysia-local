@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "General : King Graces Royal Mess Night In Conjunction With 93rd Armed Forces Day",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621536",
+      "published_date": "2026-10-17T01:01:19.859885+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : MINDEF Opens Second-career Pathways For MAF Veterans",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2620519",
@@ -93,20 +100,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/10/thai-japanese-investors-keen-on-sarawak-petrochemical-production",
       "published_date": "2026-10-10T12:07:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "General : Budget 2027: PETRA Allocated RM5.33 Bln To Strengthen Water And Energy Infrastructure",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618016",
-      "published_date": "2026-10-09T17:17:25.916377+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petronas boosts payments to Malaysia as oil prices surge",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/10/petronas-boosts-payments-to-malaysia-as-oil-prices-surge",
-      "published_date": "2026-10-09T16:10:00+00:00",
       "category": "Energy"
     }
   ],
@@ -254,6 +247,20 @@
   ],
   "Local Events": [
     {
+      "title": "General : JPN Urges Public To Stop Spreading Misleading Narratives About 2023 Video",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2621533",
+      "published_date": "2026-10-17T01:01:19.860804+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jangan jadi Adun, Ahli Parlimen serentak, kata speaker Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/jangan-jadi-adun-ahli-parlimen-serentak-kata-speaker-dun-sarawak",
+      "published_date": "2026-10-16T15:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : 16 Sabah Co-operatives Receive RM1.19 Mln Aid",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621484",
@@ -293,6 +300,13 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621511",
       "published_date": "2026-10-16T15:10:58.756771+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don’t be both MP and assemblyman, says Sarawak speaker",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/don-t-be-both-mp-and-assemblyman-says-sarawak-speaker",
+      "published_date": "2026-10-16T14:43:00+00:00",
       "category": "Local Events"
     },
     {
@@ -370,27 +384,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621029",
       "published_date": "2026-10-15T15:29:20.422426+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : GTP 2026 Declaration Outlines Action Points On Planetary Health, Sustainability",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621030",
-      "published_date": "2026-10-15T15:29:20.421881+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak gets RM545mil for Jendela 2 rollout",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/sarawak-gets-rm545mil-for-jendela-2-rollout",
-      "published_date": "2026-10-15T10:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We’ve done our best on the haze, says Anwar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/we-ve-done-our-best-on-the-haze-says-anwar",
-      "published_date": "2026-10-15T10:02:00+00:00",
       "category": "Local Events"
     }
   ]
