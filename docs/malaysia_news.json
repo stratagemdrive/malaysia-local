@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "General : Haze: Malaysia Remains Ready To Assist Indonesia In Tackling Forest Fires, Says PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622194",
+      "published_date": "2026-10-19T00:46:41.376492+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : iFUTURE 2026: UM Denies Taking Disciplinary Action Against Student",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2621860",
@@ -97,6 +104,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Ringgit firmer as Malaysia’s Q3 GDP growth beats expectations",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/19/ringgit-firmer-as-malaysia-s-q3-gdp-growth-beats-expectations",
+      "published_date": "2026-10-19T00:36:13+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Budget 2027 Allocation Boost To Drive Sabah Development, Address Legacy Issues â€“ HajijiÂ",
       "source": "BERNAMA",
@@ -229,42 +243,112 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/malaysia-lacks-clear-plan-to-capture-ai-economy-says-shahril",
       "published_date": "2026-10-14T12:34:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit closes higher on improved risk appetite",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/14/ringgit-closes-higher-on-improved-risk-appetite",
-      "published_date": "2026-10-14T11:07:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Sport : Pearly-Thinaah End 18-year Wait For Denmark Open Women's Doubles Title",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622163",
-      "published_date": "2026-10-18T14:17:15.817944+00:00",
-      "category": "Local Events"
-    },
-    {
       "title": "General : MSM Sugar Refinery Lease In Prai To Continue For 15 Years",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622168",
-      "published_date": "2026-10-18T14:17:15.817346+00:00",
+      "published_date": "2026-10-19T00:46:41.378084+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : Thunderstorm Warning In Six States, Labuan Until 1 Am",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622171",
-      "published_date": "2026-10-18T14:17:15.816948+00:00",
+      "published_date": "2026-10-19T00:46:41.377704+00:00",
       "category": "Local Events"
     },
     {
       "title": "General : YTF Honours Six Outstanding Malaysian Women In Technology",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622176",
-      "published_date": "2026-10-18T14:17:15.813937+00:00",
+      "published_date": "2026-10-19T00:46:41.377056+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Aaron-Wooi Yik, Denmark Open Runners-Up",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622179",
+      "published_date": "2026-10-19T00:46:41.376572+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Super League: DPMM, JDT Shine With Three Points Each",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622195",
+      "published_date": "2026-10-19T00:46:41.376107+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : M40 Aid, Madani Allocations, Ztpp On Dewan Rakyat Agenda Today",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622209",
+      "published_date": "2026-10-19T00:46:41.373633+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When Parkinson’s forced this Malaysian chef out of the kitchen",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/19/when-parkinsons-forced-this-malaysian-chef-out-of-the-kitchen",
+      "published_date": "2026-10-19T00:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Apa Khabar?’ and the price of Malaysian citizenship",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/19/apa-khabar-and-the-price-of-malaysian-citizenship",
+      "published_date": "2026-10-18T23:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young Malaysians spent RM5.4bil through BNPL in just six months",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/19/young-malaysians-spent-rm5-4bil-through-bnpl-in-just-six-months",
+      "published_date": "2026-10-18T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia kekal sedia bantu Indonesia tangani kebakaran hutan, kata PM",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/malaysia-kekal-sedia-bantu-indonesia-bantu-tangani-kebakaran-hutan-kata-pm",
+      "published_date": "2026-10-18T23:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Logistics subsidies keep essentials affordable in Sabah, S’wak, say economists",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/logistics-subsidies-keep-essentials-affordable-in-sabah-s-wak-say-economists",
+      "published_date": "2026-10-18T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Subsidi logistik bantu barang asas kekal mampu dibeli di Sabah, Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/subsidi-logistik-bantu-barang-asas-kekal-mampu-dibeli-di-sabah-sarawak",
+      "published_date": "2026-10-18T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persatuan desak siasat dakwaan penderaan seksual terhadap kucing",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/18/persatuan-desak-siasatan-dakwaan-penderaan-seksual-terhadap-kucing",
+      "published_date": "2026-10-18T15:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Probe video showing sexual abuse of cat, says animal welfare group",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/probe-video-showing-sexual-abuse-of-cat-says-animal-welfare-grouop",
+      "published_date": "2026-10-18T15:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Pearly-Thinaah End 18-year Wait For Denmark Open Women's Doubles Title",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622163",
+      "published_date": "2026-10-18T14:17:15.817944+00:00",
       "category": "Local Events"
     },
     {
@@ -300,83 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/18/kabinet-sabah-lulus-operasi-24-jam-pelabuhan-sepanggar",
       "published_date": "2026-10-18T07:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sahabat MADANI Selangor To Boost Youth Participation In Community Service - Tengku Zafrul",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621889",
-      "published_date": "2026-10-18T00:36:57.827011+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : World Junior C'ships: Zi Yu-Genevie Capture Girls' Doubles Title To End Country's 34-Year Wait",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621893",
-      "published_date": "2026-10-18T00:36:57.826429+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Super League: Selangor Climb Into Second Spot After Fifth Consecutive Win",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621903",
-      "published_date": "2026-10-18T00:36:57.823711+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Discover ancient secrets hidden in Malaysia’s limestone landscapes",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/18/discover-ancient-secrets-hidden-in-malaysias-limestone-landscapes",
-      "published_date": "2026-10-17T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A telegraph-era law cannot protect Malaysia’s digital lifelines",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/18/a-telegraph-era-law-cannot-protect-malaysia-s-digital-lifelines",
-      "published_date": "2026-10-17T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zi Yu-Genevie crowned junior world champs, ending Malaysia’s 34-year wait",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/zi-yu-genevie-crowned-junior-world-champs-ending-malaysia-s-34-year-wait",
-      "published_date": "2026-10-17T15:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Replace Umno man who made religious ‘joke’, says Amanah",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/replace-umno-man-who-made-religious-joke-says-amanah",
-      "published_date": "2026-10-17T14:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2022 new year’s day video twisted into ‘Bangladeshi protest’ in KL’",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/2022-new-year-s-day-video-twisted-into-bangladeshi-protest-in-kl",
-      "published_date": "2026-10-17T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : ABIM Urges Ministry To Publicise Assessments Of Illegal Racing Crackdowns",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621842",
-      "published_date": "2026-10-17T14:02:59.529759+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Denmark Open: Pearly-Thinaah End 18-Year Wait To Reach Final",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621848",
-      "published_date": "2026-10-17T14:02:59.528661+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Backbencher’ ambil peranan semak dan imbang jika tiada pembangkang, kata Abdul Karim",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/17/backbencher-ambil-peranan-semak-dan-imbang-jika-tiada-pembangkang-kata-abdul-karim",
-      "published_date": "2026-10-17T12:40:00+00:00",
       "category": "Local Events"
     }
   ]
