@@ -48,16 +48,16 @@
       "url": "http://www.bernama.com/en/news.php?id=2620520",
       "published_date": "2026-10-15T01:12:12.855698+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : Jordan’s King Abdullah Arrives In Malaysia For Two-Day State Visit",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618751",
-      "published_date": "2026-10-12T02:02:06.512250+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "General : LUNAS Ready To Hand Over LCS1, Targets Physical Delivery In April 2027",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622719",
+      "published_date": "2026-10-19T17:19:21.140148+00:00",
+      "category": "Military"
+    },
     {
       "title": "General : King Graces Royal Mess Night In Conjunction With 93rd Armed Forces Day",
       "source": "BERNAMA",
@@ -78,16 +78,16 @@
       "url": "http://www.bernama.com/en/news.php?id=2619360",
       "published_date": "2026-10-13T03:20:33.549898+00:00",
       "category": "Military"
-    },
-    {
-      "title": "General : Agong Grants Audience To MAF Assistant Chief Of Staff For Personnel Services",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2618779",
-      "published_date": "2026-10-12T02:02:06.509234+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Business : Data Centres' Peak Electricity Demand Expected To Reach 8.39GW By 2030",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622718",
+      "published_date": "2026-10-19T17:19:21.140327+00:00",
+      "category": "Energy"
+    },
     {
       "title": "General : Electricity Tariffs, Data Centres And Haze Impact Among Key Issues In Dewan Rakyat Today",
       "source": "BERNAMA",
@@ -104,6 +104,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : MoF: No Commitment To Provide Financing Support To AirAsia",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622703",
+      "published_date": "2026-10-19T17:19:21.141782+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 -- MoF",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622713",
+      "published_date": "2026-10-19T17:19:21.141207+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Malaysia notches highest score in economic freedom since 1970, report says",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/malaysia-notches-highest-score-in-economic-freedom-since-1970-report-says",
+      "published_date": "2026-10-19T11:07:19+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ringgit firmer as Malaysia’s Q3 GDP growth beats expectations",
       "source": "Free Malaysia Today",
@@ -222,30 +243,93 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/chinese-investors-eye-major-aluminium-investment-in-sarawak-says-zahid",
       "published_date": "2026-10-14T16:10:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Businesses Must Account For Nature, Long-term Impact -  WEF's Hoffmann",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620492",
-      "published_date": "2026-10-14T15:41:37.390530+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : DCTF Approved 27 Data Centre Projects, With Estimated Investment Of RM225.97 Bln",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620497",
-      "published_date": "2026-10-14T15:41:37.390080+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Malaysia lacks clear plan to capture AI economy, says Shahril",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/14/malaysia-lacks-clear-plan-to-capture-ai-economy-says-shahril",
-      "published_date": "2026-10-14T12:34:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Govt Refining Proposals To Improve National Haze Action Plan - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622695",
+      "published_date": "2026-10-19T17:19:21.142193+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Zahid Congratulates Zuhairie For Winning Country's First Gold Medal In Aichi-Nagoya Asian Para Games",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622717",
+      "published_date": "2026-10-19T17:19:21.140622+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Muslims Urged To Pray For Al-Aqsa, Malaysia's Safety After Friday Prayers",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622723",
+      "published_date": "2026-10-19T17:19:21.139500+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : KFC Malaysia Contributes 20,000 Face Masks To Vulnerable Communities Amid Air Quality Concerns",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2622724",
+      "published_date": "2026-10-19T17:19:21.136917+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 gangs behind ECRL, TM cable thefts busted by cops",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/4-gangs-behind-ecrl-tm-cable-thefts-busted-by-cops",
+      "published_date": "2026-10-19T16:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiada persetujuan beri AirAsia sokongan kewangan, kata kerajaan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/tiada-persetujuan-beri-airasia-sokongan-kewangan-kata-kerajaan",
+      "published_date": "2026-10-19T14:47:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 pakej Pan Borneo Sabah dibuka sebelum hujung tahun ini",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/8-pakej-pan-borneo-sabah-dibuka-sebelum-hujung-tahun-ini",
+      "published_date": "2026-10-19T14:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 packages of Sabah Pan Borneo Highway to open before year-end",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/8-packages-of-sabah-pan-borneo-highway-to-open-before-year-end",
+      "published_date": "2026-10-19T14:37:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Half of Malaysia’s expressways to get smart technology",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/half-of-malaysia-s-expressways-to-get-smart-technology",
+      "published_date": "2026-10-19T14:35:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia sasar 50% lebuh raya dilengkapi teknologi pintar",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/malaysia-sasar-50-lebuh-raya-dilengkapi-teknologi-pintar",
+      "published_date": "2026-10-19T13:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DAP rep brands Sarawak minister ‘coward’ for attacking suspended party chief",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/dap-rep-brands-sarawak-minister-coward-for-attacking-chieng-jen",
+      "published_date": "2026-10-19T12:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia puts offers by Malaysia, others to help fight forest fires on hold",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/indonesia-puts-offers-by-malaysia-others-to-help-fight-forest-fires-on-hold",
+      "published_date": "2026-10-19T11:51:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : MSM Sugar Refinery Lease In Prai To Continue For 15 Years",
       "source": "BERNAMA",
@@ -300,90 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/19/apa-khabar-and-the-price-of-malaysian-citizenship",
       "published_date": "2026-10-18T23:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Malaysians spent RM5.4bil through BNPL in just six months",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/19/young-malaysians-spent-rm5-4bil-through-bnpl-in-just-six-months",
-      "published_date": "2026-10-18T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia kekal sedia bantu Indonesia tangani kebakaran hutan, kata PM",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/malaysia-kekal-sedia-bantu-indonesia-bantu-tangani-kebakaran-hutan-kata-pm",
-      "published_date": "2026-10-18T23:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Logistics subsidies keep essentials affordable in Sabah, S’wak, say economists",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/logistics-subsidies-keep-essentials-affordable-in-sabah-s-wak-say-economists",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Subsidi logistik bantu barang asas kekal mampu dibeli di Sabah, Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/subsidi-logistik-bantu-barang-asas-kekal-mampu-dibeli-di-sabah-sarawak",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persatuan desak siasat dakwaan penderaan seksual terhadap kucing",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/18/persatuan-desak-siasatan-dakwaan-penderaan-seksual-terhadap-kucing",
-      "published_date": "2026-10-18T15:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe video showing sexual abuse of cat, says animal welfare group",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/probe-video-showing-sexual-abuse-of-cat-says-animal-welfare-grouop",
-      "published_date": "2026-10-18T15:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Pearly-Thinaah End 18-year Wait For Denmark Open Women's Doubles Title",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622163",
-      "published_date": "2026-10-18T14:17:15.817944+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kesepaduan GRS perkukuh kuasa tawar-menawar Sabah di peringkat persekutuan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/18/kesepaduan-grs-perkukuh-kuasa-tawar-menawar-sabah-di-peringkat-persekutuan",
-      "published_date": "2026-10-18T13:20:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GRS unity gives Sabah leverage with federal government, says Hajiji",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/grs-unity-gives-sabah-leverage-with-federal-government-says-hajiji",
-      "published_date": "2026-10-18T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top cop riled up by report on old drug trafficking case near station",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/top-cop-riled-up-by-report-on-old-drug-trafficking-case-near-station",
-      "published_date": "2026-10-18T12:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabah Pan Borneo Highway progress higher than 11.4% in A-G report, says DCM",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/sabah-pan-borneo-highway-progress-higher-than-11-4-in-a-g-report-says-dcm",
-      "published_date": "2026-10-18T10:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabinet Sabah lulus operasi 24 jam pelabuhan Sepanggar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/18/kabinet-sabah-lulus-operasi-24-jam-pelabuhan-sepanggar",
-      "published_date": "2026-10-18T07:44:00+00:00",
       "category": "Local Events"
     }
   ]
