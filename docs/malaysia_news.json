@@ -71,13 +71,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2620519",
       "published_date": "2026-10-15T01:12:12.855785+00:00",
       "category": "Military"
-    },
-    {
-      "title": "General : LTAT, Group Companies Contribute RM420,000 To Tabung Pahlawan Campaign",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2619360",
-      "published_date": "2026-10-13T03:20:33.549898+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -94,16 +87,16 @@
       "url": "http://www.bernama.com/en/news.php?id=2620546",
       "published_date": "2026-10-15T01:12:12.854018+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Bursa opens lower as geopolitical risks, oil prices weigh on sentiment",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/13/bursa-opens-lower-as-geopolitical-risks-oil-prices-weigh-on-sentiment",
-      "published_date": "2026-10-13T01:40:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ringgit ends flat as investors await Fed decision",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-ends-flat-as-investors-await-fed-decision",
+      "published_date": "2026-10-20T10:43:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Budget 2027: Pet Tax Relief To Promote Responsible Ownership, Prevent Diseases",
       "source": "BERNAMA",
@@ -236,16 +229,16 @@
       "url": "http://www.bernama.com/en/news.php?id=2621033",
       "published_date": "2026-10-15T15:29:20.421389+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "IMF forecasts 5.2% GDP growth for Malaysia in 2026",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/imf-forecasts-5-2-gdp-growth-for-malaysia-in-2026",
-      "published_date": "2026-10-15T13:01:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Judiciary, Bar Council to launch family mediation pilot next month",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/judiciary-bar-council-to-launch-family-mediation-pilot-next-month",
+      "published_date": "2026-10-20T12:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : ‘Corporate Mafia’, FELDA Abuse Of Power Claims Among Dewan Rakyat Focus Today",
       "source": "BERNAMA",
@@ -377,13 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/indonesia-puts-offers-by-malaysia-others-to-help-fight-forest-fires-on-hold",
       "published_date": "2026-10-19T11:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MSM Sugar Refinery Lease In Prai To Continue For 15 Years",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622168",
-      "published_date": "2026-10-19T00:46:41.378084+00:00",
       "category": "Local Events"
     }
   ]
