@@ -91,6 +91,41 @@
   ],
   "Economy": [
     {
+      "title": "General : Malaysia Sees Greater Potential For Creative Economy Cooperation With Indonesia - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623272",
+      "published_date": "2026-10-21T01:15:12.105044+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Minimum 30 Per Cent Bumiputera Equity Requirement Retained – Economy Ministry",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623282",
+      "published_date": "2026-10-21T01:15:12.104266+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : 6,781 Households Benefit From People’s Income Initiative As At August 2026",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623291",
+      "published_date": "2026-10-21T01:15:12.103722+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Intervention Programmes Help Boost Malaysia’s Natural Rubber Output - KPK",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623300",
+      "published_date": "2026-10-21T01:15:12.103447+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher on strong domestic economic data",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/21/ringgit-opens-higher-on-strong-domestic-economic-data",
+      "published_date": "2026-10-21T00:21:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ringgit ends flat as investors await Fed decision",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-ends-flat-as-investors-await-fed-decision",
@@ -194,44 +229,51 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/ringgit-strengthens-on-robust-q3-gdp-estimate",
       "published_date": "2026-10-16T10:45:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bursa eases as buying interest moves away from heavyweights",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/bursa-eases-as-buying-interest-moves-away-from-heavyweights",
-      "published_date": "2026-10-16T09:42:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : 19 Projects Worth RM279.1 Mln Approved In Segamat -- MITI",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621043",
-      "published_date": "2026-10-16T00:59:19.211476+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World : Industry-Academia Tie-Up To Drive Halal Innovation, Business Opportunities",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621051",
-      "published_date": "2026-10-16T00:59:19.211026+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Malaysia Should Broaden Tax Base, Improve Subsidy Targeting To Withstand Future Shocks – IMF",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621022",
-      "published_date": "2026-10-15T15:29:20.422865+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : 13,743 Tonnes Of Battery Waste Generated Nationwide From 2021 To 2025",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621033",
-      "published_date": "2026-10-15T15:29:20.421389+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : KPJ Healthcare Targets 4,500 Students For Hearing Awareness Initiative",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623275",
+      "published_date": "2026-10-21T01:15:12.104745+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Govt Prepared To Consider RCI To Probe KWAP, KWSP If Necessary- Azalina",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623276",
+      "published_date": "2026-10-21T01:15:12.104470+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : French Open: Aaron-Roy King To Take On World No 1 Pair In Second Round",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623286",
+      "published_date": "2026-10-21T01:15:12.103948+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : New MyKad's Security, Efforts To Tackle Cross-Border Haze Among Topics In Dewan Rakyat Today",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623337",
+      "published_date": "2026-10-21T01:15:12.103133+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : CAAM, EHang To Assess Safety Of Advanced Air Mobility Technology",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623339",
+      "published_date": "2026-10-21T01:15:12.101956+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could food banks keep Malaysia’s wild elephants out of trouble?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/21/could-food-banks-keep-malaysias-wild-elephants-out-of-trouble",
+      "published_date": "2026-10-20T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Judiciary, Bar Council to launch family mediation pilot next month",
       "source": "Free Malaysia Today",
@@ -328,48 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/tiada-persetujuan-beri-airasia-sokongan-kewangan-kata-kerajaan",
       "published_date": "2026-10-19T14:47:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 pakej Pan Borneo Sabah dibuka sebelum hujung tahun ini",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/8-pakej-pan-borneo-sabah-dibuka-sebelum-hujung-tahun-ini",
-      "published_date": "2026-10-19T14:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 packages of Sabah Pan Borneo Highway to open before year-end",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/8-packages-of-sabah-pan-borneo-highway-to-open-before-year-end",
-      "published_date": "2026-10-19T14:37:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Half of Malaysia’s expressways to get smart technology",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/half-of-malaysia-s-expressways-to-get-smart-technology",
-      "published_date": "2026-10-19T14:35:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia sasar 50% lebuh raya dilengkapi teknologi pintar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/malaysia-sasar-50-lebuh-raya-dilengkapi-teknologi-pintar",
-      "published_date": "2026-10-19T13:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DAP rep brands Sarawak minister ‘coward’ for attacking suspended party chief",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/dap-rep-brands-sarawak-minister-coward-for-attacking-chieng-jen",
-      "published_date": "2026-10-19T12:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia puts offers by Malaysia, others to help fight forest fires on hold",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/indonesia-puts-offers-by-malaysia-others-to-help-fight-forest-fires-on-hold",
-      "published_date": "2026-10-19T11:51:00+00:00",
       "category": "Local Events"
     }
   ]
