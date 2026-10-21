@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "World : UAE's Ajman Crown Prince Receives Malaysian Ambassador",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623788",
+      "published_date": "2026-10-21T15:49:12.091861+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : Haze: Malaysia Remains Ready To Assist Indonesia In Tackling Forest Fires, Says PM Anwar",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622194",
@@ -75,6 +82,20 @@
   ],
   "Energy": [
     {
+      "title": "General : Next Five Years Crucial Transition Period For Sarawak’s Economy",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623797",
+      "published_date": "2026-10-21T15:49:12.090783+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "300 vendor Sarawak dapat kontrak Petronas RM2.68 bilion",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/300-vendor-sarawak-dapat-kontrak-petronas-rm2-68-bilion",
+      "published_date": "2026-10-21T10:16:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Business : Data Centres' Peak Electricity Demand Expected To Reach 8.39GW By 2030",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622718",
@@ -90,6 +111,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Haze not about ‘Malaysia versus Indonesia’, says Syed Saddiq",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/haze-not-about-malaysia-versus-indonesia-says-syed-saddiq",
+      "published_date": "2026-10-21T13:51:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit up vs US dollar at close, mostly higher against major currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/21/ringgit-up-against-us-dollar-at-close-mostly-higher-against-major-currencies",
+      "published_date": "2026-10-21T10:28:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Malaysia Sees Greater Potential For Creative Economy Cooperation With Indonesia - Fahmi",
       "source": "BERNAMA",
@@ -215,23 +250,72 @@
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/nube-kalah-rayuan-perintah-henti-keluar-kenyataan-berpiket",
       "published_date": "2026-10-16T11:58:04+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "NUBE loses appeal against cease and desist order in bank dispute",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/nube-loses-appeal-against-cease-and-desist-order-in-bank-dispute",
-      "published_date": "2026-10-16T11:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit strengthens on robust Q3 GDP estimate",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/ringgit-strengthens-on-robust-q3-gdp-estimate",
-      "published_date": "2026-10-16T10:45:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sport : 2026 Asian Para Games: Fizzi, Noorhelmie Secure Bronze Medals In Athletics",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623784",
+      "published_date": "2026-10-21T15:49:12.092335+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Malaysian Men’s Bowling Squad Fail To Defend World Cup Crown, Settle For Bronze",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623785",
+      "published_date": "2026-10-21T15:49:12.091897+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Malaysia Retains Elimination Status For Mother-to-child Transmission Of HIV, Syphilis, Receives WHO Recognition",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623796",
+      "published_date": "2026-10-21T15:49:12.091103+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : SOJC: Young Tigers Fight Back To Beat Pakistan 3-2, Reach Final",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623803",
+      "published_date": "2026-10-21T15:49:12.090286+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MEF Urges Stricter Enforcement, Priority For Local Workers",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623810",
+      "published_date": "2026-10-21T15:49:12.087658+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak civil servants to receive 2 months’ salary in aid, federal staff RM700",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/sarawak-civil-servants-to-receive-2-months-salary-in-aid-federal-staff-rm700",
+      "published_date": "2026-10-21T11:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabah villagers fight bid to strike out suit over basic amenities, land rights",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/sabah-villagers-fight-bid-to-strike-out-suit-over-basic-amenities-land-rights",
+      "published_date": "2026-10-21T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penjawat awam Sarawak akan terima bantuan khas 2 bulan gaji",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/penjawat-awam-sarawak-akan-terima-bantuan-khas-2-bulan-gaji",
+      "published_date": "2026-10-21T11:32:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sekolah di 5 negeri, KL, Putrajaya beroperasi esok",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/sekolah-di-5-negeri-kl-putrajaya-beroperasi-esok",
+      "published_date": "2026-10-21T11:11:36+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : KPJ Healthcare Targets 4,500 Students For Hearing Awareness Initiative",
       "source": "BERNAMA",
@@ -307,69 +391,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/20/bukan-semua-masalah-infrastruktur-tanggungjawab-putrajaya-kata-ahli-akademik",
       "published_date": "2026-10-20T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Betel nut chewing in Southeast Asia may go back 25,000 years",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/20/betel-nut-chewing-in-southeast-asia-may-go-back-25-000-years",
-      "published_date": "2026-10-20T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clear the air – and make sure those responsible are held accountable",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/20/clear-the-air-and-make-sure-those-responsible-are-held-accountable",
-      "published_date": "2026-10-19T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3,000 rakyat Malaysia di Perancis disahkan selamat",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/20/3-000-rakyat-malaysia-di-perancis-disahkan-selamat",
-      "published_date": "2026-10-19T22:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Govt Refining Proposals To Improve National Haze Action Plan - Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622695",
-      "published_date": "2026-10-19T17:19:21.142193+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Zahid Congratulates Zuhairie For Winning Country's First Gold Medal In Aichi-Nagoya Asian Para Games",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622717",
-      "published_date": "2026-10-19T17:19:21.140622+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Muslims Urged To Pray For Al-Aqsa, Malaysia's Safety After Friday Prayers",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622723",
-      "published_date": "2026-10-19T17:19:21.139500+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : KFC Malaysia Contributes 20,000 Face Masks To Vulnerable Communities Amid Air Quality Concerns",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622724",
-      "published_date": "2026-10-19T17:19:21.136917+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 gangs behind ECRL, TM cable thefts busted by cops",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/4-gangs-behind-ecrl-tm-cable-thefts-busted-by-cops",
-      "published_date": "2026-10-19T16:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiada persetujuan beri AirAsia sokongan kewangan, kata kerajaan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/19/tiada-persetujuan-beri-airasia-sokongan-kewangan-kata-kerajaan",
-      "published_date": "2026-10-19T14:47:28+00:00",
       "category": "Local Events"
     }
   ]
