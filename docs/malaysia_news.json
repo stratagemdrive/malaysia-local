@@ -112,6 +112,27 @@
   ],
   "Economy": [
     {
+      "title": "Economic enabler for Malaysian Indians — a blueprint or band-aid?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/22/economic-enabler-for-malaysian-indians-a-blueprint-or-band-aid",
+      "published_date": "2026-10-22T01:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher vs US dollar, major currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/ringgit-opens-higher-vs-us-dollar-major-currencies-2",
+      "published_date": "2026-10-22T00:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mitra gagal bantu masyarakat India terpinggir, kata penulis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/mitra-gagal-bantu-masyarakat-india-terpinggir-kata-penulis",
+      "published_date": "2026-10-21T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Haze not about ‘Malaysia versus Indonesia’, says Syed Saddiq",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/haze-not-about-malaysia-versus-indonesia-says-syed-saddiq",
@@ -229,30 +250,72 @@
       "url": "http://www.bernama.com/en/news.php?id=2621856",
       "published_date": "2026-10-17T14:02:59.526949+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "What Malaysian students can learn from Rajinikanth",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/17/what-malaysian-students-can-learn-from-rajinikanth",
-      "published_date": "2026-10-17T09:41:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Budget 2027: Record RM57 Bln Allocation To Boost MSME Resilience - Steven Sim",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621509",
-      "published_date": "2026-10-16T15:10:58.759766+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "NUBE kalah rayuan perintah henti keluar kenyataan, berpiket",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/nube-kalah-rayuan-perintah-henti-keluar-kenyataan-berpiket",
-      "published_date": "2026-10-16T11:58:04+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : RTPMM To Strengthen Teacher Expertise And Build Mathematically Literate Generation – MOE",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623819",
+      "published_date": "2026-10-22T01:11:08.528585+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : 2026 French Open: Pang Ron-Pei Jing Advance, Soon Huat-Shevon Out",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623822",
+      "published_date": "2026-10-22T01:11:08.528085+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : FSGMAM Urges Tougher Enforcement Against Contraband Cigarette Sellers",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623824",
+      "published_date": "2026-10-22T01:11:08.527602+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Govtech, Missing Malaysians In Nepal, API Accuracy Among Dewan Rakyat Focus Today",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623847",
+      "published_date": "2026-10-22T01:11:08.526996+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Aaron-Wooi Yik, Man-Wei Chong-Kai Wun Advance At French Open",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623853",
+      "published_date": "2026-10-22T01:11:08.526355+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Sivasangari, Rachel Set Up All-Malaysian Quarter-final At Silicon Valley Open",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623856",
+      "published_date": "2026-10-22T01:11:08.525819+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Features : Mega Symphony Elevates Road Transport Department's Image",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2623860",
+      "published_date": "2026-10-22T01:11:08.522431+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian doubles shuttlers impress at French Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/malaysian-doubles-shuttlers-impress-at-french-open",
+      "published_date": "2026-10-21T23:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The best seats in the house: Malaysia’s award-winning toilets",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/22/the-best-seats-in-the-house-malaysias-award-winning-toilets",
+      "published_date": "2026-10-21T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sport : 2026 Asian Para Games: Fizzi, Noorhelmie Secure Bronze Medals In Athletics",
       "source": "BERNAMA",
@@ -328,69 +391,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2623276",
       "published_date": "2026-10-21T01:15:12.104470+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : French Open: Aaron-Roy King To Take On World No 1 Pair In Second Round",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623286",
-      "published_date": "2026-10-21T01:15:12.103948+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : New MyKad's Security, Efforts To Tackle Cross-Border Haze Among Topics In Dewan Rakyat Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623337",
-      "published_date": "2026-10-21T01:15:12.103133+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : CAAM, EHang To Assess Safety Of Advanced Air Mobility Technology",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623339",
-      "published_date": "2026-10-21T01:15:12.101956+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could food banks keep Malaysia’s wild elephants out of trouble?",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/21/could-food-banks-keep-malaysias-wild-elephants-out-of-trouble",
-      "published_date": "2026-10-20T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judiciary, Bar Council to launch family mediation pilot next month",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/judiciary-bar-council-to-launch-family-mediation-pilot-next-month",
-      "published_date": "2026-10-20T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : ‘Corporate Mafia’, FELDA Abuse Of Power Claims Among Dewan Rakyat Focus Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622764",
-      "published_date": "2026-10-20T01:33:00.445587+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Features : Mother Becomes Siti Hawa's 'Hands And Feets' In PHD Journey",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622777",
-      "published_date": "2026-10-20T01:33:00.441922+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not every infrastructure problem is Putrajaya’s responsibility, says academic",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/not-every-infrastructure-problem-is-putrajaya-s-responsibility-says-academic",
-      "published_date": "2026-10-20T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bukan semua masalah infrastruktur tanggungjawab Putrajaya, kata ahli akademik",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/20/bukan-semua-masalah-infrastruktur-tanggungjawab-putrajaya-kata-ahli-akademik",
-      "published_date": "2026-10-20T01:00:00+00:00",
       "category": "Local Events"
     }
   ]
