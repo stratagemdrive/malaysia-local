@@ -27,34 +27,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2621482",
       "published_date": "2026-10-16T15:10:58.762241+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Business : Malaysia Steps Up Efforts To Achieve US$30 Billion Trade Target With Thailand",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621020",
-      "published_date": "2026-10-15T15:29:20.423212+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MHTC, Maybank kerjasama perluas akses perkhidmatan kesihatan Malaysia serata Asean",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/mhtc-maybank-kerjasama-perluas-akses-perkhidmatan-kesihatan-malaysia-serata-asean",
-      "published_date": "2026-10-15T13:52:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MHTC, Maybank partner to expand access to Malaysian healthcare across Asean",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/mhtc-maybank-partner-to-expand-access-to-malaysian-healthcare-across-asean",
-      "published_date": "2026-10-15T12:59:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World : Close India Partnership 'Essential' For ASEAN, Says MiDAS Chief",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620520",
-      "published_date": "2026-10-15T01:12:12.855698+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -71,16 +43,23 @@
       "url": "http://www.bernama.com/en/news.php?id=2621536",
       "published_date": "2026-10-17T01:01:19.859885+00:00",
       "category": "Military"
-    },
-    {
-      "title": "General : MINDEF Opens Second-career Pathways For MAF Veterans",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620519",
-      "published_date": "2026-10-15T01:12:12.855785+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Wan Fayhsal urges govt decision on nuclear power as energy crisis deepens",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/wan-fayhsal-urges-govt-decision-on-nuclear-power-as-energy-crisis-deepens",
+      "published_date": "2026-10-22T12:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Palm oil glut lures Indian buyers as price gap to rivals widens",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
+      "published_date": "2026-10-22T11:16:51+00:00",
+      "category": "Energy"
+    },
     {
       "title": "General : Next Five Years Crucial Transition Period For Sarawak’s Economy",
       "source": "BERNAMA",
@@ -101,16 +80,37 @@
       "url": "http://www.bernama.com/en/news.php?id=2622718",
       "published_date": "2026-10-19T17:19:21.140327+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "General : Electricity Tariffs, Data Centres And Haze Impact Among Key Issues In Dewan Rakyat Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2620546",
-      "published_date": "2026-10-15T01:12:12.854018+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Business : EPF Contribution Rate For Foreign Workers Relatively Low, Says MOF",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624339",
+      "published_date": "2026-10-22T15:47:05.003763+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Govt Allocates RM1 Bln To UJSB For Early Redemption Of Sukuk In 2027",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624343",
+      "published_date": "2026-10-22T15:47:05.002117+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Keluarga mangsa banjir Nepal-China dibenar tangguh bayaran balik",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/keluarga-mangsa-banjir-nepal-china-dibenar-tangguh-bayaran-balik",
+      "published_date": "2026-10-22T12:49:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nepal-China flood victims’ families given repayment deferments",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/nepal-china-flood-victims-families-given-repayment-deferments",
+      "published_date": "2026-10-22T12:38:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Economic enabler for Malaysian Indians — a blueprint or band-aid?",
       "source": "Free Malaysia Today",
@@ -222,37 +222,79 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/malaysia-notches-highest-score-in-economic-freedom-since-1970-report-says",
       "published_date": "2026-10-19T11:07:19+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit firmer as Malaysia’s Q3 GDP growth beats expectations",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/19/ringgit-firmer-as-malaysia-s-q3-gdp-growth-beats-expectations",
-      "published_date": "2026-10-19T00:36:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Budget 2027 Allocation Boost To Drive Sabah Development, Address Legacy Issues â€“ HajijiÂ",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621887",
-      "published_date": "2026-10-18T00:36:57.827427+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Increase In Cocoa Exports Indicates Positive Industry Growth",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621838",
-      "published_date": "2026-10-17T14:02:59.530273+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Malaysia Champions Sustainable Tourism And Community Prosperity At GTEF 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621856",
-      "published_date": "2026-10-17T14:02:59.526949+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Data Accuracy, Real-Time Traffic - Key To Competitiveness In Local Navigation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624319",
+      "published_date": "2026-10-22T15:47:05.004599+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : School Safety, TVET Direction Among Key Issues In Final Day Of Budget 2027 Debate",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624320",
+      "published_date": "2026-10-22T15:47:05.004294+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Melaka State Election: List Of Candidates Being Finalised By Party Leadership - Fadhlina",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624341",
+      "published_date": "2026-10-22T15:47:05.003440+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suhakam khuatir video tular normalisasi kahwin bawah umur",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/suhakam-khuatir-video-tular-normalisasi-kahwin-bawah-umur",
+      "published_date": "2026-10-22T15:10:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suhakam concerned by viral video normalising child marriages",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/suhakam-concerned-by-viral-video-normalising-child-marriages",
+      "published_date": "2026-10-22T14:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian lawyer elected to chair global network Multilaw",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/malaysian-lawyer-elected-to-chair-global-network-multilaw",
+      "published_date": "2026-10-22T14:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wan Fayhsal gesa kerajaan putus dasar tenaga nuklear ketika krisis tenaga meruncing",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/wan-fayhsal-gesa-kerajaan-putus-dasar-tenaga-nuklear-ketika-krisis-tenaga-meruncing",
+      "published_date": "2026-10-22T12:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pang Ron-Pei Jing storm into French Open quarter-finals",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/22/pang-ron-pei-jing-storm-into-french-open-quarter-finals",
+      "published_date": "2026-10-22T12:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tak cukup umum peruntukan besar, hasil mesti dirasai rakyat Sabah, Sarawak, kata menteri",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/tak-cukup-umum-peruntukan-besar-hasil-mesti-dirasai-rakyat-sabah-sarawak-kata-menteri",
+      "published_date": "2026-10-22T11:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polis digesa dedah maklumat serangan di sekolah Kuching dengan segera, telus",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/polis-digesa-dedah-maklumat-serangan-di-sekolah-kuching-dengan-segera-telus",
+      "published_date": "2026-10-22T11:17:05+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : RTPMM To Strengthen Teacher Expertise And Build Mathematically Literate Generation – MOE",
       "source": "BERNAMA",
@@ -321,76 +363,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2623784",
       "published_date": "2026-10-21T15:49:12.092335+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Malaysian Men’s Bowling Squad Fail To Defend World Cup Crown, Settle For Bronze",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623785",
-      "published_date": "2026-10-21T15:49:12.091897+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Malaysia Retains Elimination Status For Mother-to-child Transmission Of HIV, Syphilis, Receives WHO Recognition",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623796",
-      "published_date": "2026-10-21T15:49:12.091103+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : SOJC: Young Tigers Fight Back To Beat Pakistan 3-2, Reach Final",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623803",
-      "published_date": "2026-10-21T15:49:12.090286+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MEF Urges Stricter Enforcement, Priority For Local Workers",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623810",
-      "published_date": "2026-10-21T15:49:12.087658+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak civil servants to receive 2 months’ salary in aid, federal staff RM700",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/sarawak-civil-servants-to-receive-2-months-salary-in-aid-federal-staff-rm700",
-      "published_date": "2026-10-21T11:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabah villagers fight bid to strike out suit over basic amenities, land rights",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/sabah-villagers-fight-bid-to-strike-out-suit-over-basic-amenities-land-rights",
-      "published_date": "2026-10-21T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Penjawat awam Sarawak akan terima bantuan khas 2 bulan gaji",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/penjawat-awam-sarawak-akan-terima-bantuan-khas-2-bulan-gaji",
-      "published_date": "2026-10-21T11:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sekolah di 5 negeri, KL, Putrajaya beroperasi esok",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/sekolah-di-5-negeri-kl-putrajaya-beroperasi-esok",
-      "published_date": "2026-10-21T11:11:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : KPJ Healthcare Targets 4,500 Students For Hearing Awareness Initiative",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623275",
-      "published_date": "2026-10-21T01:15:12.104745+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Govt Prepared To Consider RCI To Probe KWAP, KWSP If Necessary- Azalina",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623276",
-      "published_date": "2026-10-21T01:15:12.104470+00:00",
       "category": "Local Events"
     }
   ]
