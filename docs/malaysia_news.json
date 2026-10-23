@@ -20,13 +20,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2621860",
       "published_date": "2026-10-17T14:02:59.526634+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "World : ASEAN Expects More Countries To Accede To TAC At November Summit -- Sec-Gen",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621482",
-      "published_date": "2026-10-16T15:10:58.762241+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -83,6 +76,34 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Anwar Highlights Need For Major Policy Shifts To Strengthen Resilience In Industry, Economy",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624809",
+      "published_date": "2026-10-23T15:37:48.314919+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Govt Encourages Local Companies To Formulate Long-Term Strategies, Reduce Imports -- Johari",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624813",
+      "published_date": "2026-10-23T15:37:48.313589+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit closes lower against US dollar amid AI stock concerns",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/ringgit-closes-lower-against-us-dollar-amid-ai-stock-concerns",
+      "published_date": "2026-10-23T10:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa’s key index ends at intraday high on selective buying in heavyweights",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/bursa-s-key-index-ends-at-intraday-high-on-selective-buying-in-heavyweights",
+      "published_date": "2026-10-23T09:46:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ringgit opens higher as AI investment concerns weigh on greenback",
       "source": "Free Malaysia Today",
@@ -194,37 +215,72 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-ends-flat-as-investors-await-fed-decision",
       "published_date": "2026-10-20T10:43:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "General : Budget 2027: Pet Tax Relief To Promote Responsible Ownership, Prevent Diseases",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622767",
-      "published_date": "2026-10-20T01:33:00.445022+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher as inflation eases, OPR normalisation in focus",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-opens-higher-as-inflation-eases-opr-normalisation-in-focus",
-      "published_date": "2026-10-20T00:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : MoF: No Commitment To Provide Financing Support To AirAsia",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622703",
-      "published_date": "2026-10-19T17:19:21.141782+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : STR, SARA Nearly RM11 Bln Disbursed To Eligible Recipients As of September 2026 -- MoF",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622713",
-      "published_date": "2026-10-19T17:19:21.141207+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Fahmi: Proactive Parental Monitoring Vital In Protecting Children From Cyber Threats",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624794",
+      "published_date": "2026-10-23T15:37:48.316699+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : MPFL Final: Pahang Rangers Unfazed By Favourites Selangor FC",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624796",
+      "published_date": "2026-10-23T15:37:48.316280+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Urban Development Must Balance Technological Advancement With National Heritage - Nga",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624805",
+      "published_date": "2026-10-23T15:37:48.315278+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why only now, Shahril asks on timing of Waze ban for civil servants",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/why-only-now-shahril-questions-timing-of-waze-ban-for-civil-servants",
+      "published_date": "2026-10-23T14:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rakyat Malaysia lebih banyak belanja makan di luar berbanding di rumah, lapor KRI",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/23/rakyat-malaysia-lebih-banyak-belanja-makan-di-luar-berbanding-di-rumah-lapor-kri",
+      "published_date": "2026-10-23T11:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dream run continues for Pang Ron-Pei Jing at French Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/dream-run-continues-for-pang-ron-pei-jing-at-french-open",
+      "published_date": "2026-10-23T11:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some incumbents to step aside in Sarawak polls, says Abang Jo",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/some-incumbents-to-step-aside-in-sarawak-polls-says-abang-jo",
+      "published_date": "2026-10-23T09:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctors need more than job security, says MMA as 3,500 quit govt service",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/doctors-need-more-than-job-security-says-mma-as-3-500-quit-govt-service",
+      "published_date": "2026-10-23T09:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BDS Malaysia sambut baik larangan kerajaan guna Waze",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/23/bds-malaysia-sambut-baik-larangan-kerajaan-guna-waze",
+      "published_date": "2026-10-23T09:02:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "World : Chinese-developed Perennial Rice Takes Root In Sarawak, Offering Hope For Food Security",
       "source": "BERNAMA",
@@ -300,69 +356,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2624319",
       "published_date": "2026-10-22T15:47:05.004599+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : School Safety, TVET Direction Among Key Issues In Final Day Of Budget 2027 Debate",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624320",
-      "published_date": "2026-10-22T15:47:05.004294+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Melaka State Election: List Of Candidates Being Finalised By Party Leadership - Fadhlina",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624341",
-      "published_date": "2026-10-22T15:47:05.003440+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suhakam khuatir video tular normalisasi kahwin bawah umur",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/suhakam-khuatir-video-tular-normalisasi-kahwin-bawah-umur",
-      "published_date": "2026-10-22T15:10:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suhakam concerned by viral video normalising child marriages",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/suhakam-concerned-by-viral-video-normalising-child-marriages",
-      "published_date": "2026-10-22T14:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysian lawyer elected to chair global network Multilaw",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/malaysian-lawyer-elected-to-chair-global-network-multilaw",
-      "published_date": "2026-10-22T14:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wan Fayhsal gesa kerajaan putus dasar tenaga nuklear ketika krisis tenaga meruncing",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/wan-fayhsal-gesa-kerajaan-putus-dasar-tenaga-nuklear-ketika-krisis-tenaga-meruncing",
-      "published_date": "2026-10-22T12:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pang Ron-Pei Jing storm into French Open quarter-finals",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/22/pang-ron-pei-jing-storm-into-french-open-quarter-finals",
-      "published_date": "2026-10-22T12:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tak cukup umum peruntukan besar, hasil mesti dirasai rakyat Sabah, Sarawak, kata menteri",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/tak-cukup-umum-peruntukan-besar-hasil-mesti-dirasai-rakyat-sabah-sarawak-kata-menteri",
-      "published_date": "2026-10-22T11:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polis digesa dedah maklumat serangan di sekolah Kuching dengan segera, telus",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/polis-digesa-dedah-maklumat-serangan-di-sekolah-kuching-dengan-segera-telus",
-      "published_date": "2026-10-22T11:17:05+00:00",
       "category": "Local Events"
     }
   ]
