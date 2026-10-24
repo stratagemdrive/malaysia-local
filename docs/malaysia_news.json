@@ -13,13 +13,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2622194",
       "published_date": "2026-10-19T00:46:41.376492+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : iFUTURE 2026: UM Denies Taking Disciplinary Action Against Student",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621860",
-      "published_date": "2026-10-17T14:02:59.526634+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -69,6 +62,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : AKM Urges Graduates To Enhance Skills To Meet Job Market Demands",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2625150",
+      "published_date": "2026-10-24T14:14:25.060427+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Global Investor Chooses Malaysia For US$50 Bln Investment In Tech Sector – Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2625154",
+      "published_date": "2026-10-24T14:14:25.058035+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Anwar Urges Industry To Embrace Technology, Innovation To Stay Competitive",
       "source": "BERNAMA",
@@ -194,23 +201,72 @@
       "url": "http://www.bernama.com/en/news.php?id=2623291",
       "published_date": "2026-10-21T01:15:12.103722+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Intervention Programmes Help Boost Malaysia’s Natural Rubber Output - KPK",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623300",
-      "published_date": "2026-10-21T01:15:12.103447+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher on strong domestic economic data",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/21/ringgit-opens-higher-on-strong-domestic-economic-data",
-      "published_date": "2026-10-21T00:21:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sport : M'sia Kick Off FIFA U-15 World Cup Campaign With 3-1 Win Over Dominica",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2625138",
+      "published_date": "2026-10-24T14:14:25.061062+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2nd French Open final for Pearly-Thinaah after beating Japanese rivals",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/24/2nd-french-open-final-for-pearly-thinaah-after-beating-japanese-rivals",
+      "published_date": "2026-10-24T13:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The dashboard spy: inside Malaysia’s Waze ban",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/24/the-dashboard-spy-inside-malaysia-s-waze-ban",
+      "published_date": "2026-10-24T09:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "History made as Malaysia reaches first French Open mixed doubles final",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/24/history-made-as-malaysia-reaches-first-french-open-mixed-doubles-final",
+      "published_date": "2026-10-24T09:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 foreigners held over discovery of baby’s body at Bangsar dump site",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/2-foreigners-held-over-discovery-of-baby-s-body-at-bangsar-dump-site",
+      "published_date": "2026-10-24T09:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polis siasat kaitan kapal bawa 1.6 tan ketamin dengan sindiket Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/polis-siasat-kaitan-kapal-bawa-1-6-tan-ketamin-dengan-sindiket-malaysia",
+      "published_date": "2026-10-24T08:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops probe Malaysian links to Indonesia’s 1.16-tonne ketamine haul",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/cops-probe-malaysian-links-to-indonesia-s-1-16-tonne-ketamine-haul",
+      "published_date": "2026-10-24T08:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Selepas cipta kejutan di Sabah, PAS sasar tanding 4 DUN di Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/selepas-cipta-kejutan-di-sabah-pas-sasar-tanding-4-dun-di-sarawak",
+      "published_date": "2026-10-24T08:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 maut pemandu mabuk langgar pekerja pasang papan tanda lebuh raya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/1-maut-pemandu-mabuk-langgar-pekerja-pasang-papan-tanda-lebuh-raya",
+      "published_date": "2026-10-24T07:56:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Elevating SMEs To Be Global Players Key To Malaysia’s Success -- PM Anwar",
       "source": "BERNAMA",
@@ -286,69 +342,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2624796",
       "published_date": "2026-10-23T15:37:48.316280+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Urban Development Must Balance Technological Advancement With National Heritage - Nga",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624805",
-      "published_date": "2026-10-23T15:37:48.315278+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why only now, Shahril asks on timing of Waze ban for civil servants",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/why-only-now-shahril-questions-timing-of-waze-ban-for-civil-servants",
-      "published_date": "2026-10-23T14:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rakyat Malaysia lebih banyak belanja makan di luar berbanding di rumah, lapor KRI",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/23/rakyat-malaysia-lebih-banyak-belanja-makan-di-luar-berbanding-di-rumah-lapor-kri",
-      "published_date": "2026-10-23T11:40:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dream run continues for Pang Ron-Pei Jing at French Open",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/dream-run-continues-for-pang-ron-pei-jing-at-french-open",
-      "published_date": "2026-10-23T11:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some incumbents to step aside in Sarawak polls, says Abang Jo",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/some-incumbents-to-step-aside-in-sarawak-polls-says-abang-jo",
-      "published_date": "2026-10-23T09:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors need more than job security, says MMA as 3,500 quit govt service",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/doctors-need-more-than-job-security-says-mma-as-3-500-quit-govt-service",
-      "published_date": "2026-10-23T09:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BDS Malaysia sambut baik larangan kerajaan guna Waze",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/23/bds-malaysia-sambut-baik-larangan-kerajaan-guna-waze",
-      "published_date": "2026-10-23T09:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World : Chinese-developed Perennial Rice Takes Root In Sarawak, Offering Hope For Food Security",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624353",
-      "published_date": "2026-10-23T01:10:53.960148+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027 to Drive Improvements In Quality of Education - Fadhlina",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624355",
-      "published_date": "2026-10-23T01:10:53.959778+00:00",
       "category": "Local Events"
     }
   ]
