@@ -29,13 +29,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2622719",
       "published_date": "2026-10-19T17:19:21.140148+00:00",
       "category": "Military"
-    },
-    {
-      "title": "General : King Graces Royal Mess Night In Conjunction With 93rd Armed Forces Day",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2621536",
-      "published_date": "2026-10-17T01:01:19.859885+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -76,6 +69,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : Anwar Urges Industry To Embrace Technology, Innovation To Stay Competitive",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624823",
+      "published_date": "2026-10-24T01:20:59.179197+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Anwar Highlights Need For Major Policy Shifts To Strengthen Resilience In Industry, Economy",
       "source": "BERNAMA",
@@ -208,16 +208,72 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/21/ringgit-opens-higher-on-strong-domestic-economic-data",
       "published_date": "2026-10-21T00:21:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit ends flat as investors await Fed decision",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-ends-flat-as-investors-await-fed-decision",
-      "published_date": "2026-10-20T10:43:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Elevating SMEs To Be Global Players Key To Malaysia’s Success -- PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624821",
+      "published_date": "2026-10-24T01:20:59.179689+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027 Empowers Youth Through Quality Jobs, Skills Training",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624822",
+      "published_date": "2026-10-24T01:20:59.179442+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MARA Strengthens Education, Entrepreneurship Ecosystem Through Strategic Financing",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624824",
+      "published_date": "2026-10-24T01:20:59.178879+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : CIOB Malaysia Celebrates 50 Years Of Construction Excellence",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624828",
+      "published_date": "2026-10-24T01:20:59.178614+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : ECRL-LRT Gombak Pedestrian Bridge Expected To Be Completed By March 2027 - MRL",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624830",
+      "published_date": "2026-10-24T01:20:59.178304+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Features : Malaysia Can Learn From Success Of Keralam's Ayurveda-Led Wellness Tourism - Consul-General",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2624858",
+      "published_date": "2026-10-24T01:20:59.176871+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could AI help protect Malaysia’s precious gaharu trees?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/24/could-ai-help-protect-malaysia-s-precious-gaharu-trees",
+      "published_date": "2026-10-24T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Record 4 Malaysian doubles pairs in French Open semis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/record-4-malaysian-doubles-pairs-in-french-open-semis",
+      "published_date": "2026-10-23T23:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenapa sekarang jadi isu, soal Shahril berkenaan larangan guna Waze",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/kenapa-sekarang-jadi-isu-soal-shahril-berkenaan-larangan-guna-waze",
+      "published_date": "2026-10-23T16:15:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Fahmi: Proactive Parental Monitoring Vital In Protecting Children From Cyber Threats",
       "source": "BERNAMA",
@@ -293,69 +349,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2624355",
       "published_date": "2026-10-23T01:10:53.959778+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : More Than 5,200 M'sians Working Abroad Have Returned To Work In Malaysia Through REP - KESUMA",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624357",
-      "published_date": "2026-10-23T01:10:53.959434+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Age Classification Not A Licence For Unrestricted Film Content – Comms Ministry",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624358",
-      "published_date": "2026-10-23T01:10:53.959083+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : French Open: Pearly-Thinaah, Two Men's Doubles Pairs March Into Q-finals",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624384",
-      "published_date": "2026-10-23T01:10:53.957293+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why dog owners in Vienna are being asked to carry water bottles",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/23/why-dog-owners-in-vienna-are-being-asked-to-carry-water-bottles",
-      "published_date": "2026-10-23T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No more dirty laundry: Airbnb puts limits on checkout chores",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/23/no-more-dirty-laundry-airbnb-puts-limits-on-checkout-chores",
-      "published_date": "2026-10-22T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 M’sian doubles pairs power into French Open quarter-finals",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/23/5-m-sian-doubles-pairs-power-into-french-open-quarter-finals",
-      "published_date": "2026-10-22T23:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The pioneer who put Malaysia on cycling’s Olympic map",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/23/the-pioneer-who-put-malaysia-on-cycling-s-olympic-map",
-      "published_date": "2026-10-22T22:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ng Joo Pong, perintis berbasikal Malaysia di pentas Olimpik",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/23/ng-joo-pong-perintis-berbasikal-malaysia-di-pentas-olimpik",
-      "published_date": "2026-10-22T22:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Data Accuracy, Real-Time Traffic - Key To Competitiveness In Local Navigation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624319",
-      "published_date": "2026-10-22T15:47:05.004599+00:00",
       "category": "Local Events"
     }
   ]
