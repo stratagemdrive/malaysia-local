@@ -6,13 +6,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2623788",
       "published_date": "2026-10-21T15:49:12.091861+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : Haze: Malaysia Remains Ready To Assist Indonesia In Tackling Forest Fires, Says PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2622194",
-      "published_date": "2026-10-19T00:46:41.376492+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -69,6 +62,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Forget the iPhone. The next big thing has legs, and it’s coming to Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/26/forget-the-iphone-the-next-big-thing-has-legs-and-it-s-coming-to-malaysia",
+      "published_date": "2026-10-26T00:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : AKM Urges Graduates To Enhance Skills To Meet Job Market Demands",
       "source": "BERNAMA",
@@ -201,16 +201,23 @@
       "url": "http://www.bernama.com/en/news.php?id=2623272",
       "published_date": "2026-10-21T01:15:12.105044+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Minimum 30 Per Cent Bumiputera Equity Requirement Retained – Economy Ministry",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623282",
-      "published_date": "2026-10-21T01:15:12.104266+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Pengguna TikTok ‘demo’ Waze cetus risiko keselamatan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/26/pengguna-tiktok-demo-waze-cetus-risiko-keselamatan",
+      "published_date": "2026-10-26T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wei Chong-Kai Wun come up on top in all-Malaysian final at French Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/wei-chong-kai-wun-come-up-on-top-in-all-malaysian-final-at-french-open",
+      "published_date": "2026-10-25T16:13:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : 886 Media Practiotioners Benefitted From Tabung Kasih@HAWANA, Through A Contribution Of RM2.6 Mln - Teo",
       "source": "BERNAMA",
@@ -335,20 +342,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/selepas-cipta-kejutan-di-sabah-pas-sasar-tanding-4-dun-di-sarawak",
       "published_date": "2026-10-24T08:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 maut pemandu mabuk langgar pekerja pasang papan tanda lebuh raya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/1-maut-pemandu-mabuk-langgar-pekerja-pasang-papan-tanda-lebuh-raya",
-      "published_date": "2026-10-24T07:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Elevating SMEs To Be Global Players Key To Malaysia’s Success -- PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624821",
-      "published_date": "2026-10-24T01:20:59.179689+00:00",
       "category": "Local Events"
     }
   ]
