@@ -10,6 +10,20 @@
   ],
   "Military": [
     {
+      "title": "Malaysia to receive first 2 South Korean-made FA-50M jets on Friday, says Khaled",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/malaysia-to-receive-first-two-fa-50m-jets-on-friday-says-khalid",
+      "published_date": "2026-10-26T13:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Govt to ask Myanmar on claims returnees being detained by army",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/govt-to-ask-myanmar-on-claims-returnees-being-detained-by-army",
+      "published_date": "2026-10-26T12:33:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : LUNAS Ready To Hand Over LCS1, Targets Physical Delivery In April 2027",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2622719",
@@ -62,6 +76,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "World : Malaysia, Bangladesh Set To Start FTA Talks In Dhaka",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626022",
+      "published_date": "2026-10-26T17:07:01.695181+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit ends mixed ahead of Fed meeting",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/26/ringgit-ends-mixed-ahead-of-fed-meeting",
+      "published_date": "2026-10-26T10:43:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Forget the iPhone. The next big thing has legs, and it’s coming to Malaysia",
       "source": "Free Malaysia Today",
@@ -187,23 +215,86 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/21/haze-not-about-malaysia-versus-indonesia-says-syed-saddiq",
       "published_date": "2026-10-21T13:51:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit up vs US dollar at close, mostly higher against major currencies",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/21/ringgit-up-against-us-dollar-at-close-mostly-higher-against-major-currencies",
-      "published_date": "2026-10-21T10:28:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Malaysia Sees Greater Potential For Creative Economy Cooperation With Indonesia - Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623272",
-      "published_date": "2026-10-21T01:15:12.105044+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Govt To Deploy Practical Solutions For Remote Internet Coverage - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626023",
+      "published_date": "2026-10-26T17:07:01.694837+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Fahmi: Ministries Urged To Organise Flagship Programmes For 70th HKHM Celebrations Next Year",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626025",
+      "published_date": "2026-10-26T17:07:01.694465+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : FIFA U-15 Youth Festival And World Cup: M'sia Finish Second In Group H After Losing 0-1 To Mexico",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626032",
+      "published_date": "2026-10-26T17:07:01.694129+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Fahmi Extends Condolences Over Pahang Astro Awani Senior Journalist's Passing",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626036",
+      "published_date": "2026-10-26T17:07:01.693808+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Govt Allocates Additional RM150 Mln To Complete Three Felda New Generation Housing Projects",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2626037",
+      "published_date": "2026-10-26T17:07:01.692394+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerajaan tetap tempoh 12 bulan sebelum putus hala tuju nuklear",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/26/kerajaan-tetap-tempoh-12-bulan-sebelum-putus-hala-tuju-nuklear",
+      "published_date": "2026-10-26T15:33:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt sets 12-month timeline before nuclear decision",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/govt-sets-12-month-timeline-before-nuclear-decision",
+      "published_date": "2026-10-26T14:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia terima 2 pesawat pejuang FA-50M pertama Jumaat ini",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/26/malaysia-terima-2-pesawat-pejuang-fa-50m-pertama-jumaat-ini",
+      "published_date": "2026-10-26T14:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerajaan minta Myanmar jelas dakwaan rakyatnya ditahan selepas dihantar pulang",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/26/kerajaan-minta-myanmar-jelas-dakwaan-rakyatnya-ditahan-selepas-dihantar-pulang",
+      "published_date": "2026-10-26T12:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ternakan babi dibawa masuk dari Sarawak ke Selangor ikut SOP ketat",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/26/ternakan-babi-dibawa-masuk-dari-sarawak-ke-selangor-ikut-sop-ketat",
+      "published_date": "2026-10-26T11:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pig imports from Sarawak into Selangor follow strict SOPs, says deputy minister",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/pig-imports-from-sarawak-into-selangor-follow-strict-sops-says-deputy-minister",
+      "published_date": "2026-10-26T10:41:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pengguna TikTok ‘demo’ Waze cetus risiko keselamatan",
       "source": "Free Malaysia Today",
@@ -265,83 +356,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2625199",
       "published_date": "2026-10-25T00:47:32.505076+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Pahang Rangers Edge Selangor FC 4-3 In First Leg Of MPFL Final",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2625202",
-      "published_date": "2026-10-25T00:47:32.504657+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Stronger Early-warning Systems, Coordinated Action Needed To Prevent School Violence - Analyst",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2625208",
-      "published_date": "2026-10-25T00:47:32.501451+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "M’sia assured of men’s doubles title at French Open",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/25/m-sia-assured-of-men-s-doubles-title-at-french-open",
-      "published_date": "2026-10-24T23:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : M'sia Kick Off FIFA U-15 World Cup Campaign With 3-1 Win Over Dominica",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2625138",
-      "published_date": "2026-10-24T14:14:25.061062+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2nd French Open final for Pearly-Thinaah after beating Japanese rivals",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/24/2nd-french-open-final-for-pearly-thinaah-after-beating-japanese-rivals",
-      "published_date": "2026-10-24T13:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The dashboard spy: inside Malaysia’s Waze ban",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/24/the-dashboard-spy-inside-malaysia-s-waze-ban",
-      "published_date": "2026-10-24T09:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "History made as Malaysia reaches first French Open mixed doubles final",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/10/24/history-made-as-malaysia-reaches-first-french-open-mixed-doubles-final",
-      "published_date": "2026-10-24T09:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 foreigners held over discovery of baby’s body at Bangsar dump site",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/2-foreigners-held-over-discovery-of-baby-s-body-at-bangsar-dump-site",
-      "published_date": "2026-10-24T09:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polis siasat kaitan kapal bawa 1.6 tan ketamin dengan sindiket Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/polis-siasat-kaitan-kapal-bawa-1-6-tan-ketamin-dengan-sindiket-malaysia",
-      "published_date": "2026-10-24T08:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops probe Malaysian links to Indonesia’s 1.16-tonne ketamine haul",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/cops-probe-malaysian-links-to-indonesia-s-1-16-tonne-ketamine-haul",
-      "published_date": "2026-10-24T08:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Selepas cipta kejutan di Sabah, PAS sasar tanding 4 DUN di Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/24/selepas-cipta-kejutan-di-sabah-pas-sasar-tanding-4-dun-di-sarawak",
-      "published_date": "2026-10-24T08:11:00+00:00",
       "category": "Local Events"
     }
   ]
