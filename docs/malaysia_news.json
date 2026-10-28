@@ -1,13 +1,5 @@
 {
-  "Diplomacy": [
-    {
-      "title": "World : UAE's Ajman Crown Prince Receives Malaysian Ambassador",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623788",
-      "published_date": "2026-10-21T15:49:12.091861+00:00",
-      "category": "Diplomacy"
-    }
-  ],
+  "Diplomacy": [],
   "Military": [
     {
       "title": "Malaysia to receive first 2 South Korean-made FA-50M jets on Friday, says Khaled",
@@ -25,6 +17,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Business : Commodity Prices To Rise 23 Pct This Year, Further Supply Shocks Expected As Oil Stocks Depleted - World Bank",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627058",
+      "published_date": "2026-10-28T16:57:54.602029+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Ringgit slips versus US dollar, closes higher against major currencies",
       "source": "Free Malaysia Today",
@@ -59,23 +58,30 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
       "published_date": "2026-10-22T11:16:51+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "General : Next Five Years Crucial Transition Period For Sarawak’s Economy",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2623797",
-      "published_date": "2026-10-21T15:49:12.090783+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "300 vendor Sarawak dapat kontrak Petronas RM2.68 bilion",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/21/300-vendor-sarawak-dapat-kontrak-petronas-rm2-68-bilion",
-      "published_date": "2026-10-21T10:16:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Business : MACC Still Investigating KWAP's Investment In Efishery -- MoF",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627039",
+      "published_date": "2026-10-28T16:57:54.604848+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "General : State Exco Meeting On Orange Economy Expected In November – Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627060",
+      "published_date": "2026-10-28T16:57:54.600402+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit ends higher amid confidence in Malaysia’s economic fundamentals",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/ringgit-ends-higher-amid-confidence-in-malaysia-s-economic-fundamentals",
+      "published_date": "2026-10-28T10:43:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ringgit rises against US dollar for eighth straight day",
       "source": "Free Malaysia Today",
@@ -194,30 +200,93 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/ringgit-opens-higher-as-ai-investment-concerns-weigh-on-greenback",
       "published_date": "2026-10-23T00:36:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : EPF Contribution Rate For Foreign Workers Relatively Low, Says MOF",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624339",
-      "published_date": "2026-10-22T15:47:05.003763+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Govt Allocates RM1 Bln To UJSB For Early Redemption Of Sukuk In 2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624343",
-      "published_date": "2026-10-22T15:47:05.002117+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Keluarga mangsa banjir Nepal-China dibenar tangguh bayaran balik",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/22/keluarga-mangsa-banjir-nepal-china-dibenar-tangguh-bayaran-balik",
-      "published_date": "2026-10-22T12:49:55+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Religious Knowledge Sessions With Scholars Deepen Islamic Understanding – Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627034",
+      "published_date": "2026-10-28T16:57:54.606313+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : 'Untamed' Takes Fans Behind The Scenes Of JDT's Rise To Football Stardom",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627035",
+      "published_date": "2026-10-28T16:57:54.605709+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : PH Maintains 21-seat Contest In Melaka Polls For Now - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627037",
+      "published_date": "2026-10-28T16:57:54.605247+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Anwar Extends Condolences To Family Of Former Japanese PM Fukuda",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627046",
+      "published_date": "2026-10-28T16:57:54.604430+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : redONE Mobile Partners With Mr Helmet To Offer Helmet Sanitisation At 18 Outlets",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627048",
+      "published_date": "2026-10-28T16:57:54.603975+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Melaka Polls: BN Seat Allocation Settled, MCA's Participation To Be Refined - Ab Rauf",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627051",
+      "published_date": "2026-10-28T16:57:54.603476+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : JAPEN Reaches 1.65 Mln People Via Info On Wheels, Expands Information Delivery",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627054",
+      "published_date": "2026-10-28T16:57:54.602365+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Full education autonomy too costly for Sarawak, says state minister",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/full-education-autonomy-too-costly-for-sarawak-says-state-minister",
+      "published_date": "2026-10-28T15:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cops rescue newborn buried alive",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/cops-rescue-newborn-buried-alive",
+      "published_date": "2026-10-28T14:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiada pengesahan rakyat Malaysia terbabit insiden kereta api di Sepanyol",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/tiada-pengesahan-rakyat-malaysia-terbabit-insiden-kereta-api-di-sepanyol",
+      "published_date": "2026-10-28T14:10:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rural road projects in Sabah, S’wak not cancelled by federal govt",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/rural-road-projects-in-sabah-s-wak-not-cancelled-by-federal-govt",
+      "published_date": "2026-10-28T13:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dakwaan projek jalan Sabah, Sarawak dibatal tak berasas, kata Mustapha",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/dakwaan-projek-jalan-sabah-sarawak-dibatal-tak-berasas-kata-mustapha",
+      "published_date": "2026-10-28T11:54:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : MMEA Officer Killed In Boat Collision During Operation Laid To Rest",
       "source": "BERNAMA",
@@ -272,90 +341,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/28/sterilisation-the-kinder-answer-to-malaysia-s-stray-problem",
       "published_date": "2026-10-28T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putrajaya shifting towards accountability for Sabah, Sarawak development",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/putrajaya-shifting-towards-accountability-for-sabah-sarawak-development",
-      "published_date": "2026-10-27T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putrajaya beralih kepada akauntabiliti dalam pembangunan Sabah, Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/putrajaya-beralih-kepada-akauntabiliti-dalam-pembangunan-sabah-sarawak",
-      "published_date": "2026-10-27T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mengapa bantuan tunai tak jejas produktiviti ekonomi negara",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/28/mengapa-bantuan-tunai-tak-jejas-produktiviti-ekonomi-negara",
-      "published_date": "2026-10-27T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia gesa jemaah umrah elak transit di Singapura, Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/27/indonesia-gesa-jemaah-umrah-elak-transit-di-singapura-malaysia",
-      "published_date": "2026-10-27T15:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia to hold technical talks with Malaysia on forest fire assistance",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/indonesia-to-hold-technical-talks-with-malaysia-on-forest-fire-assistance",
-      "published_date": "2026-10-27T15:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia tells pilgrims to avoid transiting in Singapore, Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/indonesia-tells-pilgrims-to-avoid-transiting-in-singapore-malaysia",
-      "published_date": "2026-10-27T15:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia, Malaysia akan adakan perbincangan teknikal bantuan padam kebakaran hutan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/27/indonesia-malaysia-akan-adakan-perbincangan-teknikal-bantuan-padam-kebakaran-hutan",
-      "published_date": "2026-10-27T15:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak seeks additional flights, express bus trips ahead of polls",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/sarawak-seeks-additional-flights-express-bus-trips-ahead-of-polls",
-      "published_date": "2026-10-27T15:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia sees 32.2mil tourist arrivals from Jan-Sept",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/m-sia-sees-32-2mil-tourist-arrivals-from-jan-sept",
-      "published_date": "2026-10-27T13:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "15 rakyat Malaysia ditahan sindiket pinjaman dalam talian di Bali",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/27/15-rakyat-malaysia-ditahan-sindiket-pinjaman-dalam-talian-di-bali",
-      "published_date": "2026-10-27T12:48:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian cops probe Malaysia links to 35kg meth bust",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/indonesian-cops-probe-malaysia-links-to-35kg-meth-bust",
-      "published_date": "2026-10-27T10:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Study On National Disaster Management Bill Expected To Be Completed Within 12 Months",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626041",
-      "published_date": "2026-10-27T01:48:22.506099+00:00",
       "category": "Local Events"
     }
   ]
