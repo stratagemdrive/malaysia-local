@@ -62,17 +62,38 @@
   ],
   "Economy": [
     {
+      "title": "General : State Exco Meeting On Orange Economy Expected In November – Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627060",
+      "published_date": "2026-10-29T02:04:58.623214+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Features : Perak HIP To Drive Malaysia's Regional Halal Economy Ambition",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627105",
+      "published_date": "2026-10-29T02:04:58.620389+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher on expectations of OPR normalisation",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/ringgit-opens-higher-on-expectations-of-opr-normalisation",
+      "published_date": "2026-10-29T00:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Malaysian youths haven’t taken to the streets",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/why-malaysian-youths-haven-t-taken-to-the-streets",
+      "published_date": "2026-10-28T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Business : MACC Still Investigating KWAP's Investment In Efishery -- MoF",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2627039",
       "published_date": "2026-10-28T16:57:54.604848+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : State Exco Meeting On Orange Economy Expected In November – Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627060",
-      "published_date": "2026-10-28T16:57:54.600402+00:00",
       "category": "Economy"
     },
     {
@@ -179,30 +200,65 @@
       "url": "http://www.bernama.com/en/news.php?id=2624813",
       "published_date": "2026-10-23T15:37:48.313589+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit closes lower against US dollar amid AI stock concerns",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/ringgit-closes-lower-against-us-dollar-amid-ai-stock-concerns",
-      "published_date": "2026-10-23T10:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa’s key index ends at intraday high on selective buying in heavyweights",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/bursa-s-key-index-ends-at-intraday-high-on-selective-buying-in-heavyweights",
-      "published_date": "2026-10-23T09:46:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher as AI investment concerns weigh on greenback",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/23/ringgit-opens-higher-as-ai-investment-concerns-weigh-on-greenback",
-      "published_date": "2026-10-23T00:36:38+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Politics : Melaka Polls: BN Machinery Urged To Conduct Campaign With Decorum",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627061",
+      "published_date": "2026-10-29T02:04:58.622961+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : AI Literacy, BRICS Participation Among Focus Of Dewan Rakyat",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627084",
+      "published_date": "2026-10-29T02:04:58.622635+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Better Perception On TVET, Applications Increase Fourfold",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627092",
+      "published_date": "2026-10-29T02:04:58.622248+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : PM Anwar Expresses Deep Sadness Over The Tragic Train Collision In Spain",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627097",
+      "published_date": "2026-10-29T02:04:58.621610+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia’s education system failing national unity test",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/29/malaysia-s-education-system-failing-national-unity-test",
+      "published_date": "2026-10-29T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All eyes on urban, Chinese seats in Sarawak polls",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/all-eyes-on-urban-chinese-seats-in-sarawak-polls",
+      "published_date": "2026-10-28T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kawasan bandar, majoriti Cina jadi tumpuan utama PRN Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/kawasan-bandar-majoriti-cina-jadi-tumpuan-utama-prn-sarawak",
+      "published_date": "2026-10-28T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mengapa belia Malaysia tidak turun ke jalanan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/mengapa-belia-malaysia-tidak-turun-ke-jalanan",
+      "published_date": "2026-10-28T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Religious Knowledge Sessions With Scholars Deepen Islamic Understanding – Anwar",
       "source": "BERNAMA",
@@ -285,62 +341,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/dakwaan-projek-jalan-sabah-sarawak-dibatal-tak-berasas-kata-mustapha",
       "published_date": "2026-10-28T11:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MMEA Officer Killed In Boat Collision During Operation Laid To Rest",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626585",
-      "published_date": "2026-10-28T02:00:14.137389+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politics : Melaka Polls: PH Component Parties Must Respect Decision On Bemban Seat Allocation - Amirudin",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626588",
-      "published_date": "2026-10-28T02:00:14.136924+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 1MDB Liabilities, BUDI95 Among Issues To Be Raised In Dewan Rakyat Today",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626604",
-      "published_date": "2026-10-28T02:00:14.136463+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MMEA To Probe Fatal Boat Collision Off Perlis",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626618",
-      "published_date": "2026-10-28T02:00:14.134407+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breast cancer care is no longer one-size-fits-all",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/28/breast-cancer-care-is-no-longer-one-size-fits-all",
-      "published_date": "2026-10-28T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dual 5G boosts Malaysia’s supply-chain resilience, says industry chief",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/dual-5g-boosts-malaysia-s-supply-chain-resilience-says-industry-chief",
-      "published_date": "2026-10-28T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dual 5G kukuh daya tahan rantaian bekalan Malaysia, kata pemimpin industri",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/dual-5g-kukuh-daya-tahan-rantaian-bekalan-malaysia-kata-pemimpin-industri",
-      "published_date": "2026-10-28T00:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sterilisation: the kinder answer to Malaysia’s stray problem",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/28/sterilisation-the-kinder-answer-to-malaysia-s-stray-problem",
-      "published_date": "2026-10-28T00:30:00+00:00",
       "category": "Local Events"
     }
   ]
