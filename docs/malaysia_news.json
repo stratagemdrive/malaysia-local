@@ -1,5 +1,13 @@
 {
-  "Diplomacy": [],
+  "Diplomacy": [
+    {
+      "title": "Malaysia committed to strengthening Asean, wider defence ties",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/malaysia-committed-to-strengthening-asean-wider-defence-ties",
+      "published_date": "2026-10-29T12:01:00+00:00",
+      "category": "Diplomacy"
+    }
+  ],
   "Military": [
     {
       "title": "Malaysia to receive first 2 South Korean-made FA-50M jets on Friday, says Khaled",
@@ -44,23 +52,23 @@
       "url": "http://www.bernama.com/en/news.php?id=2625519",
       "published_date": "2026-10-25T14:46:45.187436+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Wan Fayhsal urges govt decision on nuclear power as energy crisis deepens",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/22/wan-fayhsal-urges-govt-decision-on-nuclear-power-as-energy-crisis-deepens",
-      "published_date": "2026-10-22T12:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Palm oil glut lures Indian buyers as price gap to rivals widens",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
-      "published_date": "2026-10-22T11:16:51+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "World : Second Round Of Malaysia-Bangladesh FTA Talks To Take Place In January",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627575",
+      "published_date": "2026-10-29T17:18:18.128424+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Govt Plans To Reform Development Expenditure Allocation Based On States’ Needs",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627586",
+      "published_date": "2026-10-29T17:18:18.125418+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : State Exco Meeting On Orange Economy Expected In November – Fahmi",
       "source": "BERNAMA",
@@ -186,23 +194,79 @@
       "url": "http://www.bernama.com/en/news.php?id=2624823",
       "published_date": "2026-10-24T01:20:59.179197+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Anwar Highlights Need For Major Policy Shifts To Strengthen Resilience In Industry, Economy",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624809",
-      "published_date": "2026-10-23T15:37:48.314919+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Govt Encourages Local Companies To Formulate Long-Term Strategies, Reduce Imports -- Johari",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624813",
-      "published_date": "2026-10-23T15:37:48.313589+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Two Bernama Pixmen Bag Four Awards At Terengganu Media Appreciation Night",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627574",
+      "published_date": "2026-10-29T17:18:18.128803+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Melaka Polls: Bersatu Confirms Use Of Own LogoÂ",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627581",
+      "published_date": "2026-10-29T17:18:18.127892+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Differing Views Among Ministries Part Of Healthy Policy Process - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627583",
+      "published_date": "2026-10-29T17:18:18.127428+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First-past-the-post system still relevant in Malaysia, Dewan told",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/first-past-the-post-system-still-relevant-in-malaysia-dewan-told",
+      "published_date": "2026-10-29T16:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cef Malaysia ditahan edar kanabis di Mauritius",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/cef-malaysia-ditahan-edar-kanabis-di-mauritius",
+      "published_date": "2026-10-29T15:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian chef nabbed in Mauritius for trafficking cannabis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/malaysian-chef-nabbed-in-mauritius-for-trafficking-cannabis",
+      "published_date": "2026-10-29T15:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindiket rompak, pecah rumah mewah di Sabah tumpas",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/sindiket-rompak-pecah-rumah-mewah-di-sabah-tumpas",
+      "published_date": "2026-10-29T13:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sabah cops cripple armed syndicate linked to break-ins at 17 luxury homes",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/sabah-cops-cripple-armed-syndicate-linked-to-break-ins-at-17-luxury-homes",
+      "published_date": "2026-10-29T13:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Putrajaya nafi pinggir negeri termiskin",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/putrajaya-nafi-pinggir-negeri-termiskin",
+      "published_date": "2026-10-29T12:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zii Jia goes down fighting in 2nd round of Hylo Open",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/zii-jia-goes-down-fighting-in-2nd-round-of-hylo-open",
+      "published_date": "2026-10-29T11:35:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Politics : Melaka Polls: BN Machinery Urged To Conduct Campaign With Decorum",
       "source": "BERNAMA",
@@ -271,76 +335,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2627035",
       "published_date": "2026-10-28T16:57:54.605709+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politics : PH Maintains 21-seat Contest In Melaka Polls For Now - Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627037",
-      "published_date": "2026-10-28T16:57:54.605247+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Anwar Extends Condolences To Family Of Former Japanese PM Fukuda",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627046",
-      "published_date": "2026-10-28T16:57:54.604430+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : redONE Mobile Partners With Mr Helmet To Offer Helmet Sanitisation At 18 Outlets",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627048",
-      "published_date": "2026-10-28T16:57:54.603975+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politics : Melaka Polls: BN Seat Allocation Settled, MCA's Participation To Be Refined - Ab Rauf",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627051",
-      "published_date": "2026-10-28T16:57:54.603476+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : JAPEN Reaches 1.65 Mln People Via Info On Wheels, Expands Information Delivery",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627054",
-      "published_date": "2026-10-28T16:57:54.602365+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Full education autonomy too costly for Sarawak, says state minister",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/full-education-autonomy-too-costly-for-sarawak-says-state-minister",
-      "published_date": "2026-10-28T15:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cops rescue newborn buried alive",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/cops-rescue-newborn-buried-alive",
-      "published_date": "2026-10-28T14:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiada pengesahan rakyat Malaysia terbabit insiden kereta api di Sepanyol",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/tiada-pengesahan-rakyat-malaysia-terbabit-insiden-kereta-api-di-sepanyol",
-      "published_date": "2026-10-28T14:10:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rural road projects in Sabah, S’wak not cancelled by federal govt",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/28/rural-road-projects-in-sabah-s-wak-not-cancelled-by-federal-govt",
-      "published_date": "2026-10-28T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dakwaan projek jalan Sabah, Sarawak dibatal tak berasas, kata Mustapha",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/28/dakwaan-projek-jalan-sabah-sarawak-dibatal-tak-berasas-kata-mustapha",
-      "published_date": "2026-10-28T11:54:00+00:00",
       "category": "Local Events"
     }
   ]
