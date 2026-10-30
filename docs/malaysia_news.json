@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Gary Tang honoured for guiding M’sian students in Japan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/30/gary-tang-honoured-for-guiding-m-sian-students-in-japan",
+      "published_date": "2026-10-29T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Malaysia committed to strengthening Asean, wider defence ties",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/malaysia-committed-to-strengthening-asean-wider-defence-ties",
@@ -55,6 +62,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Bursa slips into negative territory after higher opening",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/30/bursa-slips-into-negative-territory-after-higher-opening",
+      "published_date": "2026-10-30T01:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher vs US dollar for tenth straight day",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/30/ringgit-opens-higher-vs-us-dollar-for-tenth-straight-day",
+      "published_date": "2026-10-30T00:32:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "World : Second Round Of Malaysia-Bangladesh FTA Talks To Take Place In January",
       "source": "BERNAMA",
@@ -180,23 +201,65 @@
       "url": "http://www.bernama.com/en/news.php?id=2625154",
       "published_date": "2026-10-24T14:14:25.058035+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "International investor plans to invest US$50bil in Malaysia’s tech sector, says PM",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/international-investor-plans-to-invest-us-50bil-in-malaysia-s-tech-sector-says-pm",
-      "published_date": "2026-10-24T14:03:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Anwar Urges Industry To Embrace Technology, Innovation To Stay Competitive",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2624823",
-      "published_date": "2026-10-24T01:20:59.179197+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Budget 2027 Passes Policy Stage, Concluding Fourth Week Of Dewan Rakyat Session",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2627638",
+      "published_date": "2026-10-30T02:23:50.635562+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Matrade galak syarikat Malaysia teroka peluang teknologi China",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/30/matrade-galak-syarikat-malaysia-teroka-peluang-teknologi-china",
+      "published_date": "2026-10-30T01:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Measure Sabah’s development on benefits gained, not paper progress",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/measure-sabah-s-development-on-benefits-gained-not-paper-progress",
+      "published_date": "2026-10-30T01:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukur pembangunan Sabah melalui manfaat, bukan projek siap ‘atas kertas’",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/30/ukur-pembangunan-sabah-melalui-manfaat-bukan-projek-siap-atas-kertas",
+      "published_date": "2026-10-30T01:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cukai terendah, dana pembiayaan tertinggi: Mampukah 2027 jadi tahun PMKS?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/30/cukai-terendah-dana-pembiayaan-tertinggi-mampukah-2027-jadi-tahun-pmks",
+      "published_date": "2026-10-30T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RM2bil Madani submarine cable project strengthens nation’s digital network",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/rm2bil-madani-submarine-cable-project-strengthens-nation-s-digital-network",
+      "published_date": "2026-10-29T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sambungan Kabel Dasar Laut Madani RM2 bilion kukuh jaringan digital negara",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/30/sambungan-kabel-dasar-laut-madani-rm2-bilion-kukuh-jaringan-digital-negara",
+      "published_date": "2026-10-29T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here’s the right app to navigate around the Waze-Tuju mess",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/30/here-s-the-right-app-to-navigate-around-the-waze-tuju-mess",
+      "published_date": "2026-10-29T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Two Bernama Pixmen Bag Four Awards At Terengganu Media Appreciation Night",
       "source": "BERNAMA",
@@ -279,62 +342,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2627084",
       "published_date": "2026-10-29T02:04:58.622635+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Better Perception On TVET, Applications Increase Fourfold",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627092",
-      "published_date": "2026-10-29T02:04:58.622248+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : PM Anwar Expresses Deep Sadness Over The Tragic Train Collision In Spain",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627097",
-      "published_date": "2026-10-29T02:04:58.621610+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia’s education system failing national unity test",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/29/malaysia-s-education-system-failing-national-unity-test",
-      "published_date": "2026-10-29T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All eyes on urban, Chinese seats in Sarawak polls",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/all-eyes-on-urban-chinese-seats-in-sarawak-polls",
-      "published_date": "2026-10-28T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kawasan bandar, majoriti Cina jadi tumpuan utama PRN Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/kawasan-bandar-majoriti-cina-jadi-tumpuan-utama-prn-sarawak",
-      "published_date": "2026-10-28T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mengapa belia Malaysia tidak turun ke jalanan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/mengapa-belia-malaysia-tidak-turun-ke-jalanan",
-      "published_date": "2026-10-28T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Religious Knowledge Sessions With Scholars Deepen Islamic Understanding – Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627034",
-      "published_date": "2026-10-28T16:57:54.606313+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : 'Untamed' Takes Fans Behind The Scenes Of JDT's Rise To Football Stardom",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627035",
-      "published_date": "2026-10-28T16:57:54.605709+00:00",
       "category": "Local Events"
     }
   ]
