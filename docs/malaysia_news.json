@@ -70,6 +70,13 @@
   ],
   "Economy": [
     {
+      "title": "Malaysia must watch Saudi Arabia with increased scrutiny",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/31/malaysia-must-watch-saudi-arabia-with-increased-scrutiny",
+      "published_date": "2026-10-31T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "General : MPM Puts Forward Six Proposals To Empower Bumiputera Economy Under Budget 2027",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2628009",
@@ -201,16 +208,30 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/26/ringgit-ends-mixed-ahead-of-fed-meeting",
       "published_date": "2026-10-26T10:43:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Forget the iPhone. The next big thing has legs, and it’s coming to Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/26/forget-the-iphone-the-next-big-thing-has-legs-and-it-s-coming-to-malaysia",
-      "published_date": "2026-10-26T00:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : UiTM Achieves MBOR Milestone Through Landmark Preventive Oral Health Initiative",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628042",
+      "published_date": "2026-10-31T01:59:17.748991+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Aaron-Roy King, Pang Ron-Pei Jing Storm Into Hylo Open Semi-finals",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628043",
+      "published_date": "2026-10-31T01:59:17.747786+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orang halimunan PN: MIPP dan Gerakan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/31/orang-halimunan-pn-mipp-dan-gerakan",
+      "published_date": "2026-10-31T01:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sport : Hasselbank Links Messi, Ronaldo Era To Decline Of Traditional Centre-forwards",
       "source": "BERNAMA",
@@ -328,27 +349,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/rm2bil-madani-submarine-cable-project-strengthens-nation-s-digital-network",
       "published_date": "2026-10-29T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sambungan Kabel Dasar Laut Madani RM2 bilion kukuh jaringan digital negara",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/30/sambungan-kabel-dasar-laut-madani-rm2-bilion-kukuh-jaringan-digital-negara",
-      "published_date": "2026-10-29T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s the right app to navigate around the Waze-Tuju mess",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/30/here-s-the-right-app-to-navigate-around-the-waze-tuju-mess",
-      "published_date": "2026-10-29T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Two Bernama Pixmen Bag Four Awards At Terengganu Media Appreciation Night",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627574",
-      "published_date": "2026-10-29T17:18:18.128803+00:00",
       "category": "Local Events"
     }
   ]
