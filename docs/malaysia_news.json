@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "General : New Chinese Ambassador Yao Wen Vows To Deepen Malaysia-China Ties",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628421",
+      "published_date": "2026-11-01T01:49:48.816275+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Gary Tang honoured for guiding M’sian students in Japan",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/30/gary-tang-honoured-for-guiding-m-sian-students-in-japan",
@@ -16,6 +23,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "General : Myanmar Begins Releasing Rakhine Returnees From Malaysia - Report",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628396",
+      "published_date": "2026-11-01T01:49:48.816805+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sabah short of 245 medical officers after replacements fail to turn up",
       "source": "Free Malaysia Today",
@@ -83,6 +97,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Britain will put wildlife on banknotes – something Malaysia did years ago",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/01/britain-will-put-wildlife-on-banknotes-something-malaysia-did-years-ago",
+      "published_date": "2026-10-31T23:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Malaysia must watch Saudi Arabia with increased scrutiny",
       "source": "Free Malaysia Today",
@@ -215,16 +236,58 @@
       "url": "http://www.bernama.com/en/news.php?id=2626022",
       "published_date": "2026-10-26T17:07:01.695181+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit ends mixed ahead of Fed meeting",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/26/ringgit-ends-mixed-ahead-of-fed-meeting",
-      "published_date": "2026-10-26T10:43:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Media Innovation Fund 2.0 To Strengthen Newsroom, Safeguards Job",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628417",
+      "published_date": "2026-11-01T01:49:48.816305+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Hylo Open: Malaysia’s Campaign Ends In Semis",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628429",
+      "published_date": "2026-11-01T01:49:48.815655+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MTL, Super El Nino: Malaysia Faces Flood And Drought Risks",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628430",
+      "published_date": "2026-11-01T01:49:48.813043+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiada asas undang-undang tahan budak 9 tahun, kata aktivis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/tiada-asas-undang-undang-tahan-budak-9-tahun-kata-aktivis",
+      "published_date": "2026-11-01T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No legal basis to hold 9-year-old in remand, says activist",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/no-legal-basis-to-hold-9-year-old-in-remand-says-activist",
+      "published_date": "2026-11-01T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dayak seats shaping up to be ‘potentially exciting’ in Sarawak polls",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/dayak-seats-shaping-up-to-be-potentially-exciting-in-sarawak-polls",
+      "published_date": "2026-10-31T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerusi Dayak dijangka jadi tumpuan dalam PRN Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/kerusi-dayak-dijangka-jadi-tumpuan-dalam-prn-sarawak",
+      "published_date": "2026-10-31T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Community Nurses’ Staffing, Grade Issues To Be Raised In Senate Next Month",
       "source": "BERNAMA",
@@ -314,55 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/31/orang-halimunan-pn-mipp-dan-gerakan",
       "published_date": "2026-10-31T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Hasselbank Links Messi, Ronaldo Era To Decline Of Traditional Centre-forwards",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627999",
-      "published_date": "2026-10-30T16:56:19.368916+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Study On 'Diat' Can Become Reference, Guidance For Proposed Amendments To Road Transport Act - Zulkifli",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628003",
-      "published_date": "2026-10-30T16:56:19.368302+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Super League: DPMM FC Leave It Late To Send Negeri Sembilan Packing",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628004",
-      "published_date": "2026-10-30T16:56:19.367811+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World : Malaysian Physician Makes History As First Asian To Head Global Pain Association",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628006",
-      "published_date": "2026-10-30T16:56:19.367262+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Dr Aini Ideris Named National Academic Figure For 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628016",
-      "published_date": "2026-10-30T16:56:19.365902+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politics : Decision Regarding CSA Between Selangor State Govt And Bersatu In Final Stage - Amirudin",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628023",
-      "published_date": "2026-10-30T16:56:19.363316+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pang Ron-Pei Jing storm into Hylo Open semis in Germany",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/pang-ron-pei-jing-storm-into-hylo-open-semis-in-germany",
-      "published_date": "2026-10-30T15:57:00+00:00",
       "category": "Local Events"
     }
   ]
