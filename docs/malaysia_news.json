@@ -87,13 +87,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2626091",
       "published_date": "2026-10-27T01:48:22.501373+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Business : Proposal For CPO Export Tax Exemption Still Under Discussion -- Noraini",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2625519",
-      "published_date": "2026-10-25T14:46:45.187436+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -240,6 +233,97 @@
   ],
   "Local Events": [
     {
+      "title": "Sport : Anwar Encourages Hakim Danish After Fourth-Place Finish In Malaysian GP",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628703",
+      "published_date": "2026-11-01T16:59:22.438253+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : MPL Malaysia: SRG Clinch Sixth Consecutive Title",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628706",
+      "published_date": "2026-11-01T16:59:22.437831+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Super League: Boumous Goal Keeps Selangor’s Perfect Record With 1-0 Win Over Star City",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628712",
+      "published_date": "2026-11-01T16:59:22.437332+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Sabah FA Defends National Women's League Title For Second Consecutive Time",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628713",
+      "published_date": "2026-11-01T16:59:22.436930+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 24th Deepavali Carnival Targets 500,000 Visitors, Promotes AI Adoption",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628715",
+      "published_date": "2026-11-01T16:59:22.436540+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : PM Congratulates Malaysian MotoGP Organisers On Successful Event",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628720",
+      "published_date": "2026-11-01T16:59:22.436140+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : ACT 2026: Malaysian Speedy Tigers Fall 2-4 To India In Asian Champion Trophy",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628721",
+      "published_date": "2026-11-01T16:59:22.435725+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Sarawak Polls: Dap To Contest Seven Seats In Kuching And Bau",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2628723",
+      "published_date": "2026-11-01T16:59:22.433779+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PRN Sarawak: DAP tanding 7 kerusi di Kuching, Bau",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/prn-sarawak-dap-tanding-7-kerusi-di-kuching-bau",
+      "published_date": "2026-11-01T15:42:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "VFive Group salur sumbangan kepada Peryatim Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/vfive-group-salur-sumbangan-kepada-peryatim-sarawak",
+      "published_date": "2026-11-01T13:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiada senarai menteri, wakil rakyat digugurkan pada PRN Sarawak, kata GPS",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/tiada-senarai-menteri-wakil-rakyat-digugurkan-pada-prn-sarawak-kata-gps",
+      "published_date": "2026-11-01T12:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No list of ministers, reps to be dropped for Sarawak polls, says GPS",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/no-list-of-ministers-reps-to-be-dropped-for-sarawak-polls-says-gps",
+      "published_date": "2026-11-01T11:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Runner dies after collapsing during half-marathon run in Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/runner-dies-after-collapsing-during-garmin-run-in-putrajaya",
+      "published_date": "2026-11-01T11:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : Media Innovation Fund 2.0 To Strengthen Newsroom, Safeguards Job",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2628417",
@@ -286,97 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/kerusi-dayak-dijangka-jadi-tumpuan-dalam-prn-sarawak",
       "published_date": "2026-10-31T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Community Nurses’ Staffing, Grade Issues To Be Raised In Senate Next Month",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628383",
-      "published_date": "2026-10-31T15:56:42.520394+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : RM2.5 Million To Provide Dialysis Facilities At Selected Kelantan Mosques",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628387",
-      "published_date": "2026-10-31T15:56:42.517606+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Send extra doctors straight away, says Sabah MMA",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/send-extra-doctors-straight-away-says-sabah-mma",
-      "published_date": "2026-10-31T13:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "18 Taiwanese nabbed for posing as HK cops in online scam",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/18-taiwanese-nabbed-for-posing-as-hk-cops-in-online-scam",
-      "published_date": "2026-10-31T13:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Segera tempatkan doktor dari Semenanjung, MMA beritahu KKM",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/31/segera-tempatkan-doktor-dari-semenanjung-mma-beritahu-kkm",
-      "published_date": "2026-10-31T13:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dentists fume over new staircase rule for upstairs clinics",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/dentists-fume-over-new-staircase-rule-for-upstairs-clinics",
-      "published_date": "2026-10-31T12:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak mahu lebih kuasai sumber strategik",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/31/sarawak-mahu-lebih-kuasai-sumber-strategik",
-      "published_date": "2026-10-31T12:38:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak to push for greater control of strategic resources",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/sarawak-to-push-for-greater-control-of-strategic-resources",
-      "published_date": "2026-10-31T11:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IWK, MPM jalin kerjasama perkasa keterangkuman bagi golongan OKU",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/31/iwk-mpm-jalin-kerjasama-perkasa-keterangkuman-bagi-golongan-oku",
-      "published_date": "2026-10-31T09:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JPA confident civil servants will fully comply with Waze ban",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/jpa-confident-civil-servants-will-fully-comply-with-waze-ban",
-      "published_date": "2026-10-31T08:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : UiTM Achieves MBOR Milestone Through Landmark Preventive Oral Health Initiative",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628042",
-      "published_date": "2026-10-31T01:59:17.748991+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Aaron-Roy King, Pang Ron-Pei Jing Storm Into Hylo Open Semi-finals",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628043",
-      "published_date": "2026-10-31T01:59:17.747786+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orang halimunan PN: MIPP dan Gerakan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/31/orang-halimunan-pn-mipp-dan-gerakan",
-      "published_date": "2026-10-31T01:00:00+00:00",
       "category": "Local Events"
     }
   ]
