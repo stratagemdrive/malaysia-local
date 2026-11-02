@@ -91,6 +91,13 @@
   ],
   "Economy": [
     {
+      "title": "Ringgit opens higher on expectations of OPR normalisation",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/02/ringgit-opens-higher-on-expectations-of-opr-normalisation-2",
+      "published_date": "2026-11-02T00:34:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Britain will put wildlife on banknotes – something Malaysia did years ago",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/01/britain-will-put-wildlife-on-banknotes-something-malaysia-did-years-ago",
@@ -222,16 +229,23 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/27/ringgit-opens-lower-vs-greenback-gains-against-other-currencies",
       "published_date": "2026-10-27T00:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "World : Malaysia, Bangladesh Set To Start FTA Talks In Dhaka",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2626022",
-      "published_date": "2026-10-26T17:07:01.695181+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Bedfellows and backstabbers on the winding road to Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/02/bedfellows-and-backstabbers-on-the-winding-road-to-putrajaya",
+      "published_date": "2026-11-02T00:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Only 1 in 5 Malaysian online shoppers counts as ‘savvy’",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/02/only-1-in-5-malaysian-online-shoppers-counts-as-savvy",
+      "published_date": "2026-11-01T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Sport : Anwar Encourages Hakim Danish After Fourth-Place Finish In Malaysian GP",
       "source": "BERNAMA",
@@ -356,20 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/no-legal-basis-to-hold-9-year-old-in-remand-says-activist",
       "published_date": "2026-11-01T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dayak seats shaping up to be ‘potentially exciting’ in Sarawak polls",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/dayak-seats-shaping-up-to-be-potentially-exciting-in-sarawak-polls",
-      "published_date": "2026-10-31T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerusi Dayak dijangka jadi tumpuan dalam PRN Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/kerusi-dayak-dijangka-jadi-tumpuan-dalam-prn-sarawak",
-      "published_date": "2026-10-31T23:30:00+00:00",
       "category": "Local Events"
     }
   ]
