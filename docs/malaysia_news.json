@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "General : Malaysia, Finland Exploring Higher Education Cooperation In Research, AI - Zambry",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629192",
+      "published_date": "2026-11-02T20:37:44.106814+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Senate confirms Joshua Harris as envoy to Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/02/us-senate-confirms-joshua-harris-as-envoy-to-malaysia",
+      "published_date": "2026-11-02T12:38:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : New Chinese Ambassador Yao Wen Vows To Deepen Malaysia-China Ties",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2628421",
@@ -43,20 +57,6 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/sabah-defence-build-up-not-aimed-at-philippines-says-khaled",
       "published_date": "2026-10-30T11:24:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Malaysia to receive first 2 South Korean-made FA-50M jets on Friday, says Khaled",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/malaysia-to-receive-first-two-fa-50m-jets-on-friday-says-khalid",
-      "published_date": "2026-10-26T13:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Govt to ask Myanmar on claims returnees being detained by army",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/govt-to-ask-myanmar-on-claims-returnees-being-detained-by-army",
-      "published_date": "2026-10-26T12:33:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -90,6 +90,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : 14 Official And Trade Missions Abroad Generate RM59.5 Bln In Potential Investments",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629204",
+      "published_date": "2026-11-02T20:37:44.106123+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ringgit opens higher on expectations of OPR normalisation",
       "source": "Free Malaysia Today",
@@ -222,16 +229,72 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/10/27/bursa-opens-higher-tracking-firmer-wall-street-cues",
       "published_date": "2026-10-27T01:29:18+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher against US dollar, major currencies",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/27/ringgit-opens-lower-vs-greenback-gains-against-other-currencies",
-      "published_date": "2026-10-27T00:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Sabah Rural Road Projects Not Cancelled, Only Postponed - Mustapha",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629193",
+      "published_date": "2026-11-02T20:37:44.106508+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : UMK Mobilises Aid For Graduating Student Who Lost Parents In Gerik Crash",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629205",
+      "published_date": "2026-11-02T20:37:44.105823+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : ECRL Boosts Kuala Lumpur’s Spot On Frommer’s 2027 Best Places List",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629206",
+      "published_date": "2026-11-02T20:37:44.105537+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 10,036 Patients With Organ Failure Highlight Need For Transplant Reforms",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629207",
+      "published_date": "2026-11-02T20:37:44.105255+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : More Than 500 Homes Affected By Floods In Sungai Buloh",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2629208",
+      "published_date": "2026-11-02T20:37:44.104017+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GPS tolak kerjasama pilihan raya dengan parti Semenanjung",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/02/gps-tolak-kerjasama-pilihan-raya-dengan-parti-semenanjung",
+      "published_date": "2026-11-02T14:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GPS rules out pact with peninsula-based parties",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/02/gps-rules-out-pact-with-peninsula-based-parties",
+      "published_date": "2026-11-02T14:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebih 70% jawatan pengurusan, profesional persekutuan di Borneo diisi anak tempatan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/02/lebih-70-jawatan-pengurusan-profesional-persekutuan-di-borneo-diisi-anak-tempatan",
+      "published_date": "2026-11-02T12:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senat AS sahkan lantikan Joshua Harris duta besar ke Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/02/senat-as-sahkan-lantikan-joshua-harris-duta-besar-ke-malaysia",
+      "published_date": "2026-11-02T11:44:22+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Bedfellows and backstabbers on the winding road to Putrajaya",
       "source": "Free Malaysia Today",
@@ -307,69 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/prn-sarawak-dap-tanding-7-kerusi-di-kuching-bau",
       "published_date": "2026-11-01T15:42:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "VFive Group salur sumbangan kepada Peryatim Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/vfive-group-salur-sumbangan-kepada-peryatim-sarawak",
-      "published_date": "2026-11-01T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiada senarai menteri, wakil rakyat digugurkan pada PRN Sarawak, kata GPS",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/tiada-senarai-menteri-wakil-rakyat-digugurkan-pada-prn-sarawak-kata-gps",
-      "published_date": "2026-11-01T12:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No list of ministers, reps to be dropped for Sarawak polls, says GPS",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/no-list-of-ministers-reps-to-be-dropped-for-sarawak-polls-says-gps",
-      "published_date": "2026-11-01T11:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Runner dies after collapsing during half-marathon run in Putrajaya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/runner-dies-after-collapsing-during-garmin-run-in-putrajaya",
-      "published_date": "2026-11-01T11:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Media Innovation Fund 2.0 To Strengthen Newsroom, Safeguards Job",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628417",
-      "published_date": "2026-11-01T01:49:48.816305+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Hylo Open: Malaysia’s Campaign Ends In Semis",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628429",
-      "published_date": "2026-11-01T01:49:48.815655+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MTL, Super El Nino: Malaysia Faces Flood And Drought Risks",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628430",
-      "published_date": "2026-11-01T01:49:48.813043+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiada asas undang-undang tahan budak 9 tahun, kata aktivis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/01/tiada-asas-undang-undang-tahan-budak-9-tahun-kata-aktivis",
-      "published_date": "2026-11-01T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No legal basis to hold 9-year-old in remand, says activist",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/no-legal-basis-to-hold-9-year-old-in-remand-says-activist",
-      "published_date": "2026-11-01T00:00:00+00:00",
       "category": "Local Events"
     }
   ]
