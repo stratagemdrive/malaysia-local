@@ -73,16 +73,30 @@
       "url": "http://www.bernama.com/en/news.php?id=2627058",
       "published_date": "2026-10-28T16:57:54.602029+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Ringgit slips versus US dollar, closes higher against major currencies",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/27/ringgit-closes-higher-against-major-currencies-slips-versus-us-dollar",
-      "published_date": "2026-10-27T10:45:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Putrajaya to defend itself against RM13bil Duta Enclave land suit",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/putrajaya-to-defend-itself-against-rm13bil-duta-enclave-land-suit",
+      "published_date": "2026-11-03T13:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt to gazette Sabah grant order by year end, says Amir",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/govt-to-gazette-sabah-grant-order-by-year-end-says-amir",
+      "published_date": "2026-11-03T11:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit eases against greenback amid AI investment pullback",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/ringgit-eases-against-greenback-amid-ai-investment-pullback",
+      "published_date": "2026-11-03T10:37:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bursa sees choppy start amid mixed Wall Street cues",
       "source": "Free Malaysia Today",
@@ -201,23 +215,65 @@
       "url": "http://www.bernama.com/en/news.php?id=2627039",
       "published_date": "2026-10-28T16:57:54.604848+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit ends higher amid confidence in Malaysia’s economic fundamentals",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/ringgit-ends-higher-amid-confidence-in-malaysia-s-economic-fundamentals",
-      "published_date": "2026-10-28T10:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit rises against US dollar for eighth straight day",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/ringgit-rises-against-us-dollar-for-eighth-straight-day",
-      "published_date": "2026-10-28T00:31:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Kita bersaudara, pintu kolaborasi mesti sentiasa terbuka, kata pemimpin PKR",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kita-bersaudara-pintu-kolaborasi-mesti-sentiasa-terbuka-kata-pemimpin-pkr",
+      "published_date": "2026-11-03T15:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Putrajaya akan cabar saman baharu berkait Enklaf Duta",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/putrajaya-akan-cabar-saman-baharu-berkait-enklaf-duta",
+      "published_date": "2026-11-03T13:59:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unheralded Chia Wei Jie-Teo Ee Yi shock Chinese duo in Korea Open opener",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/unheralded-chia-wei-jie-teo-ee-yi-shock-chinese-duo-in-korea-open-opener",
+      "published_date": "2026-11-03T13:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mengapa UNHCR masih daftar pelarian, soal Radzi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/mengapa-unhcr-masih-daftar-pelarian-soal-radzi",
+      "published_date": "2026-11-03T12:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is UNHCR still registering refugees, asks Radzi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/why-is-unhcr-still-registering-refugees-asks-radzi",
+      "published_date": "2026-11-03T12:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azman pertaruh pengalaman PKR KL, akses Putrajaya rebut Paya Rumput",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/azman-pertaruh-pengalaman-pkr-kl-akses-putrajaya-rebut-paya-rumput",
+      "published_date": "2026-11-03T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UKM enters Asia’s top 20 as UM slips to 17th",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/ukm-enters-asia-s-top-20-as-um-slips-to-17th",
+      "published_date": "2026-11-03T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kerajaan gazet geran khas Sabah sebelum akhir tahun ini, kata Amir",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kerajaan-gazet-geran-khas-sabah-sebelum-akhir-tahun-ini-kata-amir",
+      "published_date": "2026-11-03T11:38:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : No Areas With Unhealthy Air Quality At 9 Am",
       "source": "BERNAMA",
@@ -300,62 +356,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/sabah-s-40-grant-rm1-5bil-payout-and-the-unresolved-formula",
       "published_date": "2026-11-03T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahkamah isytihar anak angkat lahir di Malaysia sebagai warganegara",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/mahkamah-isytihar-anak-angkat-lahir-di-malaysia-sebagai-warganegara",
-      "published_date": "2026-11-03T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court declares adopted child born in Malaysia a citizen",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/court-declares-adopted-child-born-in-malaysia-a-citizen",
-      "published_date": "2026-11-03T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sabah Rural Road Projects Not Cancelled, Only Postponed - Mustapha",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629193",
-      "published_date": "2026-11-02T20:37:44.106508+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : UMK Mobilises Aid For Graduating Student Who Lost Parents In Gerik Crash",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629205",
-      "published_date": "2026-11-02T20:37:44.105823+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : ECRL Boosts Kuala Lumpur’s Spot On Frommer’s 2027 Best Places List",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629206",
-      "published_date": "2026-11-02T20:37:44.105537+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 10,036 Patients With Organ Failure Highlight Need For Transplant Reforms",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629207",
-      "published_date": "2026-11-02T20:37:44.105255+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : More Than 500 Homes Affected By Floods In Sungai Buloh",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629208",
-      "published_date": "2026-11-02T20:37:44.104017+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GPS tolak kerjasama pilihan raya dengan parti Semenanjung",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/02/gps-tolak-kerjasama-pilihan-raya-dengan-parti-semenanjung",
-      "published_date": "2026-11-02T14:58:31+00:00",
       "category": "Local Events"
     }
   ]
