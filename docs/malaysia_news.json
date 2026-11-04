@@ -38,6 +38,13 @@
   ],
   "Military": [
     {
+      "title": "General : Govt Weighs Three Missile System Options Following NSM Export Permit Cancellation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630219",
+      "published_date": "2026-11-04T18:26:06.142927+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : Myanmar Begins Releasing Rakhine Returnees From Malaysia - Report",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2628396",
@@ -61,21 +68,56 @@
   ],
   "Energy": [
     {
+      "title": "General : From Racetrack To Mangroves: Blue Carbon Collective Takes Root In Johor",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630224",
+      "published_date": "2026-11-04T18:26:06.141369+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Business : TNB Recognised As Brand of The Year At The World Branding Awards 2026–2027",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630227",
+      "published_date": "2026-11-04T18:26:06.139525+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "General : Melaka Visit Strictly On Official Business To Officiate Energy Event - Fadillah",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630230",
+      "published_date": "2026-11-04T18:26:06.138157+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "General : SEDA Malaysia Committed To Strengthening Information Delivery On Renewable Energy",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2628380",
       "published_date": "2026-10-31T15:56:42.520943+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Business : Commodity Prices To Rise 23 Pct This Year, Further Supply Shocks Expected As Oil Stocks Depleted - World Bank",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627058",
-      "published_date": "2026-10-28T16:57:54.602029+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "LGMPC rendered dormant over performance, changes to business model, says minister",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/lgmpc-rendered-dormant-over-performance-changes-to-business-model-says-minister",
+      "published_date": "2026-11-04T12:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Google set to invest RM61bil in Malaysia over 2027-28",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/google-set-to-invest-rm61bil-in-malaysia-over-2027-28",
+      "published_date": "2026-11-04T12:04:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit closes higher ahead of BNM’s OPR decision",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-closes-higher-ahead-of-bnm-s-opr-decision",
+      "published_date": "2026-11-04T10:24:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bursa opens higher but reverses early gains amid cautious sentiment",
       "source": "Free Malaysia Today",
@@ -194,30 +236,58 @@
       "url": "http://www.bernama.com/en/news.php?id=2627575",
       "published_date": "2026-10-29T17:18:18.128424+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Govt Plans To Reform Development Expenditure Allocation Based On States’ Needs",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627586",
-      "published_date": "2026-10-29T17:18:18.125418+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : State Exco Meeting On Orange Economy Expected In November – Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627060",
-      "published_date": "2026-10-29T02:04:58.623214+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Features : Perak HIP To Drive Malaysia's Regional Halal Economy Ambition",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627105",
-      "published_date": "2026-10-29T02:04:58.620389+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : PPZ-MAIWP Contributes RM70,000 To 14 Media Welfare Organisations",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630220",
+      "published_date": "2026-11-04T18:26:06.142526+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Two Bernama Journalists Honoured At PPZ-MAIWP Media Inspiration Awards",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630221",
+      "published_date": "2026-11-04T18:26:06.142074+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Court Can Issue Property Restrictions On Illegally Gained Proceeds Under Cyber Crime Bill - Ahmad Zahid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630223",
+      "published_date": "2026-11-04T18:26:06.141644+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : PM Congratulates HSJ On Historic Launch Of Specialised Cardiac Services",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630225",
+      "published_date": "2026-11-04T18:26:06.139759+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chopper did not make emergency landing, says operator",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/chopper-did-not-make-emergency-landing-says-operator",
+      "published_date": "2026-11-04T14:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keputusan mendormankan LGMPC disebabkan prestasi sejak 2018, kata menteri",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/keputusan-mendormankan-lgmpc-disebabkan-prestasi-sejak-2018-kata-menteri",
+      "published_date": "2026-11-04T11:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Google rancang labur RM61 bilion di Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/google-rancang-labur-rm61-bilion-di-malaysia",
+      "published_date": "2026-11-04T11:01:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "From tiny bowls to banana leaves: the food ideas Tony Lim leaves behind",
       "source": "Free Malaysia Today",
@@ -307,55 +377,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2629278",
       "published_date": "2026-11-03T03:49:37.344503+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : SMCV Unveils Malaysia's First Educational Stroke Mirror To Strengthen Public Awareness",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629280",
-      "published_date": "2026-11-03T03:49:37.343794+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : US Open: Sivasangari Last Malaysian Standing In Philadelphia",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629282",
-      "published_date": "2026-11-03T03:49:37.341050+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiada permohonan ekstradisi baharu terhadap Zakir Naik, kata Saifuddin",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/tiada-permohonan-ekstradisi-baharu-terhadap-zakir-naik-kata-saifuddin",
-      "published_date": "2026-11-03T03:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No new extradition request for Zakir Naik, says Saifuddin",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/no-new-extradition-request-for-zakir-naik-says-saifuddin",
-      "published_date": "2026-11-03T03:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dzulkefly digesa jelaskan pusingan U berkait nikotin cecair",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/dzulkefly-digesa-jelaskan-pusingan-u-berkait-nikotin-cecair",
-      "published_date": "2026-11-03T02:06:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explain liquid nicotine U-turn, MMA urges health minister",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/explain-liquid-nicotine-u-turn-mma-urges-health-minister",
-      "published_date": "2026-11-03T01:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerajaan digesa iktiraf ‘Dayak’ sebagai klasifikasi kaum rasmi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kerajaan-digesa-iktiraf-dayak-sebagai-klasifikasi-kaum-rasmi",
-      "published_date": "2026-11-03T01:11:38+00:00",
       "category": "Local Events"
     }
   ]
