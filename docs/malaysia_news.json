@@ -77,6 +77,27 @@
   ],
   "Economy": [
     {
+      "title": "Bursa opens higher but reverses early gains amid cautious sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/bursa-opens-higher-but-reverses-early-gains-amid-cautious-sentiment",
+      "published_date": "2026-11-04T01:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "When religion becomes a vote bank, faith suffers most",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/04/when-religion-becomes-a-vote-bank-faith-suffers-most",
+      "published_date": "2026-11-04T00:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens marginally higher against US dollar",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-opens-marginally-higher-against-us-dollar-21",
+      "published_date": "2026-11-04T00:30:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Putrajaya to defend itself against RM13bil Duta Enclave land suit",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/putrajaya-to-defend-itself-against-rm13bil-duta-enclave-land-suit",
@@ -194,30 +215,30 @@
       "url": "http://www.bernama.com/en/news.php?id=2627105",
       "published_date": "2026-10-29T02:04:58.620389+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher on expectations of OPR normalisation",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/ringgit-opens-higher-on-expectations-of-opr-normalisation",
-      "published_date": "2026-10-29T00:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why Malaysian youths haven’t taken to the streets",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/why-malaysian-youths-haven-t-taken-to-the-streets",
-      "published_date": "2026-10-28T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : MACC Still Investigating KWAP's Investment In Efishery -- MoF",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627039",
-      "published_date": "2026-10-28T16:57:54.604848+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "From tiny bowls to banana leaves: the food ideas Tony Lim leaves behind",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/04/from-tiny-bowls-to-banana-leaves-the-food-ideas-tony-lim-leaves-behind",
+      "published_date": "2026-11-03T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rights groups question need for curbs on Rohingya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/rights-groups-question-need-for-curbs-on-rohingyas",
+      "published_date": "2026-11-03T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kumpulan hak asasi persoal keperluan sekatan terhadap Rohingya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/kumpulan-hak-asasi-persoal-keperluan-sekatan-terhadap-rohingya",
+      "published_date": "2026-11-03T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Kita bersaudara, pintu kolaborasi mesti sentiasa terbuka, kata pemimpin PKR",
       "source": "Free Malaysia Today",
@@ -335,27 +356,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kerajaan-digesa-iktiraf-dayak-sebagai-klasifikasi-kaum-rasmi",
       "published_date": "2026-11-03T01:11:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recognise ‘Dayak’ as official race classification, PBDS urges govt",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/recognise-dayak-as-official-race-classification-pbds-urges-govt",
-      "published_date": "2026-11-03T01:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hak 40% Sabah, bayaran RM1.5 bilion dan formula belum dimuktamadkan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/hak-40-sabah-bayaran-rm1-5-bilion-dan-formula-belum-dimuktamadkan",
-      "published_date": "2026-11-03T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabah’s 40% grant, RM1.5bil payout and the unresolved formula",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/sabah-s-40-grant-rm1-5bil-payout-and-the-unresolved-formula",
-      "published_date": "2026-11-03T01:00:00+00:00",
       "category": "Local Events"
     }
   ]
