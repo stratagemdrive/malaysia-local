@@ -27,13 +27,6 @@
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/30/gary-tang-honoured-for-guiding-m-sian-students-in-japan",
       "published_date": "2026-10-29T23:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Malaysia committed to strengthening Asean, wider defence ties",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/29/malaysia-committed-to-strengthening-asean-wider-defence-ties",
-      "published_date": "2026-10-29T12:01:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -97,6 +90,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Govt Grants Flexibility In REE Export Moratorium To Attract Investors",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630700",
+      "published_date": "2026-11-05T18:30:13.319906+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : MITI: MEUFTA Intellectual Property Chapter Still Under Negotiation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630701",
+      "published_date": "2026-11-05T18:30:13.318550+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit extends gains as BNM holds OPR at 2.75%",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-extends-gains-as-bnm-holds-opr-at-2-75",
+      "published_date": "2026-11-05T10:27:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Minimum Wage, Targeted Assistance Part Of Broader Economic Balancing Act – Amir Hamzah",
       "source": "BERNAMA",
@@ -215,30 +229,44 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/02/ringgit-opens-higher-on-expectations-of-opr-normalisation-2",
       "published_date": "2026-11-02T00:34:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Britain will put wildlife on banknotes – something Malaysia did years ago",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/01/britain-will-put-wildlife-on-banknotes-something-malaysia-did-years-ago",
-      "published_date": "2026-10-31T23:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Malaysia must watch Saudi Arabia with increased scrutiny",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/31/malaysia-must-watch-saudi-arabia-with-increased-scrutiny",
-      "published_date": "2026-10-31T00:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : MPM Puts Forward Six Proposals To Empower Bumiputera Economy Under Budget 2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628009",
-      "published_date": "2026-10-30T16:56:19.366828+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Europe's Food Spoilage Cyber Incident A Timely Lesson For Malaysia - Expert",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630690",
+      "published_date": "2026-11-05T18:30:13.321452+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : KKDW Diverts RM200 Mln From Rural Housing Programme To Settle Rural Road Arrears",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630692",
+      "published_date": "2026-11-05T18:30:13.320967+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Hanifah Hajar Meets Wangsa Maju MP, Provides Reply After Missing Dewan Rakyat Question",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630697",
+      "published_date": "2026-11-05T18:30:13.320473+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunjuk bukti projek luar bandar batal,  Rayer gesa Zahid",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/tunjuk-bukti-projek-luar-bandar-batal-rayer-gesa-zahid",
+      "published_date": "2026-11-05T12:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tealive lancar teh soda prebiotik sedia diminum pertama di Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/tealive-lancar-teh-soda-prebiotik-sedia-diminum-pertama-di-malaysia",
+      "published_date": "2026-11-05T10:53:07+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : M’sia Can Take Legal Action Against Overseas Cybercriminals - DPM Zahid",
       "source": "BERNAMA",
@@ -342,41 +370,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/keputusan-mendormankan-lgmpc-disebabkan-prestasi-sejak-2018-kata-menteri",
       "published_date": "2026-11-04T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Google rancang labur RM61 bilion di Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/google-rancang-labur-rm61-bilion-di-malaysia",
-      "published_date": "2026-11-04T11:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From tiny bowls to banana leaves: the food ideas Tony Lim leaves behind",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/04/from-tiny-bowls-to-banana-leaves-the-food-ideas-tony-lim-leaves-behind",
-      "published_date": "2026-11-03T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rights groups question need for curbs on Rohingya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/rights-groups-question-need-for-curbs-on-rohingyas",
-      "published_date": "2026-11-03T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kumpulan hak asasi persoal keperluan sekatan terhadap Rohingya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/kumpulan-hak-asasi-persoal-keperluan-sekatan-terhadap-rohingya",
-      "published_date": "2026-11-03T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kita bersaudara, pintu kolaborasi mesti sentiasa terbuka, kata pemimpin PKR",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kita-bersaudara-pintu-kolaborasi-mesti-sentiasa-terbuka-kata-pemimpin-pkr",
-      "published_date": "2026-11-03T15:34:13+00:00",
       "category": "Local Events"
     }
   ]
