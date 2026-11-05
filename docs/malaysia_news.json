@@ -98,6 +98,34 @@
   ],
   "Economy": [
     {
+      "title": "Business : Minimum Wage, Targeted Assistance Part Of Broader Economic Balancing Act – Amir Hamzah",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630284",
+      "published_date": "2026-11-05T03:06:54.935063+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa opens firmer on improved global sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/bursa-opens-firmer-on-improved-global-sentiment",
+      "published_date": "2026-11-05T01:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher ahead of expected OPR hike",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-opens-higher-ahead-of-expected-opr-hike",
+      "published_date": "2026-11-05T00:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Understanding Sabah’s tax revenue sharing entitlement",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/05/understanding-sabah-s-tax-revenue-sharing-entitlement",
+      "published_date": "2026-11-04T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "LGMPC rendered dormant over performance, changes to business model, says minister",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/lgmpc-rendered-dormant-over-performance-changes-to-business-model-says-minister",
@@ -208,37 +236,72 @@
       "url": "http://www.bernama.com/en/news.php?id=2628009",
       "published_date": "2026-10-30T16:56:19.366828+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Global Air Passenger Demand Down 0.5 Pct In September Amid Weaknesses In Middle East, North America",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628012",
-      "published_date": "2026-10-30T16:56:19.366315+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa slips into negative territory after higher opening",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/30/bursa-slips-into-negative-territory-after-higher-opening",
-      "published_date": "2026-10-30T01:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher vs US dollar for tenth straight day",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/30/ringgit-opens-higher-vs-us-dollar-for-tenth-straight-day",
-      "published_date": "2026-10-30T00:32:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World : Second Round Of Malaysia-Bangladesh FTA Talks To Take Place In January",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2627575",
-      "published_date": "2026-10-29T17:18:18.128424+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : M’sia Can Take Legal Action Against Overseas Cybercriminals - DPM Zahid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630290",
+      "published_date": "2026-11-05T03:06:54.934680+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Media Innovation Fund 2.0 Vital For Sabah Newsroom Sustainability",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630295",
+      "published_date": "2026-11-05T03:06:54.934223+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Ninth Silk Road Expo In Dunhuang Promotes Cultural Exchange",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630303",
+      "published_date": "2026-11-05T03:06:54.932515+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GPS tiada sebab untuk kerjasama dengan PKR, kata penganalisis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/gps-tiada-sebab-untuk-kerjasama-dengan-pkr-kata-penganalisis",
+      "published_date": "2026-11-05T02:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memposisikan Wan Azizah dalam memori Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/05/memposisikan-wan-azizah-dalam-memori-malaysia",
+      "published_date": "2026-11-05T01:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 local films doing interesting things with Malaysian stories",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/05/3-local-films-doing-interesting-things-with-malaysian-stories",
+      "published_date": "2026-11-05T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court rejects stateless man’s bid for citizenship through Malaysian father",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/05/court-rejects-stateless-man-s-bid-for-citizenship-through-malaysian-father",
+      "published_date": "2026-11-04T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Running past paddy fields: a scenic weekend in Sekinchan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/05/running-past-paddy-fields-a-scenic-weekend-in-sekinchan",
+      "published_date": "2026-11-04T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahkamah tolak tuntutan kerakyatan anak tanpa negara berbapakan warga Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/mahkamah-tolak-tuntutan-kerakyatan-anak-tanpa-negara-berbapakan-warga-malaysia",
+      "published_date": "2026-11-04T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : PPZ-MAIWP Contributes RM70,000 To 14 Media Welfare Organisations",
       "source": "BERNAMA",
@@ -314,69 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kita-bersaudara-pintu-kolaborasi-mesti-sentiasa-terbuka-kata-pemimpin-pkr",
       "published_date": "2026-11-03T15:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putrajaya akan cabar saman baharu berkait Enklaf Duta",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/putrajaya-akan-cabar-saman-baharu-berkait-enklaf-duta",
-      "published_date": "2026-11-03T13:59:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unheralded Chia Wei Jie-Teo Ee Yi shock Chinese duo in Korea Open opener",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/unheralded-chia-wei-jie-teo-ee-yi-shock-chinese-duo-in-korea-open-opener",
-      "published_date": "2026-11-03T13:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mengapa UNHCR masih daftar pelarian, soal Radzi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/mengapa-unhcr-masih-daftar-pelarian-soal-radzi",
-      "published_date": "2026-11-03T12:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is UNHCR still registering refugees, asks Radzi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/why-is-unhcr-still-registering-refugees-asks-radzi",
-      "published_date": "2026-11-03T12:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azman pertaruh pengalaman PKR KL, akses Putrajaya rebut Paya Rumput",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/azman-pertaruh-pengalaman-pkr-kl-akses-putrajaya-rebut-paya-rumput",
-      "published_date": "2026-11-03T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UKM enters Asia’s top 20 as UM slips to 17th",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/ukm-enters-asia-s-top-20-as-um-slips-to-17th",
-      "published_date": "2026-11-03T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerajaan gazet geran khas Sabah sebelum akhir tahun ini, kata Amir",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/03/kerajaan-gazet-geran-khas-sabah-sebelum-akhir-tahun-ini-kata-amir",
-      "published_date": "2026-11-03T11:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : No Areas With Unhealthy Air Quality At 9 Am",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629269",
-      "published_date": "2026-11-03T03:49:37.344963+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : MOE Opens Special Channel Allowing PIBG To Apply For School Repair Funds In 2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629278",
-      "published_date": "2026-11-03T03:49:37.344503+00:00",
       "category": "Local Events"
     }
   ]
