@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "World : DPM Zahid Pays Courtesy Call On Erdogan, Strengthens Bilateral Relations, Trade",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631168",
+      "published_date": "2026-11-06T17:48:02.964783+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World : Malaysia-Turkiye Defence Cooperation Goes Beyond Equipment Procurement - Ahmad Zahid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631175",
+      "published_date": "2026-11-06T17:48:02.963951+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : Malaysia, Finland Exploring Higher Education Cooperation In Research, AI - Zambry",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2629192",
@@ -43,16 +57,16 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/sabah-short-of-245-medical-officers-after-replacements-fail-to-turn-up",
       "published_date": "2026-10-31T09:14:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sabah defence build-up not aimed at Philippines, says Khaled",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/sabah-defence-build-up-not-aimed-at-philippines-says-khaled",
-      "published_date": "2026-10-30T11:24:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "General : Plantation Companies-Oil Palm Smallholders Collaboration To Be Raised In Cabinet Next Week -- PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631167",
+      "published_date": "2026-11-06T17:48:02.964827+00:00",
+      "category": "Energy"
+    },
     {
       "title": "General : From Racetrack To Mangroves: Blue Carbon Collective Takes Root In Johor",
       "source": "BERNAMA",
@@ -83,6 +97,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : Rationalisation Of Subsidy Must Not Compromise Livelihoods Of Poor - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631172",
+      "published_date": "2026-11-06T17:48:02.963992+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "General : Bank Rakyat Website Experiences Temporary Disruption",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631181",
+      "published_date": "2026-11-06T17:48:02.961570+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit slips against US dollar amid global risk-off sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/ringgit-slips-against-us-dollar-amid-global-risk-off-sentiment",
+      "published_date": "2026-11-06T10:25:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : BNM Likely To Raise OPR By 25 Basis Points In 2027 - Analysts",
       "source": "BERNAMA",
@@ -201,30 +236,72 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/putrajaya-to-defend-itself-against-rm13bil-duta-enclave-land-suit",
       "published_date": "2026-11-03T13:16:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Govt to gazette Sabah grant order by year end, says Amir",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/govt-to-gazette-sabah-grant-order-by-year-end-says-amir",
-      "published_date": "2026-11-03T11:20:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit eases against greenback amid AI investment pullback",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/ringgit-eases-against-greenback-amid-ai-investment-pullback",
-      "published_date": "2026-11-03T10:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa sees choppy start amid mixed Wall Street cues",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/bursa-sees-choppy-start-amid-mixed-wall-street-cues",
-      "published_date": "2026-11-03T01:33:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Sultan Selangor Graces Launch Of Yayasan Sultan Selangor In Conjunction With Silver Jubilee Celebration",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631165",
+      "published_date": "2026-11-06T17:48:02.965046+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 'Merakyatkan Muzium’ Initiative To Be Intensified To Keep Institutions Dynamic - Aaron",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631171",
+      "published_date": "2026-11-06T17:48:02.964305+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Nation Needs Proactive Approach To Counter Cyber Threats - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631177",
+      "published_date": "2026-11-06T17:48:02.963599+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Agricultural Modernisation Key To Strengthening Food Security – Mohamad",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631180",
+      "published_date": "2026-11-06T17:48:02.963063+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perkasa pelajar Malaysia, YTL Corp peruntuk RM27.2 juta untuk program biasiswa LSE",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/perkasa-pelajar-malaysia-ytl-corp-peruntuk-rm27-2-juta-untuk-program-biasiswa-lse",
+      "published_date": "2026-11-06T15:53:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Najib’s home at Taman Duta declared a prison",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/najib-s-home-at-taman-duta-declared-a-prison",
+      "published_date": "2026-11-06T15:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "YTL commits RM27.2mil to LSE scholarships for Malaysian students",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/ytl-commits-rm27-2mil-to-lse-scholarships-for-malaysian-students",
+      "published_date": "2026-11-06T15:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bright lights seen in Malaysian skies as Nasa satellite burns up",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/bright-lights-seen-in-malaysian-skies-as-nasa-satellite-burns-up",
+      "published_date": "2026-11-06T12:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wei Chong-Kai Wun to face world No 1 pair at Korea Open semis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/06/wei-chong-kai-wun-to-face-world-no-1-pair-at-korea-open-semis",
+      "published_date": "2026-11-06T11:58:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Hindus To Celebrate Deepavali On Sunday",
       "source": "BERNAMA",
@@ -300,69 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/tealive-lancar-teh-soda-prebiotik-sedia-diminum-pertama-di-malaysia",
       "published_date": "2026-11-05T10:53:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : M’sia Can Take Legal Action Against Overseas Cybercriminals - DPM Zahid",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630290",
-      "published_date": "2026-11-05T03:06:54.934680+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Media Innovation Fund 2.0 Vital For Sabah Newsroom Sustainability",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630295",
-      "published_date": "2026-11-05T03:06:54.934223+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Ninth Silk Road Expo In Dunhuang Promotes Cultural Exchange",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630303",
-      "published_date": "2026-11-05T03:06:54.932515+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GPS tiada sebab untuk kerjasama dengan PKR, kata penganalisis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/gps-tiada-sebab-untuk-kerjasama-dengan-pkr-kata-penganalisis",
-      "published_date": "2026-11-05T02:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memposisikan Wan Azizah dalam memori Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/05/memposisikan-wan-azizah-dalam-memori-malaysia",
-      "published_date": "2026-11-05T01:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 local films doing interesting things with Malaysian stories",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/05/3-local-films-doing-interesting-things-with-malaysian-stories",
-      "published_date": "2026-11-05T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court rejects stateless man’s bid for citizenship through Malaysian father",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/05/court-rejects-stateless-man-s-bid-for-citizenship-through-malaysian-father",
-      "published_date": "2026-11-04T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Running past paddy fields: a scenic weekend in Sekinchan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/05/running-past-paddy-fields-a-scenic-weekend-in-sekinchan",
-      "published_date": "2026-11-04T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahkamah tolak tuntutan kerakyatan anak tanpa negara berbapakan warga Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/mahkamah-tolak-tuntutan-kerakyatan-anak-tanpa-negara-berbapakan-warga-malaysia",
-      "published_date": "2026-11-04T23:30:00+00:00",
       "category": "Local Events"
     }
   ]
