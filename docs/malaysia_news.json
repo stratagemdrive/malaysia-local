@@ -20,13 +20,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2628421",
       "published_date": "2026-11-01T01:49:48.816275+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Gary Tang honoured for guiding M’sian students in Japan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/10/30/gary-tang-honoured-for-guiding-m-sian-students-in-japan",
-      "published_date": "2026-10-29T23:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -90,6 +83,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : BNM Likely To Raise OPR By 25 Basis Points In 2027 - Analysts",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630728",
+      "published_date": "2026-11-06T03:07:11.810726+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wall Street sell-off drags Bursa lower at opening",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/wall-street-sell-off-drags-bursa-lower-at-opening",
+      "published_date": "2026-11-06T01:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens lower amid mixed US economic, market signals",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/ringgit-opens-lower-amid-mixed-us-economic-market-signals",
+      "published_date": "2026-11-06T00:32:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Govt Grants Flexibility In REE Export Moratorium To Attract Investors",
       "source": "BERNAMA",
@@ -208,30 +222,51 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/bursa-sees-choppy-start-amid-mixed-wall-street-cues",
       "published_date": "2026-11-03T01:33:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens slightly higher amid hopes of US-Iran talks progress",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/ringgit-opens-slightly-higher-amid-hopes-of-us-iran-talks-progress",
-      "published_date": "2026-11-03T00:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : 14 Official And Trade Missions Abroad Generate RM59.5 Bln In Potential Investments",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629204",
-      "published_date": "2026-11-02T20:37:44.106123+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher on expectations of OPR normalisation",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/02/ringgit-opens-higher-on-expectations-of-opr-normalisation-2",
-      "published_date": "2026-11-02T00:34:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Hindus To Celebrate Deepavali On Sunday",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630764",
+      "published_date": "2026-11-06T03:07:11.810127+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Fahmi Leads Malaysia's ITU Council Re-Election Bid In Doha",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630769",
+      "published_date": "2026-11-06T03:07:11.809471+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Sarawak Polls Set On Dec 12 - EC",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2630773",
+      "published_date": "2026-11-06T03:07:11.806884+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PRN Sarawak 12 Dis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/prn-sarawak-ditetapkan-12-dis",
+      "published_date": "2026-11-06T02:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sarawak polls slated for Dec 12",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/sarawak-polls-slated-for-dec-12",
+      "published_date": "2026-11-06T02:39:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PKR Sarawak digesa beri laluan kepada DAP di Batu Lintang",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/pkr-sarawak-digesa-beri-laluan-kepada-dap-di-batu-lintang",
+      "published_date": "2026-11-05T23:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Europe's Food Spoilage Cyber Incident A Timely Lesson For Malaysia - Expert",
       "source": "BERNAMA",
@@ -328,48 +363,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/mahkamah-tolak-tuntutan-kerakyatan-anak-tanpa-negara-berbapakan-warga-malaysia",
       "published_date": "2026-11-04T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : PPZ-MAIWP Contributes RM70,000 To 14 Media Welfare Organisations",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630220",
-      "published_date": "2026-11-04T18:26:06.142526+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Two Bernama Journalists Honoured At PPZ-MAIWP Media Inspiration Awards",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630221",
-      "published_date": "2026-11-04T18:26:06.142074+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Court Can Issue Property Restrictions On Illegally Gained Proceeds Under Cyber Crime Bill - Ahmad Zahid",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630223",
-      "published_date": "2026-11-04T18:26:06.141644+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : PM Congratulates HSJ On Historic Launch Of Specialised Cardiac Services",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630225",
-      "published_date": "2026-11-04T18:26:06.139759+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chopper did not make emergency landing, says operator",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/chopper-did-not-make-emergency-landing-says-operator",
-      "published_date": "2026-11-04T14:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keputusan mendormankan LGMPC disebabkan prestasi sejak 2018, kata menteri",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/04/keputusan-mendormankan-lgmpc-disebabkan-prestasi-sejak-2018-kata-menteri",
-      "published_date": "2026-11-04T11:43:00+00:00",
       "category": "Local Events"
     }
   ]
