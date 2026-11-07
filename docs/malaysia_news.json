@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "World : Malaysian Embassy In Finland Celebrates Deepavali, Promotes Cultural Ties",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631493",
+      "published_date": "2026-11-07T16:43:58.166882+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "World : Malaysia-Turkiye Defence Cooperation Goes Beyond Equipment Procurement - Ahmad Zahid",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631175",
@@ -38,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "Ties with Lebanon to continue after peacekeepers return, says Zahid",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/ties-with-lebanon-to-continue-after-peacekeepers-return-says-zahid",
+      "published_date": "2026-11-07T13:36:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : Govt Weighs Three Missile System Options Following NSM Export Permit Cancellation",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2630219",
@@ -50,16 +64,16 @@
       "url": "http://www.bernama.com/en/news.php?id=2628396",
       "published_date": "2026-11-01T01:49:48.816805+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sabah short of 245 medical officers after replacements fail to turn up",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/31/sabah-short-of-245-medical-officers-after-replacements-fail-to-turn-up",
-      "published_date": "2026-10-31T09:14:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Sarawak plans to install floating solar power unit to power Kuching",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/sarawak-plans-floating-solar-power-unit-to-power-kuching",
+      "published_date": "2026-11-07T13:58:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "General : Plantation Companies-Oil Palm Smallholders Collaboration To Be Raised In Cabinet Next Week -- PM Anwar",
       "source": "BERNAMA",
@@ -86,13 +100,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2630230",
       "published_date": "2026-11-04T18:26:06.138157+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "General : SEDA Malaysia Committed To Strengthening Information Delivery On Renewable Energy",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628380",
-      "published_date": "2026-10-31T15:56:42.520943+00:00",
       "category": "Energy"
     }
   ],
@@ -240,6 +247,69 @@
   ],
   "Local Events": [
     {
+      "title": "General : National Cybersecurity Situation Under Control, Threat Level Moderate - MKN",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631491",
+      "published_date": "2026-11-07T16:43:58.167309+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Deepavali: Traffic Flow On Major Highways Smooth Tonight",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631492",
+      "published_date": "2026-11-07T16:43:58.166946+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Building A Great Nation Begins With Happy Families - Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631496",
+      "published_date": "2026-11-07T16:43:58.166530+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : MARA Forges Partnerships With Two Turkish Universities",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631501",
+      "published_date": "2026-11-07T16:43:58.166124+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Bethel GSM, Hilton PJ Join Hands To Support Vulnerable Communities",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631503",
+      "published_date": "2026-11-07T16:43:58.165638+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Ministers, Menteris Besar Convey Deepavali Wishes Of Peace And Prosperity",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631516",
+      "published_date": "2026-11-07T16:43:58.163861+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don’t be fooled by claims of cyberattack, says security council",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/don-t-be-fooled-by-claims-of-cyberattack-says-security-council",
+      "published_date": "2026-11-07T14:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia bukan ‘bidak catur’ kuasa besar pembangunan 5G, kata Fahmi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/07/malaysia-bukan-bidak-catur-kuasa-besar-pembangunan-5g-kata-fahmi",
+      "published_date": "2026-11-07T11:37:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traffic slow on major highways as congestion builds up for Deepavali holidays",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/slow-traffic-on-major-highways-as-congestion-builds-up-for-deepavali-holidays",
+      "published_date": "2026-11-07T10:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : 'Merakyatkan Muzium’ Initiative To Be Intensified To Keep Institutions Dynamic - Aaron",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631171",
@@ -314,69 +384,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2630764",
       "published_date": "2026-11-06T03:07:11.810127+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Fahmi Leads Malaysia's ITU Council Re-Election Bid In Doha",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630769",
-      "published_date": "2026-11-06T03:07:11.809471+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sarawak Polls Set On Dec 12 - EC",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630773",
-      "published_date": "2026-11-06T03:07:11.806884+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PRN Sarawak 12 Dis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/prn-sarawak-ditetapkan-12-dis",
-      "published_date": "2026-11-06T02:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarawak polls slated for Dec 12",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/sarawak-polls-slated-for-dec-12",
-      "published_date": "2026-11-06T02:39:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PKR Sarawak digesa beri laluan kepada DAP di Batu Lintang",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/pkr-sarawak-digesa-beri-laluan-kepada-dap-di-batu-lintang",
-      "published_date": "2026-11-05T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Europe's Food Spoilage Cyber Incident A Timely Lesson For Malaysia - Expert",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630690",
-      "published_date": "2026-11-05T18:30:13.321452+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : KKDW Diverts RM200 Mln From Rural Housing Programme To Settle Rural Road Arrears",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630692",
-      "published_date": "2026-11-05T18:30:13.320967+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Hanifah Hajar Meets Wangsa Maju MP, Provides Reply After Missing Dewan Rakyat Question",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630697",
-      "published_date": "2026-11-05T18:30:13.320473+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunjuk bukti projek luar bandar batal,  Rayer gesa Zahid",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/05/tunjuk-bukti-projek-luar-bandar-batal-rayer-gesa-zahid",
-      "published_date": "2026-11-05T12:35:00+00:00",
       "category": "Local Events"
     }
   ]
