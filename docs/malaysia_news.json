@@ -61,6 +61,13 @@
   ],
   "Energy": [
     {
+      "title": "Seven years on, where’s our electricity, MP asks Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/seven-years-on-where-s-our-electricity-mp-asks-putrajaya",
+      "published_date": "2026-11-08T14:08:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Sarawak plans to install floating solar power unit to power Kuching",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/sarawak-plans-floating-solar-power-unit-to-power-kuching",
@@ -97,6 +104,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "World : MATRADE Leads 29 Malaysian Companies In Tapping China Market At CIIE 2026",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631777",
+      "published_date": "2026-11-08T16:55:14.302861+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : Rationalisation Of Subsidy Must Not Compromise Livelihoods Of Poor - Anwar",
       "source": "BERNAMA",
@@ -229,16 +243,79 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-opens-marginally-higher-against-us-dollar-21",
       "published_date": "2026-11-04T00:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Putrajaya to defend itself against RM13bil Duta Enclave land suit",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/03/putrajaya-to-defend-itself-against-rm13bil-duta-enclave-land-suit",
-      "published_date": "2026-11-03T13:16:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sport : Hakim Danish Picks Up Nine Points At Qatar GP",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631772",
+      "published_date": "2026-11-08T16:55:14.303860+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Floods Forecast In Nine Kelantan Districts Until Wednesday",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631774",
+      "published_date": "2026-11-08T16:55:14.303286+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : FA Cup: JDT, Kuching City To Meet In The Final",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631779",
+      "published_date": "2026-11-08T16:55:14.302352+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : U-17 Asian Cup Qualifiers: Malaysia Lose 2-0 To Palestine",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631780",
+      "published_date": "2026-11-08T16:55:14.299883+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/indonesia-called-me-a-spy-says-malaysian-haze-film-maker",
+      "published_date": "2026-11-08T16:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in RM5mil shabu haul was on his way to Sabah, say police",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/suspect-in-rm5mil-syabu-haul-was-on-his-way-to-sabah-say-police",
+      "published_date": "2026-11-08T15:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudah 7 tahun berlalu, mana bekalan elektrik kami, Ahli Parlimen soal Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/08/sudah-7-tahun-berlalu-mana-bekalan-elektrik-kami-ahli-parlimen-soal-putrajaya",
+      "published_date": "2026-11-08T15:31:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Institut logistik gesa kajian komprehensif mengenai KKIA",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/08/institut-logistik-gesa-kajian-komprehensif-mengenai-kkia",
+      "published_date": "2026-11-08T12:34:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia sets example in balancing 5G geopolitical interests, says Fahmi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/malaysia-sets-example-in-balancing-5g-geopolitical-interests-says-fahmi",
+      "published_date": "2026-11-08T11:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alert level continuous rain expected in 4 states until Wednesday",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/alert-level-continuous-rain-expected-in-4-states-until-wednesday",
+      "published_date": "2026-11-08T09:50:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Ministers, Menteris Besar Convey Deepavali Wishes Of Peace And Prosperity",
       "source": "BERNAMA",
@@ -307,76 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/don-t-be-fooled-by-claims-of-cyberattack-says-security-council",
       "published_date": "2026-11-07T14:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia bukan ‘bidak catur’ kuasa besar pembangunan 5G, kata Fahmi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/07/malaysia-bukan-bidak-catur-kuasa-besar-pembangunan-5g-kata-fahmi",
-      "published_date": "2026-11-07T11:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traffic slow on major highways as congestion builds up for Deepavali holidays",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/slow-traffic-on-major-highways-as-congestion-builds-up-for-deepavali-holidays",
-      "published_date": "2026-11-07T10:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 'Merakyatkan Muzium’ Initiative To Be Intensified To Keep Institutions Dynamic - Aaron",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631171",
-      "published_date": "2026-11-07T02:32:02.508445+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Nation Needs Proactive Approach To Counter Cyber Threats - Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631177",
-      "published_date": "2026-11-07T02:32:02.507597+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Agricultural Modernisation Key To Strengthening Food Security – Mohamad",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631180",
-      "published_date": "2026-11-07T02:32:02.506962+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No unfair dismissal as HR manager’s fixed-term contract expired, court finds",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/no-unfair-dismissal-as-hr-manager-s-fixed-term-contract-expired-court-finds",
-      "published_date": "2026-11-06T23:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sultan Selangor Graces Launch Of Yayasan Sultan Selangor In Conjunction With Silver Jubilee Celebration",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631165",
-      "published_date": "2026-11-06T17:48:02.965046+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perkasa pelajar Malaysia, YTL Corp peruntuk RM27.2 juta untuk program biasiswa LSE",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/06/perkasa-pelajar-malaysia-ytl-corp-peruntuk-rm27-2-juta-untuk-program-biasiswa-lse",
-      "published_date": "2026-11-06T15:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Najib’s home at Taman Duta declared a prison",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/najib-s-home-at-taman-duta-declared-a-prison",
-      "published_date": "2026-11-06T15:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "YTL commits RM27.2mil to LSE scholarships for Malaysian students",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/ytl-commits-rm27-2mil-to-lse-scholarships-for-malaysian-students",
-      "published_date": "2026-11-06T15:19:00+00:00",
       "category": "Local Events"
     }
   ]
