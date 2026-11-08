@@ -34,16 +34,16 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/02/us-senate-confirms-joshua-harris-as-envoy-to-malaysia",
       "published_date": "2026-11-02T12:38:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : New Chinese Ambassador Yao Wen Vows To Deepen Malaysia-China Ties",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628421",
-      "published_date": "2026-11-01T01:49:48.816275+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "General : M’sia Diaspora In Qatar Conducts Evacuation Drills For War Threats",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631545",
+      "published_date": "2026-11-08T02:01:57.903115+00:00",
+      "category": "Military"
+    },
     {
       "title": "Ties with Lebanon to continue after peacekeepers return, says Zahid",
       "source": "Free Malaysia Today",
@@ -56,13 +56,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2630219",
       "published_date": "2026-11-04T18:26:06.142927+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "General : Myanmar Begins Releasing Rakhine Returnees From Malaysia - Report",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2628396",
-      "published_date": "2026-11-01T01:49:48.816805+00:00",
       "category": "Military"
     }
   ],
@@ -247,6 +240,34 @@
   ],
   "Local Events": [
     {
+      "title": "General : Ministers, Menteris Besar Convey Deepavali Wishes Of Peace And Prosperity",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631516",
+      "published_date": "2026-11-08T02:01:57.903805+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : M’sia’s International Safety Image Key To Tourist Confidence - Tiong",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631544",
+      "published_date": "2026-11-08T02:01:57.903258+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Budget 2027: RM1,000 Aid A Relief For Sabah Taxi Drivers Facing Falling Earnings",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2631549",
+      "published_date": "2026-11-08T02:01:57.901192+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politik semakin polytropos, semeja di Putrajaya, bertembung di peti undi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/11/08/politik-semakin-polytropos-semeja-di-putrajaya-bertembung-di-peti-undi",
+      "published_date": "2026-11-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : National Cybersecurity Situation Under Control, Threat Level Moderate - MKN",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631491",
@@ -279,13 +300,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631503",
       "published_date": "2026-11-07T16:43:58.165638+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Ministers, Menteris Besar Convey Deepavali Wishes Of Peace And Prosperity",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631516",
-      "published_date": "2026-11-07T16:43:58.163861+00:00",
       "category": "Local Events"
     },
     {
@@ -363,27 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/ytl-commits-rm27-2mil-to-lse-scholarships-for-malaysian-students",
       "published_date": "2026-11-06T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bright lights seen in Malaysian skies as Nasa satellite burns up",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/bright-lights-seen-in-malaysian-skies-as-nasa-satellite-burns-up",
-      "published_date": "2026-11-06T12:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wei Chong-Kai Wun to face world No 1 pair at Korea Open semis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/06/wei-chong-kai-wun-to-face-world-no-1-pair-at-korea-open-semis",
-      "published_date": "2026-11-06T11:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Hindus To Celebrate Deepavali On Sunday",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630764",
-      "published_date": "2026-11-06T03:07:11.810127+00:00",
       "category": "Local Events"
     }
   ]
