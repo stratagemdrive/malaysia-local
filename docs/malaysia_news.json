@@ -20,20 +20,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2631168",
       "published_date": "2026-11-06T17:48:02.964783+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "General : Malaysia, Finland Exploring Higher Education Cooperation In Research, AI - Zambry",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2629192",
-      "published_date": "2026-11-02T20:37:44.106814+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Senate confirms Joshua Harris as envoy to Malaysia",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/02/us-senate-confirms-joshua-harris-as-envoy-to-malaysia",
-      "published_date": "2026-11-02T12:38:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -60,6 +46,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "General : ITU PP-26: Malaysia Developing National Plan For Post-quantum Cryptography - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632062",
+      "published_date": "2026-11-09T21:16:34.330443+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Seven years on, where’s our electricity, MP asks Putrajaya",
       "source": "Free Malaysia Today",
@@ -104,6 +97,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "General : ITU PP-26: Malaysia Urges Global Shift Towards Connectivity Beyond Populated Areas - Fahmi",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632061",
+      "published_date": "2026-11-09T21:16:34.330784+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "General : Arthur: 40 Pagalungan Villages Receive Fruit Tree Saplings To Boost Agricultural Economy",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632075",
+      "published_date": "2026-11-09T21:16:34.329526+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Softbank-led Consortium’s AI Investment Reflects Global Confidence In Malaysia -- PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632079",
+      "published_date": "2026-11-09T21:16:34.327498+00:00",
+      "category": "Economy"
+    },
     {
       "title": "World : MATRADE Leads 29 Malaysian Companies In Tapping China Market At CIIE 2026",
       "source": "BERNAMA",
@@ -222,30 +236,65 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-closes-higher-ahead-of-bnm-s-opr-decision",
       "published_date": "2026-11-04T10:24:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bursa opens higher but reverses early gains amid cautious sentiment",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/bursa-opens-higher-but-reverses-early-gains-amid-cautious-sentiment",
-      "published_date": "2026-11-04T01:25:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "When religion becomes a vote bank, faith suffers most",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/04/when-religion-becomes-a-vote-bank-faith-suffers-most",
-      "published_date": "2026-11-04T00:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens marginally higher against US dollar",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-opens-marginally-higher-against-us-dollar-21",
-      "published_date": "2026-11-04T00:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Sepang Lightning Strike: Three Victims Were Close, Often Spent Time Together",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632074",
+      "published_date": "2026-11-09T21:16:34.329852+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COP31: Malaysia cadang 20% biaya iklim bandar disalur terus kepada komuniti",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/cop31-malaysia-cadang-20-biaya-iklim-bandar-disalur-terus-kepada-komuniti",
+      "published_date": "2026-11-09T13:46:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "M’sia must step up vigilance against state-linked hackers, says MCCA",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/m-sia-must-step-up-vigilance-against-state-linked-hackers-says-mcca",
+      "published_date": "2026-11-09T11:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia perlu tingkat waspada ancaman penggodam profesional, kata persatuan",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/malaysia-perlu-tingkat-waspada-ancaman-penggodam-profesional-kata-persatuan",
+      "published_date": "2026-11-09T10:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A friendship M Chandran started, football has kept alive",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/09/a-friendship-m-chandran-started-football-has-kept-alive",
+      "published_date": "2026-11-09T09:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysian on holiday in Batam arrested for robbery, hurting cop",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/malaysian-on-holiday-in-batam-arrested-for-robbery-hurting-cop",
+      "published_date": "2026-11-09T08:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rakyat Malaysia ditahan di Batam kerana merompak, cedera anggota polis",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/rakyat-malaysia-ditahan-di-batam-kerana-merompak-cedera-anggota-polis",
+      "published_date": "2026-11-09T08:36:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traffic slow on major highways as city folk return after festive break",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/traffic-slow-on-major-highways-as-city-folk-return-after-festive-break",
+      "published_date": "2026-11-09T08:24:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : 2014 Flood Experience Key Reference For Kelantan JBPM's Disaster Preparedness",
       "source": "BERNAMA",
@@ -328,62 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/suspect-in-rm5mil-syabu-haul-was-on-his-way-to-sabah-say-police",
       "published_date": "2026-11-08T15:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudah 7 tahun berlalu, mana bekalan elektrik kami, Ahli Parlimen soal Putrajaya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/08/sudah-7-tahun-berlalu-mana-bekalan-elektrik-kami-ahli-parlimen-soal-putrajaya",
-      "published_date": "2026-11-08T15:31:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Institut logistik gesa kajian komprehensif mengenai KKIA",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/08/institut-logistik-gesa-kajian-komprehensif-mengenai-kkia",
-      "published_date": "2026-11-08T12:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia sets example in balancing 5G geopolitical interests, says Fahmi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/malaysia-sets-example-in-balancing-5g-geopolitical-interests-says-fahmi",
-      "published_date": "2026-11-08T11:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alert level continuous rain expected in 4 states until Wednesday",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/alert-level-continuous-rain-expected-in-4-states-until-wednesday",
-      "published_date": "2026-11-08T09:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Ministers, Menteris Besar Convey Deepavali Wishes Of Peace And Prosperity",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631516",
-      "published_date": "2026-11-08T02:01:57.903805+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : M’sia’s International Safety Image Key To Tourist Confidence - Tiong",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631544",
-      "published_date": "2026-11-08T02:01:57.903258+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Budget 2027: RM1,000 Aid A Relief For Sabah Taxi Drivers Facing Falling Earnings",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631549",
-      "published_date": "2026-11-08T02:01:57.901192+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politik semakin polytropos, semeja di Putrajaya, bertembung di peti undi",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/11/08/politik-semakin-polytropos-semeja-di-putrajaya-bertembung-di-peti-undi",
-      "published_date": "2026-11-07T23:00:00+00:00",
       "category": "Local Events"
     }
   ]
