@@ -47,6 +47,13 @@
   ],
   "Energy": [
     {
+      "title": "Business : Chery’s LEPAS L6 EV Completes 700km Drive With Global Ambassadors",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632236",
+      "published_date": "2026-11-10T04:28:51.995345+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "General : ITU PP-26: Malaysia Developing National Plan For Post-quantum Cryptography - Fahmi",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2632062",
@@ -97,6 +104,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Bursa opens lower despite positive sentiment on Wall Street",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/10/bursa-opens-lower-despite-positive-sentiment-on-wall-street",
+      "published_date": "2026-11-10T01:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens marginally higher amid cautious market sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/10/ringgit-opens-marginally-higher-amid-cautious-market-sentiment",
+      "published_date": "2026-11-10T00:36:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "General : ITU PP-26: Malaysia Urges Global Shift Towards Connectivity Beyond Populated Areas - Fahmi",
       "source": "BERNAMA",
@@ -222,23 +243,30 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/lgmpc-rendered-dormant-over-performance-changes-to-business-model-says-minister",
       "published_date": "2026-11-04T12:45:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Google set to invest RM61bil in Malaysia over 2027-28",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/google-set-to-invest-rm61bil-in-malaysia-over-2027-28",
-      "published_date": "2026-11-04T12:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit closes higher ahead of BNM’s OPR decision",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/04/ringgit-closes-higher-ahead-of-bnm-s-opr-decision",
-      "published_date": "2026-11-04T10:24:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Politics : PH Candidate Azman Vows To Leverage Putrajaya Experience To Improve Services In Paya Rumput",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632199",
+      "published_date": "2026-11-10T04:28:51.998098+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : EC, MCMC Take Measures To Protect Website Following Reported Cyber Attack",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632219",
+      "published_date": "2026-11-10T04:28:51.997507+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 422 Evacuees Remain At Relief Centres In Perak, Selangor",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632220",
+      "published_date": "2026-11-10T04:28:51.996518+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Sepang Lightning Strike: Three Victims Were Close, Often Spent Time Together",
       "source": "BERNAMA",
@@ -356,27 +384,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631779",
       "published_date": "2026-11-08T16:55:14.302352+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : U-17 Asian Cup Qualifiers: Malaysia Lose 2-0 To Palestine",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631780",
-      "published_date": "2026-11-08T16:55:14.299883+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/indonesia-called-me-a-spy-says-malaysian-haze-film-maker",
-      "published_date": "2026-11-08T16:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in RM5mil meth haul was on his way to Sabah, say police",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/suspect-in-rm5mil-syabu-haul-was-on-his-way-to-sabah-say-police",
-      "published_date": "2026-11-08T15:35:00+00:00",
       "category": "Local Events"
     }
   ]
