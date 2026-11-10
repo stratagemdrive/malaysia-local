@@ -24,6 +24,13 @@
   ],
   "Military": [
     {
+      "title": "General : Safety Exercise To Be Held At KLIA On Thursday - MKN",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632549",
+      "published_date": "2026-11-10T18:27:59.544187+00:00",
+      "category": "Military"
+    },
+    {
       "title": "General : M’sia Diaspora In Qatar Conducts Evacuation Drills For War Threats",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631545",
@@ -46,6 +53,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "General : Malaysia Proposes Repurposing Retired EV Batteries To Provide Electricity To Rural Communities",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632554",
+      "published_date": "2026-11-10T18:27:59.543800+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Business : Chery’s LEPAS L6 EV Completes 700km Drive With Global Ambassadors",
       "source": "BERNAMA",
@@ -247,6 +261,48 @@
   ],
   "Local Events": [
     {
+      "title": "General : Najib Arrives At Langgak Duta Residence To Serve House Arrest",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632547",
+      "published_date": "2026-11-10T18:27:59.544385+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : FRIM Offers Ecotourism Activities Combining Environmental Education, Recreation",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632560",
+      "published_date": "2026-11-10T18:27:59.541194+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chet Singh, pioneer of Penang’s electronics boom, dies at 90",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/chet-singh-pioneer-of-penang-s-electronics-boom-dies-at-90",
+      "published_date": "2026-11-10T15:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIA chief says Qatar, Abu Dhabi GPs to go ahead",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/10/fia-chief-says-qatar-abu-dhabi-gps-to-go-ahead",
+      "published_date": "2026-11-10T14:11:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia, Qatar teroka kerjasama komunikasi satelit, teknologi selamat kuantum",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/10/malaysia-qatar-teroka-kerjasama-komunikasi-satelit-teknologi-selamat-kuantum",
+      "published_date": "2026-11-10T11:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MWC Doha: Malaysia cadang koridor digital bantu bangun semula Palestin",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/10/mwc-doha-malaysia-cadang-koridor-digital-bantu-bangun-semula-palestin",
+      "published_date": "2026-11-10T11:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Politics : PH Candidate Azman Vows To Leverage Putrajaya Experience To Improve Services In Paya Rumput",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2632199",
@@ -342,48 +398,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631818",
       "published_date": "2026-11-09T02:21:25.920690+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : ITU PP-26 Kicks Off In Doha, Fahmi To Deliver Malaysia's Policy Statement",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631827",
-      "published_date": "2026-11-09T02:21:25.918010+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia to speed up quantum migration process to safeguard national data",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/malaysia-to-speed-up-quantum-migration-process-to-safeguard-national-data",
-      "published_date": "2026-11-09T01:36:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antara dilema Melayu dan dilema Muslim dalam derma saman fitnah dan denda rasuah",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/09/antara-dilema-melayu-dan-dilema-muslim-dalam-derma-saman-fitnah-dan-denda-rasuah",
-      "published_date": "2026-11-08T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : Hakim Danish Picks Up Nine Points At Qatar GP",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631772",
-      "published_date": "2026-11-08T16:55:14.303860+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Floods Forecast In Nine Kelantan Districts Until Wednesday",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631774",
-      "published_date": "2026-11-08T16:55:14.303286+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sport : FA Cup: JDT, Kuching City To Meet In The Final",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631779",
-      "published_date": "2026-11-08T16:55:14.302352+00:00",
       "category": "Local Events"
     }
   ]
