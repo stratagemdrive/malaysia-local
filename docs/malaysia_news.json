@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "General : ITU PP-26: Fahmi To Conclude Doha Working Visit With Bilateral Engagements, Malaysia Reception",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632613",
+      "published_date": "2026-11-11T02:30:47.415331+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "World : Malaysian Embassy In Finland Celebrates Deepavali, Promotes Cultural Ties",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631493",
@@ -118,6 +125,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Bursa opens lower amid US inflation concerns",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/11/bursa-opens-lower-amid-us-inflation-concerns",
+      "published_date": "2026-11-11T01:32:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens higher against major currencies, flat vs greenback",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/11/ringgit-opens-higher-against-major-currencies-flat-vs-greenback",
+      "published_date": "2026-11-11T00:41:01+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bursa opens lower despite positive sentiment on Wall Street",
       "source": "Free Malaysia Today",
@@ -243,23 +264,37 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-opens-higher-ahead-of-expected-opr-hike",
       "published_date": "2026-11-05T00:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Understanding Sabah’s tax revenue sharing entitlement",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/05/understanding-sabah-s-tax-revenue-sharing-entitlement",
-      "published_date": "2026-11-04T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "LGMPC rendered dormant over performance, changes to business model, says minister",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/lgmpc-rendered-dormant-over-performance-changes-to-business-model-says-minister",
-      "published_date": "2026-11-04T12:45:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "World : Malaysia Must Bolster Cyber Resilience As Europe Supermarket Attacks Expose Risks – Expert",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2632620",
+      "published_date": "2026-11-11T02:30:47.412663+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amaran ribut petir di 5 negeri",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/amaran-ribut-petir-di-beberapa-negeri-di-5-negeri",
+      "published_date": "2026-11-11T00:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 2026 be prepared wave: why it feels like the end of the world",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/11/the-2026-be-prepared-wave-why-it-feels-like-the-end-of-the-world",
+      "published_date": "2026-11-11T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A journey through a tangled web of highways and byways",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/11/a-journey-through-a-tangled-web-of-highways-and-byways",
+      "published_date": "2026-11-10T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Najib Arrives At Langgak Duta Residence To Serve House Arrest",
       "source": "BERNAMA",
@@ -370,34 +405,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/rakyat-malaysia-ditahan-di-batam-kerana-merompak-cedera-anggota-polis",
       "published_date": "2026-11-09T08:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traffic slow on major highways as city folk return after festive break",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/traffic-slow-on-major-highways-as-city-folk-return-after-festive-break",
-      "published_date": "2026-11-09T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 2014 Flood Experience Key Reference For Kelantan JBPM's Disaster Preparedness",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631810",
-      "published_date": "2026-11-09T02:21:25.921827+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Ahmad Zahid's Working Visit To Turkiye Strengthens Diplomacy, Explores New Opportunities",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631813",
-      "published_date": "2026-11-09T02:21:25.921246+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Malaysia Considers Accelerating Quantum Migration To Boost Data Security - Fahmi",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631818",
-      "published_date": "2026-11-09T02:21:25.920690+00:00",
       "category": "Local Events"
     }
   ]
