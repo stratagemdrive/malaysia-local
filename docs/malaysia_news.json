@@ -126,6 +126,27 @@
   ],
   "Economy": [
     {
+      "title": "Business : Govt Studies Proposal To Extend EPF I-Sayang Scheme To Non-Citizen Wives",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633035",
+      "published_date": "2026-11-11T18:21:07.250257+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World : Japan's Kagoshima Seeks To Strengthen Ties With Malaysia",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633049",
+      "published_date": "2026-11-11T18:21:07.248972+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit ends mostly higher against major and regional currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/11/ringgit-ends-mostly-higher-against-major-and-regional-currencies",
+      "published_date": "2026-11-11T10:36:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Bursa opens lower amid US inflation concerns",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/11/bursa-opens-lower-amid-us-inflation-concerns",
@@ -243,30 +264,51 @@
       "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-extends-gains-as-bnm-holds-opr-at-2-75",
       "published_date": "2026-11-05T10:27:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Minimum Wage, Targeted Assistance Part Of Broader Economic Balancing Act – Amir Hamzah",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630284",
-      "published_date": "2026-11-05T03:06:54.935063+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bursa opens firmer on improved global sentiment",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/bursa-opens-firmer-on-improved-global-sentiment",
-      "published_date": "2026-11-05T01:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens higher ahead of expected OPR hike",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-opens-higher-ahead-of-expected-opr-hike",
-      "published_date": "2026-11-05T00:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Bernama Wins Three Awards At PERKESO Media Awards 2026",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633036",
+      "published_date": "2026-11-11T18:21:07.249941+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Loke’s Resignation A Big Loss To Govt – Ramanan",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633043",
+      "published_date": "2026-11-11T18:21:07.249479+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : PM Anwar Condemns Attack On Policeman",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633053",
+      "published_date": "2026-11-11T18:21:07.248581+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : I-Nation 2026: MRANTI Coordinates Mission-based Action In Five Priority Areas",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633055",
+      "published_date": "2026-11-11T18:21:07.245948+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia terima sokongan banyak negara untuk kekal dalam Majlis ITU",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/malaysia-terima-sokongan-banyak-negara-untuk-kekal-dalam-majlis-itu",
+      "published_date": "2026-11-11T12:27:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nanta sahkan tak bertanding PRN Sarawak",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/nanta-sahkan-tak-bertanding-prn-sarawak",
+      "published_date": "2026-11-11T11:32:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "World : Malaysia Must Bolster Cyber Resilience As Europe Supermarket Attacks Expose Risks – Expert",
       "source": "BERNAMA",
@@ -363,48 +405,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2632074",
       "published_date": "2026-11-09T21:16:34.329852+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "COP31: Malaysia cadang 20% biaya iklim bandar disalur terus kepada komuniti",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/cop31-malaysia-cadang-20-biaya-iklim-bandar-disalur-terus-kepada-komuniti",
-      "published_date": "2026-11-09T13:46:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "M’sia must step up vigilance against state-linked hackers, says MCCA",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/m-sia-must-step-up-vigilance-against-state-linked-hackers-says-mcca",
-      "published_date": "2026-11-09T11:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia perlu tingkat waspada ancaman penggodam profesional, kata persatuan",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/malaysia-perlu-tingkat-waspada-ancaman-penggodam-profesional-kata-persatuan",
-      "published_date": "2026-11-09T10:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A friendship M Chandran started, football has kept alive",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/09/a-friendship-m-chandran-started-football-has-kept-alive",
-      "published_date": "2026-11-09T09:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysian on holiday in Batam arrested for robbery, hurting cop",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/09/malaysian-on-holiday-in-batam-arrested-for-robbery-hurting-cop",
-      "published_date": "2026-11-09T08:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rakyat Malaysia ditahan di Batam kerana merompak, cedera anggota polis",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/rakyat-malaysia-ditahan-di-batam-kerana-merompak-cedera-anggota-polis",
-      "published_date": "2026-11-09T08:36:10+00:00",
       "category": "Local Events"
     }
   ]
