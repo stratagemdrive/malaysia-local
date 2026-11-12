@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "General : Registration of Myanmar Refugees: Second Phase Expected To Start Soon - Ahmad Zahid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633580",
+      "published_date": "2026-11-12T18:40:38.402799+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "General : Malaysia Only ASEAN Country At Highest Tier For Post-quantum Cryptography Readiness – Ahmad Zahid",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633592",
+      "published_date": "2026-11-12T18:40:38.401628+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ringgit ends higher against major, Asean currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/12/ringgit-ends-higher-against-major-asean-currencies",
+      "published_date": "2026-11-12T10:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : ITU PP-26: Fahmi To Conclude Doha Working Visit With Bilateral Engagements, Malaysia Reception",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2632613",
@@ -104,6 +125,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Business : Malaysia Open To Formal Request To Probe Speedmatrix – Johari",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633589",
+      "published_date": "2026-11-12T18:40:38.401751+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa ends lower amid broad-based selling",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/12/bursa-ends-lower-amid-broad-based-selling-3",
+      "published_date": "2026-11-12T09:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : ECRL Brings New Dimension To Rail Transport With Lots Of Benefit To East Coast Region",
       "source": "BERNAMA",
@@ -229,23 +264,72 @@
       "url": "http://www.bernama.com/en/news.php?id=2631181",
       "published_date": "2026-11-07T02:32:02.505331+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Ringgit slips against US dollar amid global risk-off sentiment",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/ringgit-slips-against-us-dollar-amid-global-risk-off-sentiment",
-      "published_date": "2026-11-06T10:25:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : BNM Likely To Raise OPR By 25 Basis Points In 2027 - Analysts",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630728",
-      "published_date": "2026-11-06T03:07:11.810726+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Queen Briefed On Preparations For COP31 In Turkiye",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633578",
+      "published_date": "2026-11-12T18:40:38.402873+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : M’sia Enjoying Greater International Respect, Positive Global Image - PM Anwar",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633586",
+      "published_date": "2026-11-12T18:40:38.402384+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : 7,792 Personnel, 226 Rescue Boats On Standby For Floods In Kelantan â€“ Ahmad ZahidÂ",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633587",
+      "published_date": "2026-11-12T18:40:38.401989+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Cyber Threats Also Target Public Thinking, Perceptions - Expert",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633598",
+      "published_date": "2026-11-12T18:40:38.399520+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Probe photo, video of cat being dangled out of truck, urges NGO",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/probe-photo-video-of-cat-being-dangled-out-of-truck-urges-ngo",
+      "published_date": "2026-11-12T15:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bukit Aman team going to Pakistan over 130 detained M’sians",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/bukit-aman-team-going-to-pakistan-over-130-detained-m-sians",
+      "published_date": "2026-11-12T11:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 Pakistanis held over robbery, assault of cop in Penang",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/4-pakistanis-held-over-robbery-assault-of-cop-in-penang",
+      "published_date": "2026-11-12T11:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surgery to reattach cop’s hand chopped off in attack successful",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/surgery-to-reattach-cop-s-hand-chopped-off-in-attack-successful",
+      "published_date": "2026-11-12T09:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why we need clear provisions for house arrest",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/12/why-we-need-clear-provisions-for-house-arrest",
+      "published_date": "2026-11-12T09:30:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : 11 Malaysian Creators To Vie For Regional TikTok Awards In Bali",
       "source": "BERNAMA",
@@ -321,69 +405,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/malaysia-terima-sokongan-banyak-negara-untuk-kekal-dalam-majlis-itu",
       "published_date": "2026-11-11T12:27:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nanta sahkan tak bertanding PRN Sarawak",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/nanta-sahkan-tak-bertanding-prn-sarawak",
-      "published_date": "2026-11-11T11:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World : Malaysia Must Bolster Cyber Resilience As Europe Supermarket Attacks Expose Risks – Expert",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632620",
-      "published_date": "2026-11-11T02:30:47.412663+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amaran ribut petir di 5 negeri",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/amaran-ribut-petir-di-beberapa-negeri-di-5-negeri",
-      "published_date": "2026-11-11T00:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 2026 be prepared wave: why it feels like the end of the world",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/11/the-2026-be-prepared-wave-why-it-feels-like-the-end-of-the-world",
-      "published_date": "2026-11-11T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A journey through a tangled web of highways and byways",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/11/a-journey-through-a-tangled-web-of-highways-and-byways",
-      "published_date": "2026-11-10T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Najib Arrives At Langgak Duta Residence To Serve House Arrest",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632547",
-      "published_date": "2026-11-10T18:27:59.544385+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : FRIM Offers Ecotourism Activities Combining Environmental Education, Recreation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632560",
-      "published_date": "2026-11-10T18:27:59.541194+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chet Singh, pioneer of Penang’s electronics boom, dies at 90",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/chet-singh-pioneer-of-penang-s-electronics-boom-dies-at-90",
-      "published_date": "2026-11-10T15:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIA chief says Qatar, Abu Dhabi GPs to go ahead",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/10/fia-chief-says-qatar-abu-dhabi-gps-to-go-ahead",
-      "published_date": "2026-11-10T14:11:51+00:00",
       "category": "Local Events"
     }
   ]
