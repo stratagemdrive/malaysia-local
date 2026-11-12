@@ -50,16 +50,16 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/ties-with-lebanon-to-continue-after-peacekeepers-return-says-zahid",
       "published_date": "2026-11-07T13:36:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "General : Govt Weighs Three Missile System Options Following NSM Export Permit Cancellation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630219",
-      "published_date": "2026-11-04T18:26:06.142927+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Business : EECA 2024 Crucial Amid Industrial Expansion, Rising Energy Demand - ST",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633108",
+      "published_date": "2026-11-12T03:35:30.497330+00:00",
+      "category": "Energy"
+    },
     {
       "title": "General : Malaysia Proposes Repurposing Retired EV Batteries To Provide Electricity To Rural Communities",
       "source": "BERNAMA",
@@ -101,30 +101,44 @@
       "url": "http://www.bernama.com/en/news.php?id=2631167",
       "published_date": "2026-11-06T17:48:02.964827+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "General : From Racetrack To Mangroves: Blue Carbon Collective Takes Root In Johor",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630224",
-      "published_date": "2026-11-04T18:26:06.141369+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Business : TNB Recognised As Brand of The Year At The World Branding Awards 2026–2027",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630227",
-      "published_date": "2026-11-04T18:26:06.139525+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "General : Melaka Visit Strictly On Official Business To Officiate Energy Event - Fadillah",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630230",
-      "published_date": "2026-11-04T18:26:06.138157+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Business : ECRL Brings New Dimension To Rail Transport With Lots Of Benefit To East Coast Region",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633111",
+      "published_date": "2026-11-12T03:35:30.496753+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : Minimum Wage Hike Should Push Businesses To Improve Productivity",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633127",
+      "published_date": "2026-11-12T03:35:30.495977+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business : CAAM Registered As HRD Corp Training Provider, Expanding Access To Aviation Training",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633133",
+      "published_date": "2026-11-12T03:35:30.495554+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa slips at open despite Wall Street gains",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/12/bursa-slips-at-open-despite-wall-street-gains",
+      "published_date": "2026-11-12T01:32:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit opens almost flat amid cautious sentiment",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/12/ringgit-opens-almost-flat-amid-cautious-sentiment",
+      "published_date": "2026-11-12T00:35:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : Govt Studies Proposal To Extend EPF I-Sayang Scheme To Non-Citizen Wives",
       "source": "BERNAMA",
@@ -229,44 +243,51 @@
       "url": "http://www.bernama.com/en/news.php?id=2630728",
       "published_date": "2026-11-06T03:07:11.810726+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Wall Street sell-off drags Bursa lower at opening",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/wall-street-sell-off-drags-bursa-lower-at-opening",
-      "published_date": "2026-11-06T01:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit opens lower amid mixed US economic, market signals",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/06/ringgit-opens-lower-amid-mixed-us-economic-market-signals",
-      "published_date": "2026-11-06T00:32:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : Govt Grants Flexibility In REE Export Moratorium To Attract Investors",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630700",
-      "published_date": "2026-11-05T18:30:13.319906+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business : MITI: MEUFTA Intellectual Property Chapter Still Under Negotiation",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2630701",
-      "published_date": "2026-11-05T18:30:13.318550+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ringgit extends gains as BNM holds OPR at 2.75%",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/05/ringgit-extends-gains-as-bnm-holds-opr-at-2-75",
-      "published_date": "2026-11-05T10:27:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : 11 Malaysian Creators To Vie For Regional TikTok Awards In Bali",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633134",
+      "published_date": "2026-11-12T03:35:30.493135+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MCTC gesa jualan vape dihentikan berperingkat",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/mctc-gesa-jualan-vape-dihentikan-berperingkat",
+      "published_date": "2026-11-12T02:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAS willing to accommodate Umno for Putrajaya return, say analysts",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/pas-willing-to-accommodate-umno-for-putrajaya-return-say-analysts",
+      "published_date": "2026-11-12T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAS sanggup tolak ansur dengan Umno demi kembali ke Putrajaya",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/pas-sanggup-tolak-ansur-dengan-umno-demi-kembali-ke-putrajaya",
+      "published_date": "2026-11-12T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia belanja RM70 juta untuk F1 Bahrain di Sepang, kata menteri",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/malaysia-belanja-rm70-juta-untuk-f1-bahrain-di-sepang-kata-menteri",
+      "published_date": "2026-11-12T00:07:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia spent RM70mil on Bahrain F1 race, says ministry",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/malaysia-spent-rm70mil-on-bahrain-f1-race-says-ministry",
+      "published_date": "2026-11-11T23:54:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Bernama Wins Three Awards At PERKESO Media Awards 2026",
       "source": "BERNAMA",
@@ -363,48 +384,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/10/fia-chief-says-qatar-abu-dhabi-gps-to-go-ahead",
       "published_date": "2026-11-10T14:11:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia, Qatar teroka kerjasama komunikasi satelit, teknologi selamat kuantum",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/10/malaysia-qatar-teroka-kerjasama-komunikasi-satelit-teknologi-selamat-kuantum",
-      "published_date": "2026-11-10T11:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MWC Doha: Malaysia cadang koridor digital bantu bangun semula Palestin",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/10/mwc-doha-malaysia-cadang-koridor-digital-bantu-bangun-semula-palestin",
-      "published_date": "2026-11-10T11:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politics : PH Candidate Azman Vows To Leverage Putrajaya Experience To Improve Services In Paya Rumput",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632199",
-      "published_date": "2026-11-10T04:28:51.998098+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : EC, MCMC Take Measures To Protect Website Following Reported Cyber Attack",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632219",
-      "published_date": "2026-11-10T04:28:51.997507+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 422 Evacuees Remain At Relief Centres In Perak, Selangor",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632220",
-      "published_date": "2026-11-10T04:28:51.996518+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Sepang Lightning Strike: Three Victims Were Close, Often Spent Time Together",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632074",
-      "published_date": "2026-11-09T21:16:34.329852+00:00",
       "category": "Local Events"
     }
   ]
