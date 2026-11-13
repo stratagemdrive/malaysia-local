@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Anwar ranked 13th in 2027 list of World’s 500 Most Influential Muslims",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/anwar-ranked-13th-in-2027-list-of-world-s-500-most-influential-muslims",
+      "published_date": "2026-11-13T00:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "General : Registration of Myanmar Refugees: Second Phase Expected To Start Soon - Ahmad Zahid",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2633580",
@@ -126,6 +133,34 @@
   ],
   "Economy": [
     {
+      "title": "Business : JCorp’s ‘Membina Dan Membela’ Mandate Shapes Growth Strategy",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633631",
+      "published_date": "2026-11-13T03:07:24.670921+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bursa Malaysia slips as Nvidia worries rattle Wall Street",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/13/bursa-malaysia-slips-as-nvidia-worries-rattle-wall-street",
+      "published_date": "2026-11-13T01:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ringgit rises against major currencies, slips vs US dollar",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/13/ringgit-rises-against-major-currencies-slips-vs-us-dollar",
+      "published_date": "2026-11-13T00:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Malaysia open to formal request to probe Speedmatrix",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/malaysia-open-to-formal-request-to-probe-speedmatrix",
+      "published_date": "2026-11-12T23:59:11+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Business : Malaysia Open To Formal Request To Probe Speedmatrix – Johari",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2633589",
@@ -236,37 +271,44 @@
       "url": "http://www.bernama.com/en/news.php?id=2632075",
       "published_date": "2026-11-09T21:16:34.329526+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Business : Softbank-led Consortium’s AI Investment Reflects Global Confidence In Malaysia -- PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632079",
-      "published_date": "2026-11-09T21:16:34.327498+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World : MATRADE Leads 29 Malaysian Companies In Tapping China Market At CIIE 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631777",
-      "published_date": "2026-11-08T16:55:14.302861+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Rationalisation Of Subsidy Must Not Compromise Livelihoods Of Poor - Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631172",
-      "published_date": "2026-11-07T02:32:02.508052+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "General : Bank Rakyat Website Experiences Temporary Disruption",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631181",
-      "published_date": "2026-11-07T02:32:02.505331+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "General : Number Of Flood Victims In Selangor Increases",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2633649",
+      "published_date": "2026-11-13T03:07:24.669096+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perikatan Nasional is still far from a credible government-in-waiting",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/13/perikatan-nasional-is-still-far-from-a-credible-government-in-waiting",
+      "published_date": "2026-11-13T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Our national heritage list has grown – here’s what’s been added",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/13/our-national-heritage-list-has-grown-heres-whats-been-added",
+      "published_date": "2026-11-13T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Astro cameraman awarded over RM474,000 for unfair dismissal",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/astro-cameraman-awarded-over-rm474-000-for-unfair-dismissal",
+      "published_date": "2026-11-13T00:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why the world’s most fearless investor wants to bet RM203 billion on Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/13/why-the-world-s-most-fearless-investor-wants-to-bet-rm203-billion-on-malaysia",
+      "published_date": "2026-11-13T00:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Queen Briefed On Preparations For COP31 In Turkiye",
       "source": "BERNAMA",
@@ -370,41 +412,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/malaysia-spent-rm70mil-on-bahrain-f1-race-says-ministry",
       "published_date": "2026-11-11T23:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Bernama Wins Three Awards At PERKESO Media Awards 2026",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633036",
-      "published_date": "2026-11-11T18:21:07.249941+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Loke’s Resignation A Big Loss To Govt – Ramanan",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633043",
-      "published_date": "2026-11-11T18:21:07.249479+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : PM Anwar Condemns Attack On Policeman",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633053",
-      "published_date": "2026-11-11T18:21:07.248581+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : I-Nation 2026: MRANTI Coordinates Mission-based Action In Five Priority Areas",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633055",
-      "published_date": "2026-11-11T18:21:07.245948+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia terima sokongan banyak negara untuk kekal dalam Majlis ITU",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/11/malaysia-terima-sokongan-banyak-negara-untuk-kekal-dalam-majlis-itu",
-      "published_date": "2026-11-11T12:27:15+00:00",
       "category": "Local Events"
     }
   ]
