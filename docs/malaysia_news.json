@@ -48,13 +48,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2631175",
       "published_date": "2026-11-07T02:32:02.508006+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "World : DPM Zahid Pays Courtesy Call On Erdogan, Strengthens Bilateral Relations, Trade",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631168",
-      "published_date": "2026-11-06T17:48:02.964783+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -122,16 +115,16 @@
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/sarawak-plans-floating-solar-power-unit-to-power-kuching",
       "published_date": "2026-11-07T13:58:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "General : Plantation Companies-Oil Palm Smallholders Collaboration To Be Raised In Cabinet Next Week -- PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631167",
-      "published_date": "2026-11-06T17:48:02.964827+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ringgit ends mixed against major currencies",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/13/ringgit-ends-mostly-higher-against-major-currencies-eases-vs-us-dollar",
+      "published_date": "2026-11-13T10:32:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : JCorp’s ‘Membina Dan Membela’ Mandate Shapes Growth Strategy",
       "source": "BERNAMA",
@@ -264,16 +257,30 @@
       "url": "http://www.bernama.com/en/news.php?id=2632061",
       "published_date": "2026-11-09T21:16:34.330784+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "General : Arthur: 40 Pagalungan Villages Receive Fruit Tree Saplings To Boost Agricultural Economy",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2632075",
-      "published_date": "2026-11-09T21:16:34.329526+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Sarawak DAP looks to field Gen Z candidate in state polls",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/sarawak-dap-looks-to-field-gen-z-candidate-in-state-polls",
+      "published_date": "2026-11-13T15:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tambang khas untuk pengundi boleh ditafsir sebagai rasuah, kata Abang Johari",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/13/tambang-khas-untuk-pengundi-boleh-ditafsir-sebagai-rasuah-kata-abang-johari",
+      "published_date": "2026-11-13T14:12:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Special voter airfares could be seen as bribery, says Abang Johari",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/special-voter-airfares-could-be-seen-as-bribery-says-abang-johari",
+      "published_date": "2026-11-13T12:39:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "General : Number Of Flood Victims In Selangor Increases",
       "source": "BERNAMA",
@@ -391,27 +398,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/pas-willing-to-accommodate-umno-for-putrajaya-return-say-analysts",
       "published_date": "2026-11-12T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAS sanggup tolak ansur dengan Umno demi kembali ke Putrajaya",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/pas-sanggup-tolak-ansur-dengan-umno-demi-kembali-ke-putrajaya",
-      "published_date": "2026-11-12T01:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia belanja RM70 juta untuk F1 Bahrain di Sepang, kata menteri",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/malaysia-belanja-rm70-juta-untuk-f1-bahrain-di-sepang-kata-menteri",
-      "published_date": "2026-11-12T00:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia spent RM70mil on Bahrain F1 race, says ministry",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/malaysia-spent-rm70mil-on-bahrain-f1-race-says-ministry",
-      "published_date": "2026-11-11T23:54:00+00:00",
       "category": "Local Events"
     }
   ]
