@@ -41,13 +41,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2631493",
       "published_date": "2026-11-07T16:43:58.166882+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "World : Malaysia-Turkiye Defence Cooperation Goes Beyond Equipment Procurement - Ahmad Zahid",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631175",
-      "published_date": "2026-11-07T02:32:02.508006+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -261,6 +254,41 @@
   ],
   "Local Events": [
     {
+      "title": "General : UniMAP Continues To Be MNC, Recording Graduate Employment Rate Of 99.3 Pct",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634123",
+      "published_date": "2026-11-14T02:54:09.536713+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Flood Evacuees Increase In Selangor, Drop In Perak",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634126",
+      "published_date": "2026-11-14T02:54:09.534391+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "These 5 wild discoveries show nature still has surprises",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/14/these-5-wild-discoveries-show-nature-still-has-surprises",
+      "published_date": "2026-11-14T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Malay tsunami’ in Melaka polls a foregone conclusion?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/malay-tsunami-in-melaka-polls-a-foregone-conclusion",
+      "published_date": "2026-11-13T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Tsunami Melayu’ hampir pasti landa Melaka?",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/14/tsunami-melayu-hampir-pasti-landa-melaka",
+      "published_date": "2026-11-13T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sarawak DAP looks to field Gen Z candidate in state polls",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/sarawak-dap-looks-to-field-gen-z-candidate-in-state-polls",
@@ -363,41 +391,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/4-pakistanis-held-over-robbery-assault-of-cop-in-penang",
       "published_date": "2026-11-12T11:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surgery to reattach cop’s hand chopped off in attack successful",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/surgery-to-reattach-cop-s-hand-chopped-off-in-attack-successful",
-      "published_date": "2026-11-12T09:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why we need clear provisions for house arrest",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/12/why-we-need-clear-provisions-for-house-arrest",
-      "published_date": "2026-11-12T09:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 11 Malaysian Creators To Vie For Regional TikTok Awards In Bali",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633134",
-      "published_date": "2026-11-12T03:35:30.493135+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MCTC gesa jualan vape dihentikan berperingkat",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/12/mctc-gesa-jualan-vape-dihentikan-berperingkat",
-      "published_date": "2026-11-12T02:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAS willing to accommodate Umno for Putrajaya return, say analysts",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/pas-willing-to-accommodate-umno-for-putrajaya-return-say-analysts",
-      "published_date": "2026-11-12T01:00:00+00:00",
       "category": "Local Events"
     }
   ]
