@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Tok Mat calls for implementation of Asean cybersecurity strategy",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/tok-mat-calls-for-implementation-of-asean-cybersecurity-strategy",
+      "published_date": "2026-11-14T11:59:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Anwar ranked 13th in 2027 list of World’s 500 Most Influential Muslims",
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/13/anwar-ranked-13th-in-2027-list-of-world-s-500-most-influential-muslims",
@@ -34,13 +41,6 @@
       "url": "http://www.bernama.com/en/news.php?id=2632613",
       "published_date": "2026-11-11T02:30:47.415331+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "World : Malaysian Embassy In Finland Celebrates Deepavali, Promotes Cultural Ties",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2631493",
-      "published_date": "2026-11-07T16:43:58.166882+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -56,13 +56,6 @@
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2631545",
       "published_date": "2026-11-08T02:01:57.903115+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ties with Lebanon to continue after peacekeepers return, says Zahid",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/ties-with-lebanon-to-continue-after-peacekeepers-return-says-zahid",
-      "published_date": "2026-11-07T13:36:00+00:00",
       "category": "Military"
     }
   ],
@@ -100,13 +93,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/08/seven-years-on-where-s-our-electricity-mp-asks-putrajaya",
       "published_date": "2026-11-08T14:08:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sarawak plans to install floating solar power unit to power Kuching",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/sarawak-plans-floating-solar-power-unit-to-power-kuching",
-      "published_date": "2026-11-07T13:58:00+00:00",
       "category": "Energy"
     }
   ],
@@ -254,6 +240,55 @@
   ],
   "Local Events": [
     {
+      "title": "Politics : Melaka State Election: PH Must Reassess Effectiveness Of Delivery System, Communication Machinery - Analysts",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634479",
+      "published_date": "2026-11-14T16:50:29.132921+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Anwar Congratulates BN On Melaka Election Victory",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634484",
+      "published_date": "2026-11-14T16:50:29.132663+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sport : Under-17 Asian Cup Qualifiers: Fahim Akmal's Late Goal Hands Malaysia Win Over S'pore",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634490",
+      "published_date": "2026-11-14T16:50:29.132344+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World : Macron's Malaysia Visit To Focus On Diversifying Rare Earth Supplies",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634495",
+      "published_date": "2026-11-14T16:50:29.131937+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General : Kerk Youngest Winner In Melaka Polls, Ab Rauf Oldest",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634496",
+      "published_date": "2026-11-14T16:50:29.131658+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Politics : Melaka Polls: 26 Candidates Lose Deposits, Most From Bersama",
+      "source": "BERNAMA",
+      "url": "http://www.bernama.com/en/news.php?id=2634499",
+      "published_date": "2026-11-14T16:50:29.130327+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DAP bangkit di Melaka, pertahan 4 kerusi",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/14/dap-bangkit-di-melaka-pertahan-4-kerusi",
+      "published_date": "2026-11-14T13:39:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General : UniMAP Continues To Be MNC, Recording Graduate Employment Rate Of 99.3 Pct",
       "source": "BERNAMA",
       "url": "http://www.bernama.com/en/news.php?id=2634123",
@@ -342,55 +377,6 @@
       "source": "Free Malaysia Today",
       "url": "https://www.freemalaysiatoday.com/category/opinion/2026/11/13/why-the-world-s-most-fearless-investor-wants-to-bet-rm203-billion-on-malaysia",
       "published_date": "2026-11-13T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Queen Briefed On Preparations For COP31 In Turkiye",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633578",
-      "published_date": "2026-11-12T18:40:38.402873+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : M’sia Enjoying Greater International Respect, Positive Global Image - PM Anwar",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633586",
-      "published_date": "2026-11-12T18:40:38.402384+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : 7,792 Personnel, 226 Rescue Boats On Standby For Floods In Kelantan â€“ Ahmad ZahidÂ",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633587",
-      "published_date": "2026-11-12T18:40:38.401989+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General : Cyber Threats Also Target Public Thinking, Perceptions - Expert",
-      "source": "BERNAMA",
-      "url": "http://www.bernama.com/en/news.php?id=2633598",
-      "published_date": "2026-11-12T18:40:38.399520+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe photo, video of cat being dangled out of truck, urges NGO",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/probe-photo-video-of-cat-being-dangled-out-of-truck-urges-ngo",
-      "published_date": "2026-11-12T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bukit Aman team going to Pakistan over 130 detained M’sians",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/bukit-aman-team-going-to-pakistan-over-130-detained-m-sians",
-      "published_date": "2026-11-12T11:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 Pakistanis held over robbery, assault of cop in Penang",
-      "source": "Free Malaysia Today",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/4-pakistanis-held-over-robbery-assault-of-cop-in-penang",
-      "published_date": "2026-11-12T11:15:00+00:00",
       "category": "Local Events"
     }
   ]
